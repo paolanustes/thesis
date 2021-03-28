@@ -1,0 +1,1358 @@
+GRAND,NAME,RIVER,STATE,YEAR,HEIGHT,LEN,AREA_SKM,CAP_MCM,DIS_AVG_LS,MAIN_USE,QUALITY,LONG,LAT
+7317,Tims Ford,Elk River,Tennessee,1970,53,482,38.04,750,27094,Flood control,2: Good,-86.276254,35.197234
+7318,Cordell Hull Dam,Cumberland River,Tennessee,1973,28,398,42,383.5,343541,Hydroelectricity,2: Good,-85.944131,36.29222
+7319,Merwin,Lewis River,Washington,1931,95,381,14.61,520.5,93726,Hydroelectricity,2: Good,-122.555376,45.957492
+7313,Canyon Ferry Dam,Missouri River,Montana,1953,69,305,138.44,2529.9,167309,Hydroelectricity,2: Good,-111.727374,46.648333
+7314,Moore Dam,Connecticut River,New Hampshire,1957,54,890,12.69,276,94416,Hydroelectricity,2: Good,-71.872877,44.334693
+7315,Atoka,North Boggy Creek,Oklahoma,1957,24,122,22.97,277.5,4283,Water supply,2: Good,-96.084765,34.447148
+7316,Sardis Lake,Jackfork Creek,Oklahoma,1982,25,4309,58.52,907.6,7228,Flood control,2: Good,-95.350711,34.629812
+7309,Salmon Falls Dam,Salmon Falls Creek,Idaho,1911,66,137,12.16,284.5,16442,Water supply,2: Good,-114.732811,42.210407
+7306,Wilson,Tennessee River,Alabama,1924,42,1384,60.95,789.7,1860049,Hydroelectricity,2: Good,-87.623433,34.79871
+7307,New Waddell Dam,Agua Fria,Arizona,1992,134,1433,35.33,1311.4,6606,Water supply,2: Good,-112.273803,33.849176
+7308,Richard B. Russell Dam,Savannah River,Georgia,1986,59,1379,102.25,1835.6,146796,Hydroelectricity,2: Good,-82.600552,34.025484
+7214,Ridges Basin,Animas,Colorado,2007,83,-99,5.6,148,58,Water supply,2: Good,-107.896538,37.219426
+2257,Toa Vaca Dam,Toa Vaca,Puerto Rico,1972,66,530,2.1,67.7,858,Irrigation,2: Good,-66.485417,18.102083
+2258,Carite,La Plata,Puerto Rico,1913,32,152,0.74,18.5,300,Hydroelectricity,2: Good,-66.104624,18.075557
+2259,Patillas,Rio Grande de Patillas,Puerto Rico,1914,45,325,0.92,17,1244,Irrigation,2: Good,-66.021796,18.020136
+2254,La Plata,La Plata,Puerto Rico,1974,40,236,0.99,34.5,5966,Water supply,2: Good,-66.234846,18.342362
+2255,Dos Bocas,Rio Grande de Arecibo,Puerto Rico,1942,57,401,1.16,48.6,10077,Hydroelectricity,2: Good,-66.666237,18.333732
+2256,Caonillas,Caonillas,Puerto Rico,1948,73,248,1.91,67.8,2622,Hydroelectricity,2: Good,-66.655099,18.275659
+2252,Guajataca,Guajataca,Puerto Rico,1928,37,277,2.64,57.5,1853,Irrigation,2: Good,-66.922033,18.393849
+2241,Manasquan Reservoir Dam,Timber Swamp Brook,New Jersey,1990,16,1475,2.76,22.8,191,Water supply,2: Good,-74.195024,40.181263
+2205,Rio,Mongaup River,New York,1927,31,453,1.5,24.1,10652,Hydroelectricity,2: Good,-74.756506,41.480902
+2206,Boyds Corner Dam,West Branch of Croton River,New York,1872,24,204,0.68,16.4,1289,Water supply,2: Good,-73.740381,41.451592
+2207,Rocky River Main Dam,Rocky River,Connecticut,1929,33,290,20.31,269.7,2789,Hydroelectricity,2: Good,-73.449803,41.42665
+2201,Merriman Dam,Roundout Creek,New York,1945,59,732,7.54,250.2,5721,Water supply,2: Good,-74.427292,41.802266
+2202,Phelps Dam,Trib. Farmington River,Connecticut,1916,20,381,3.08,50,2417,Water supply,2: Good,-72.932315,41.798959
+2203,Upper Shepaug Reservoir,West Branch of Shepaug River,Connecticut,1965,27,305,1.19,18.2,762,Water supply,2: Good,-73.302157,41.744727
+2198,Richards Corner Dam,East Branch of Farmington River,Connecticut,1920,23,290,1,16.6,20801,Water supply,2: Good,-72.958447,41.8829
+2199,Shenipsit Lake,Hockanum River,Connecticut,1903,8,21,1.84,10.7,1072,Water supply,2: Good,-72.431178,41.872476
+2200,Neversink Reservoir Dam,Neversink River,New York,1953,58,914,4.14,175.2,5169,Water supply,2: Good,-74.641246,41.824554
+2194,Diamond Hill Reservoir Dam,Burnt Swamp Brook,Rhode Island,1971,24,610,1.42,19.3,515,Water supply,2: Good,-71.397994,41.990736
+2195,Ashokan Dam,Esopus Creek,New York,1916,65,1417,25.61,632.2,15455,Water supply,2: Good,-74.219881,41.9397
+2192,Downsville Dam,East Branch of Delaware River,New York,1954,62,732,19.73,752.1,20799,Water supply,2: Good,-74.964201,42.076891
+2185,Sudbury Dam,Sudbury Reservoir,Massachusetts,1896,26,610,4.41,40.7,1450,Water supply,2: Good,-71.492708,42.309469
+2187,Sleepy Hollow Dam,Murderers Creek,New York,1972,25,229,1,16.7,519,Recreation,2: Good,-73.806431,42.282247
+2181,Gilboa Dam,Schoharie Creek,New York,1926,56,693,3.91,117.9,17571,Water supply,2: Good,-74.44788,42.391821
+2177,Alcove Dam,Hannacrois Creek,New York,1929,23,664,5.37,58.7,1674,Water supply,2: Good,-73.93126,42.472908
+2178,Blenheim Lower Gilboa,Schoharie Creek,New York,1974,50,552,0.92,20.1,20141,Hydroelectricity,2: Good,-74.45634,42.4518
+2179,Blenheim Upper Gilboa,Schoharie Creek,New York,1974,52,3627,1.17,22.8,13,Hydroelectricity,2: Good,-74.423966,42.44126
+2180,Wachusett Reservoir Dam,Nashua River,Massachusetts,1906,35,434,16.41,282.5,7462,Water supply,2: Good,-71.689716,42.402072
+2238,Spruce Run Reservoir Dam,Spruce Run,New Jersey,1964,28,1646,4.88,57.7,2302,Water supply,2: Good,-74.916446,40.645655
+2239,Round Valley North Dike,Trib. South Branch of Rockaway River,New Jersey,1961,41,445,8.59,242.5,296,Water supply,2: Good,-74.84348,40.6119
+2233,Split Rock Pond Dam,Beaver Brook,New Jersey,1948,12,149,2.06,11.7,251,Water supply,2: Good,-74.456209,40.964843
+2234,Oradell Reservoir Dam,Hackensack River,New Jersey,1922,8,123,2.07,13.2,6151,Water supply,2: Good,-74.019747,40.958133
+2229,Oak Ridge Reservoir Dam,Pequannock River,New Jersey,1892,18,389,1.59,18.5,1891,Water supply,2: Good,-74.501569,41.041143
+2230,Charlotteburg Dam,Pequannock River,New Jersey,1961,31,206,1.2,12.8,3585,Water supply,2: Good,-74.424475,41.025418
+2231,Lake Tappan Dam,Hackensack River,New Jersey,1966,10,180,3.57,13.1,3132,Water supply,2: Good,-74.000128,41.019753
+2232,Point View Dam,Haycock Brook,New Jersey,1964,17,335,1.58,12.9,62,Recreation,2: Good,-74.252083,40.972916
+2226,Clinton Reservoir Dam,Clinton Brook,New Jersey,1894,17,466,1.55,16.5,498,Water supply,2: Good,-74.448679,41.074483
+2227,Kensico Dam,Bronx River,New York,1916,51,562,7.67,143.8,1516,Water supply,2: Good,-73.767188,41.07469
+2228,Furnace Road Dam,Wanaque River,New Jersey,1928,5,223,8.33,37.5,5469,Water supply,2: Good,-74.295354,41.045305
+2221,Easton Reservoir,Mill River,Connecticut,1926,37,317,1.67,44.4,961,Water supply,2: Good,-73.257563,41.249228
+2222,New Croton Reservoir Dam,Croton River,New York,1906,43,371,10.09,118.4,24329,Water supply,2: Good,-73.854726,41.227776
+2223,Greenwood Lake Dam,Wanaque River,New Jersey,1928,5,82,7.2,16.4,1670,Recreation,2: Good,-74.335451,41.164618
+2224,Monksville Dam,Trib. Pompton River,New Jersey,1986,46,661,2.07,33.9,2444,Water supply,2: Good,-74.295638,41.124432
+2217,Titicus Dam,Titicus River,New York,1895,33,463,2.34,31.5,1624,Water supply,2: Good,-73.646883,41.327035
+2218,Amawalk Dam,Muscoot River,New York,1897,26,372,1.97,28.6,1323,Water supply,2: Good,-73.753403,41.290471
+2219,Cross River Dam,Cross River,New York,1908,32,374,3.23,49,1880,Water supply,2: Good,-73.660376,41.264457
+2214,Croton Falls Dam,West Branch of Croton River,New York,1910,30,326,3.77,61.4,4966,Water supply,2: Good,-73.667318,41.361048
+2216,Lake Gaillard,Branford River,Connecticut,1929,29,311,3.73,66,406,Water supply,2: Good,-72.768184,41.340892
+2209,Carmel Dam,West Branch of Croton River,New York,1895,26,468,3.56,52.2,2638,Water supply,2: Good,-73.707455,41.402143
+2210,Sodom Dam,East Branch of Croton River,New York,1892,24,488,1.79,23.4,5712,Water supply,2: Good,-73.587689,41.400182
+2211,Middle Branch Dam,Middle Branch of Croton River,New York,1878,29,187,1.54,19.9,1366,Water supply,2: Good,-73.6467,41.390897
+2142,Woodhull Lake Dam,Trib. Sand Lake,New York,1853,8,155,4.19,14.3,1003,Navigation,2: Good,-74.988783,43.582896
+2140,Newfound Lake,Newfound River,New Hampshire,1846,4,36,17.38,49.3,5537,Recreation,2: Good,-71.738564,43.620152
+2134,Starbuckville Dam,Schroon River,New York,1982,13,220,21.87,32.9,24962,Recreation,2: Good,-73.766442,43.665751
+2129,Indian Lake Stone Dam,Indian River,New York,1898,14,168,15.99,210,6879,Recreation,2: Good,-74.277711,43.754824
+2131,Chittenden Reservoir,East Creek,Vermont,1901,21,295,2.55,27.2,829,Hydroelectricity,2: Good,-72.921597,43.724601
+2120,Lake Auburn Dam,Bobbin Mill Brook,Maine,1946,5,24,8.89,41.9,1435,Water supply,2: Good,-70.22685,44.145353
+2113,Setting Pole Rapids Dam,Raquette River,New York,1934,5,70,26.53,44.9,47204,Recreation,2: Good,-74.559375,44.230912
+2115,Cranberry Lake,Oswegatchie River,New York,1917,6,105,24.63,74,9768,Hydroelectricity,2: Good,-74.846215,44.221454
+2116,Gardiner Water District Dam,Cobbosseecontee Stream,Maine,1885,6,61,6.52,17.4,15758,Hydroelectricity,2: Good,-69.791356,44.219557
+2172,Vernon,Connecticut River,New Hampshire,1909,58,956,4.69,66.6,334378,Hydroelectricity,2: Good,-72.486458,42.769515
+2168,Tomhannock Reservoir Dam,Tomhannock Creek,New York,1905,21,213,6.5,69.8,3360,Water supply,2: Good,-73.583897,42.867651
+2161,Jackman Dam,North Branch of Contoocook River,New Hampshire,1926,13,570,1.86,15.3,1517,Hydroelectricity,2: Good,-71.949506,43.109775
+2162,Peck Lake Dam,Peck Creek,New York,1982,12,280,5.47,36.8,1349,Recreation,2: Good,-74.435337,43.102602
+2163,Winnies Reef Dam,Fish Creek,New York,1979,16,180,16.96,124.2,10907,Recreation,2: Good,-73.637262,43.10107
+2164,Dollof Dam,Pawtuckaway River,New Hampshire,1842,9,126,2.45,14.4,1286,Recreation,2: Good,-71.153742,43.073524
+2158,Hopkinton Flood Control Dam,Contoocook River,New Hampshire,1959,23,240,1.81,193.7,20301,Flood control,2: Good,-71.747262,43.188119
+2153,Stewarts Bridge,Sacandaga River,New York,1952,34,567,1.52,26.4,67669,Hydroelectricity,2: Good,-73.886836,43.296474
+2156,Bow Lake,Isinglass River,New Hampshire,1832,7,107,4.33,27.6,872,Recreation,2: Good,-71.156737,43.240817
+2150,Milton Three Ponds Dam,Salmon Falls River,New Hampshire,1924,6,48,4.25,18.5,7379,Recreation,2: Good,-70.984574,43.416465
+2151,Second Dam,Sugar River,New Hampshire,1932,5,24,15.77,50.4,2258,Recreation,2: Good,-72.079582,43.386478
+2152,Conklingville,Sacandaga River,New York,1930,28,335,97.56,976.9,67155,Hydroelectricity,2: Good,-73.924609,43.318878
+2148,Merrymeeting Lake Dam,Merrymeeting River,New Hampshire,1923,7,87,4.73,27.1,746,Recreation,2: Good,-71.178125,43.478266
+2077,Meddybemps Dam,Dennys River,Maine,1973,3,17,26.68,23.4,2854,Recreation,2: Good,-67.355237,45.040509
+2080,Aziscohos,Magalloway River,Maine,1911,23,269,25.71,396.2,11629,Hydroelectricity,2: Good,-70.993684,44.947978
+2073,Clifford,Clifford Stream,Maine,1971,6,76,5.92,12.6,1349,Hydroelectricity,2: Good,-67.690625,45.09288
+2074,First Connecticut Lake Dam,Connecticut River,New Hampshire,1930,17,340,10.67,140.6,4905,Flood control,2: Good,-71.287943,45.089488
+2076,Murphy Dam,Connecticut River,New Hampshire,1940,36,671,6.41,162,9866,Recreation,2: Good,-71.379579,45.046543
+2069,Woodland Dam,St. Croix,Maine,1906,14,466,4.73,22.7,69571,Hydroelectricity,2: Good,-67.403396,45.160159
+2070,Second Connecticut Lake Dam,Connecticut River,New Hampshire,1935,9,173,3.77,15.4,2564,Flood control,2: Good,-71.176068,45.146269
+2072,Upper Station Dam,Kennebago River,Maine,1932,5,71,7.23,16.8,5620,Hydroelectricity,2: Good,-70.763478,45.110675
+2067,Flagstaff,Dead River,Maine,1948,13,411,63.32,536.6,26264,Hydroelectricity,2: Good,-70.200638,45.221505
+2062,Moxie Dam,Moxie Stream,Maine,1925,6,312,9.49,43.2,4963,Hydroelectricity,2: Good,-69.872342,45.350594
+2063,Schoodic Lake Dam,Schoodic Stream,Maine,1929,3,169,27.46,27.1,2208,Hydroelectricity,2: Good,-68.903908,45.326247
+2057,Mattaceunk,Penobscot River,Maine,1939,14,357,6.5,85.2,172505,Hydroelectricity,2: Good,-68.40812,45.570528
+2058,Vanceboro,St. Croix River,Maine,1967,5,143,68.09,264.5,22306,Hydroelectricity,2: Good,-67.425939,45.56989
+2059,Indian Pond,Kennebago River,Maine,1955,50,614,12.66,133.2,69655,Hydroelectricity,2: Good,-69.864533,45.461484
+2053,North Twin,West Branch of Penobscot River,Maine,1934,11,320,78.48,484.4,95606,Hydroelectricity,2: Good,-68.782535,45.634125
+2054,Dolby,West Branch of Penobscot River,Maine,1906,20,425,10.02,69.4,107124,Hydroelectricity,2: Good,-68.607909,45.632667
+2056,Moosehead Lake East Dam,Kennebago River,Maine,1835,6,306,299.57,1726.9,64705,Hydroelectricity,2: Good,-69.716999,45.585115
+2050,Forest City,East Branch of St. Croix River,Maine,1949,5,152,63.34,139.8,7255,Hydroelectricity,2: Good,-67.735452,45.659837
+2051,Brassua,Moose River,Maine,1927,15,539,29.08,349.1,34095,Hydroelectricity,2: Good,-69.812207,45.65888
+2109,Comerford,Connecticut River,New Hampshire,1930,52,681,3.69,39.8,94843,Hydroelectricity,2: Good,-72.000224,44.326847
+2106,Waterbury,Little River,Vermont,1938,57,649,2.84,108.5,6788,Flood control,2: Good,-72.767708,44.382775
+2108,Marshfield 6,Mollys Brook,Vermont,1927,15,335,1.34,16.7,1044,Hydroelectricity,2: Good,-72.304678,44.362214
+2101,Union Falls,Saranac River,New York,1905,7,158,5.27,12.7,17488,Hydroelectricity,2: Good,-73.913542,44.504973
+2102,Blake Falls,Raquette River,New York,1957,18,686,2.4,15.6,57879,Hydroelectricity,2: Good,-74.747661,44.501683
+2100,Rainbow Falls,Raquette River,New York,1956,25,816,2.32,15,59063,Hydroelectricity,2: Good,-74.819792,44.515667
+2093,Green River Dam,Green River,Vermont,1947,34,98,2.1,21,866,Hydroelectricity,2: Good,-72.530467,44.627695
+2094,Graham Lake Dam,Union River,Maine,1924,13,192,35.7,178.9,28879,Hydroelectricity,2: Good,-68.442438,44.589214
+2090,Weston North Channel Dam,Kennebec River,Maine,1921,38,530,3.87,27.5,211096,Hydroelectricity,2: Good,-69.722917,44.764729
+2088,Middle Dam,Rapid River,Maine,1883,7,596,28.81,161.3,27003,Hydroelectricity,2: Good,-70.918455,44.777577
+2084,Upper Dam,Rapid River,Maine,1883,8,457,59.49,236.9,21791,Hydroelectricity,2: Good,-70.863417,44.880573
+990,Lake Henry,Offstream Horse Creek,Colorado,1950,7,3938,4.24,18.4,4,Irrigation,2: Good,-103.702183,38.26052
+991,John Redmond Lake,Grand Neosho River,Kansas,1964,27,6642,33.36,772.2,53608,Flood control,2: Good,-95.764794,38.239796
+992,Adobe Creek,Offstream Adobe Creek,Colorado,1904,11,2248,18.88,104.8,7,Irrigation,2: Good,-103.279378,38.236979
+985,Nee Noshe,Offstream Arkansas River,Colorado,1896,8,488,12.67,74.8,25,Irrigation,2: Good,-102.660417,38.322917
+986,Montrose Lake Dam,Deepwater Creek,Missouri,1955,10,-99,5.67,37,3694,Water supply,2: Good,-93.918942,38.306313
+987,Pueblo,Arkansas River,Colorado,1974,76,588,15.66,603.3,3481,Irrigation,2: Good,-104.727382,38.272917
+983,Marion Lake,Cottonwood River,Kansas,1968,20,2553,24.63,233.4,2495,Flood control,2: Good,-97.08315,38.370716
+984,La Cygne Lake Dam,North Sugar Creek,Kansas,1971,23,2124,9.01,104.8,1423,Other,2: Good,-94.652065,38.339873
+977,Harrisonville City Lake Dam,Trib. Middle Big Creek,Missouri,1971,17,579,1.42,16.7,370,Recreation,2: Good,-94.327364,38.765553
+978,Council Grove City Dam,Canning Creek,Kansas,1942,23,823,1.27,11.5,133,Water supply,2: Good,-96.553129,38.676363
+979,Hillsdale Dam,Big Bull Creek,Kansas,1981,32,3548,16.55,197.4,3103,Flood control,2: Good,-94.902775,38.657411
+980,Pomona Dam,Hundred Ten Mile Creek,Kansas,1963,34,2362,13.66,314,6705,Flood control,2: Good,-95.557488,38.653448
+973,Lake Lotawana Dam,West Fork of Sni-A-Bar Creek,Missouri,1928,18,503,1.39,14.3,319,Recreation,2: Good,-94.248325,38.935859
+974,Longview Dam,Little Blue River,Missouri,1985,38,579,3.27,57.9,1118,Flood control,2: Good,-94.465654,38.92201
+975,Clinton Dam,Wakarusa River,Kansas,1977,35,2819,28.28,454.8,7398,Flood control,2: Good,-95.331348,38.91875
+976,Cedar Bluff,Smoky Hill River,Kansas,1951,62,589,21.19,184.7,3796,Irrigation,2: Good,-99.72388,38.785402
+969,Blue Springs Dam,East Fork of Little Blue River,Missouri,1988,21,762,2.44,33.2,788,Flood control,2: Good,-94.335427,39.014258
+970,Lake Jacomo Dam,East Fork of Little Blue River,Missouri,1956,23,472,3.51,47.6,696,Recreation,2: Good,-94.310417,38.992807
+971,Rampart,West Monument Creek,Colorado,1970,73,1036,1.72,50.6,15,Hydroelectricity,2: Good,-104.961993,38.974701
+972,Wilson Dam,Saline River,Kansas,1964,49,1707,34.33,907.8,4918,Flood control,2: Good,-98.49375,38.963636
+966,Marshall Creek Dam,Missouri,Kansas,1941,42,546,1.38,18.1,155,Recreation,2: Good,-94.773958,39.168874
+967,Perry Dam,Delaware River,Kansas,1969,37,2362,40.18,949.8,20161,Flood control,2: Good,-95.432391,39.111675
+968,Milford Dam,Republican River,Kansas,1967,45,1920,65.88,1412.3,42232,Flood control,2: Good,-96.899609,39.078243
+961,Clarence Cannon Dam,Salt,Missouri,1983,57,591,58.83,2296.6,43720,Flood control,2: Good,-91.648475,39.526146
+962,Glen Elder,Soloman River,Kansas,1968,43,592,36.6,252.6,17202,Irrigation,2: Good,-98.318864,39.473081
+963,Webster,South Fork of Solomon River,Kansas,1955,47,588,14.26,495.4,1799,Flood control,2: Good,-99.424609,39.40559
+964,Smithville Dam,Little Platte River,Missouri,1979,32,1219,24.66,304.1,4009,Flood control,2: Good,-94.554967,39.398007
+1021,Great Salt Plains Lake,Salt Fork of Arkansas River,Oklahoma,1941,21,1832,82.73,1221.4,24369,Flood control,2: Good,-98.140473,36.747179
+1022,Ponca,Turkey Creek,Oklahoma,1935,20,1524,2.71,29.2,436,Water supply,2: Good,-97.025408,36.720594
+1023,Kaw Lake,Arkansas River,Oklahoma,1976,38,2885,58.74,1637,116488,Flood control,2: Good,-96.927032,36.702154
+1024,Bluestem,Middle Bird Creek,Oklahoma,1958,27,274,2.9,44.2,956,Recreation,2: Good,-96.39688,36.696964
+1013,Fellows Lake Dam,Little Sac River,Missouri,1955,31,457,2.74,44.9,834,Water supply,2: Good,-93.230442,37.31391
+1014,Big Hill Lake,Big Hill Creek,Kansas,1981,25,1189,4.14,48.8,977,Flood control,2: Good,-95.464466,37.2693
+1015,Twin Caney Dam 18,North Caney Creek,Kansas,1965,23,579,1.63,19.8,625,Flood control,2: Good,-96.182292,37.232603
+1016,Trinidad,Purgatoire River,Colorado,1976,62,2015,4.77,203.4,188,Flood control,2: Good,-104.552901,37.142426
+1009,Lake Parsons Dam,Labette Creek,Kansas,1959,16,1722,2.98,43.5,940,Water supply,2: Good,-95.332753,37.402302
+1010,Sweetwater Tailings Dam,Adair Creek,Missouri,1980,30,427,1.61,28.9,178,Other,2: Good,-91.14375,37.372917
+1011,Timber Creek Dam 29,Timber Creek,Kansas,1970,28,1768,3.86,80.5,1149,Flood control,2: Good,-96.892567,37.355788
+1012,Model,Trib. Black Hills Arroyo,Colorado,1921,12,2084,4.46,36.9,23,Irrigation,2: Good,-104.386934,37.32731
+1005,Cheney,North Fork of Ninnescah River,Kansas,1963,38,599,39.29,187.2,8551,Water supply,2: Good,-97.802083,37.723975
+1006,Stockton Dam,Sac River,Missouri,1969,49,1859,96.44,2064.8,36836,Flood control,2: Good,-93.76875,37.689583
+1001,El Dorado Lake,Walnut River,Kansas,1981,30,6379,30.27,304.5,4732,Flood control,2: Good,-96.813814,37.840623
+1002,Cucharas 5,Cucharas River,Colorado,1913,44,161,2.99,127,1614,Irrigation,2: Good,-104.601635,37.746554
+1004,Council Bluff Dam,Big River,Missouri,1981,34,148,1.75,18,291,Recreation,2: Good,-90.907785,37.729603
+997,Indian Hills Lake Dam,Brush Creek,Missouri,1960,15,396,1.06,10.9,336,Recreation,2: Good,-91.456867,38.10863
+998,John Martin Dam,Arkansas,Colorado,1943,36,312,44.05,750.3,15563,Flood control,2: Good,-102.939585,38.064582
+999,Goose Creek Dam,Goose Creek,Missouri,1986,42,326,1.14,17,159,Recreation,2: Good,-90.322991,37.981798
+1000,Pomme de Terre Dam,Pomme de Terre River,Missouri,1961,47,1411,30.58,801.8,20163,Flood control,2: Good,-93.321703,37.897187
+993,Bagnell Dam,Osage,Missouri,1931,45,775,175.89,3302,370623,Hydroelectricity,2: Good,-92.627083,38.20625
+994,St. Charles 3,Salt Creek,Colorado,1941,16,2663,1.97,17.2,26,Water supply,2: Good,-104.652083,38.16875
+995,Lake Meredith,Bob Creek,Colorado,1926,9,30,19.17,51.1,35,Irrigation,2: Good,-103.734758,38.161553
+996,Horse Creek,Offstream Horse Creek,Colorado,1900,7,3281,8.65,53.2,45,Irrigation,2: Good,-103.406378,38.157021
+925,Point of Rocks,Cedar Creek,Colorado,1948,26,1548,9.73,140.1,304,Irrigation,2: Good,-103.268972,40.785439
+927,Little River Site M-1,Little River,Iowa,1984,19,549,2.79,40.3,435,Flood control,2: Good,-93.776042,40.749181
+921,Spoon Lake Dam,Trib. Spoon River,Illinois,1971,23,344,2.15,24.1,395,Recreation,2: Good,-90.127016,40.952518
+923,Beaver Lake Dam,Rock Creek,Nebraska,1973,33,351,0.81,15.7,184,Recreation,2: Good,-95.870643,40.92254
+924,Rathbun Dam,Chariton River,Iowa,1972,30,3085,50.59,680.9,11902,Flood control,2: Good,-92.881377,40.831517
+917,Lake Icaria Dam,Kemp Creek,Iowa,1974,17,399,2.05,31.2,527,Flood control,2: Good,-94.751692,41.051024
+918,Maloney,North Platte River,Nebraska,1935,13,2652,6.08,24,65,Hydroelectricity,2: Good,-100.780585,41.050214
+920,Jeffrey Reg Dam,Trib. Platte River,Nebraska,1940,30,315,1.51,26,41,Hydroelectricity,2: Good,-100.403511,40.958721
+913,Kingsley,North Platte,Nebraska,1941,49,5438,109.29,2344.4,81294,Hydroelectricity,2: Good,-101.67338,41.214586
+914,Sutherland,North Platte River,Nebraska,1935,9,10394,12.38,80.2,97,Hydroelectricity,2: Good,-101.139532,41.122851
+916,Twelve Mile Creek Site M-1,Twelve Mile Creek,Iowa,1983,20,640,2.02,33.6,449,Water supply,2: Good,-94.255627,41.05403
+909,Lake Panorama Dam,Middle Raccoon River,Iowa,1969,23,335,3.61,77.7,6513,Recreation,2: Good,-94.381432,41.695754
+910,Davis Creek Dam,Jacks Canyon,Nebraska,1990,44,939,2.96,57,56,Irrigation,2: Good,-98.74837,41.416301
+911,Red Rock Dam,Des Moines River,Iowa,1969,43,1730,59.05,2171.4,196873,Flood control,2: Good,-92.982345,41.369935
+912,Sherman,Oak Creek,Nebraska,1961,41,583,8.56,114.3,306,Irrigation,2: Good,-98.882776,41.303717
+905,Calamus Dam,Calamus River,Nebraska,1986,29,2224,18.07,219.1,8235,Irrigation,2: Good,-99.210417,41.835725
+906,Lake Macbride Dam,Mill Creek,Iowa,1930,17,274,3.07,34.5,553,Recreation,2: Good,-91.572919,41.793681
+908,Hawk Springs,Hawk Springs Horse Creek,Wyoming,1925,20,732,3.71,30.2,57,Irrigation,2: Good,-104.193569,41.714582
+901,Guernsey,North Platte River,Wyoming,1926,41,579,6.81,55.8,87256,Irrigation,2: Good,-104.766214,42.289933
+902,Grayrocks,Laramie River,Wyoming,1980,29,800,13.54,239.3,13053,Other,2: Good,-104.695234,42.167499
+903,Lake Alice 1,Interstate Canal,Nebraska,1912,13,582,2.2,13.6,32,Irrigation,2: Good,-103.625454,41.992166
+904,Minatare,Supply Canal,Nebraska,1914,35,582,6.93,76.7,16,Irrigation,2: Good,-103.493827,41.91949
+897,Merritt,Snake River,Nebraska,1963,38,582,9.32,106.2,1344,Irrigation,2: Good,-100.872917,42.631243
+898,Glendo,North Platte River,Wyoming,1957,58,581,35.97,560.4,89257,Flood control,2: Good,-104.953299,42.48023
+899,Box Butte,Niobrara River,Nebraska,1945,27,584,3.64,35.5,2752,Irrigation,2: Good,-103.077233,42.460003
+900,Apple Canyon Lake Dam,Hells Branch Creek,Illinois,1978,24,335,1.27,18,332,Recreation,2: Good,-90.163471,42.416541
+957,Cherry Creek Dam,Cherry Creek,Colorado,1953,58,4359,3.45,165.9,910,Flood control,2: Good,-104.8599,39.646658
+958,Bonny,South Fork of Republican River,Colorado,1950,48,587,6.76,48.4,1406,Flood control,2: Good,-102.174556,39.621971
+959,Aurora Dam,Senac Creek,Colorado,1990,50,2560,3.23,49.8,12,Water supply,2: Good,-104.671143,39.617724
+960,Thomas Hill Reservoir Dam,Middle Fork of Chariton River,Missouri,1966,21,747,16.22,321.3,2977,Flood control,2: Good,-92.643929,39.552797
+955,Long Branch Dam,East Fork of Little Chariton Rive,Missouri,1976,24,1158,8.15,120.9,2053,Flood control,2: Good,-92.517382,39.753459
+956,Kirwin,North Fork of Soloman River,Kansas,1954,52,589,12.81,110.6,3053,Irrigation,2: Good,-99.127083,39.659702
+949,Horse Creek,Horse Creek,Colorado,1910,20,1463,3.62,36.7,41,Irrigation,2: Good,-104.58123,40.006213
+950,Barr Lake,Beebe Draw,Colorado,1893,13,2179,7.78,51.6,90,Irrigation,2: Good,-104.749168,39.954933
+951,Lake Viking Dam,Big Creek,Missouri,1967,26,457,1.77,30.9,287,Water supply,2: Good,-94.057682,39.937743
+952,Lovewell,White Rock Creek,Kansas,1956,28,586,8.32,30.8,2495,Flood control,2: Good,-98.028963,39.886843
+945,Milton Lake,Beebe Seep Canal,Colorado,1975,17,1859,5.32,48.9,282,Irrigation,2: Good,-104.647957,40.239479
+946,Forest Lake Dam,Chariton River,Missouri,1951,20,497,2.02,19.7,336,Recreation,2: Good,-92.65625,40.171947
+947,Trenton,Republican River,Nebraska,1952,44,586,15.62,437.8,7693,Irrigation,2: Good,-101.065857,40.168713
+948,Harlan County Dam,Republican,Nebraska,1952,33,3605,50.01,1018.5,22093,Flood control,2: Good,-99.21467,40.072869
+941,Riverside,Sanborn Draw,Colorado,1908,12,7132,15.14,116.6,118,Irrigation,2: Good,-104.239655,40.331344
+942,Hazel Creek Dam,Hazel Creek,Missouri,1982,20,409,1.63,11.8,165,Recreation,2: Good,-92.625716,40.300277
+944,Empire,Offstream South Platte River,Colorado,1905,11,701,9.82,62.8,7,Other,2: Good,-104.164538,40.277015
+937,Jackson Lake,Trib. South Platte River,Colorado,1900,12,3962,9.97,58,54,Irrigation,2: Good,-104.065625,40.382482
+938,Medicine Creek,Medicine Creek,Nebraska,1948,50,584,5.54,239.4,1228,Irrigation,2: Good,-100.219447,40.378902
+933,Windsor,Trib. Cache la Poudre River,Colorado,1978,13,2256,3.05,26,20,Irrigation,2: Good,-104.893061,40.527712
+934,Fossil Creek,Fossil Creek,Colorado,1903,19,2027,3.02,19.7,195,Irrigation,2: Good,-104.997941,40.49086
+935,Prewitt,Offstream South Platte River,Colorado,1912,13,4694,8.24,63.4,25,Irrigation,2: Good,-103.363542,40.429817
+936,Enders,Frenchman Creek,Nebraska,1950,41,581,4.29,42.6,1310,Irrigation,2: Good,-101.51979,40.422802
+929,Johnson Lake Dam,Trib. Platte River,Nebraska,1941,14,1519,8.41,72.8,28,Hydroelectricity,2: Good,-99.843679,40.677414
+931,Elwood Dam,Trib. Plum Creek,Nebraska,1976,39,1244,2.75,56.7,32,Irrigation,2: Good,-99.853071,40.634268
+861,Lac Qui Parle Dam,Minnesota,Minnesota,1939,11,1319,23.37,151.5,38374,Flood control,2: Good,-95.874081,45.02737
+863,Wissota,Chippewa,Wisconsin,1917,24,2377,20.53,69.1,151562,Hydroelectricity,2: Good,-91.339338,44.938059
+858,Marsh Lake Dam,Minnesota,Minnesota,1942,9,2957,17.56,112.2,24612,Fisheries,2: Good,-96.091121,45.174204
+860,Otter Lake,Otter Creek,Wisconsin,1969,8,366,2.55,18.5,708,Recreation,2: Good,-90.952615,45.088626
+855,Holcombe,Chippewa,Wisconsin,1907,18,1859,11.48,56.7,131237,Hydroelectricity,2: Good,-91.126128,45.224486
+850,Chetek,Chetek,Wisconsin,1925,5,79,11.63,42.1,5057,Hydroelectricity,2: Good,-91.643751,45.314936
+845,Richmond,Foot Creek,South Dakota,1935,16,472,2.45,24.4,294,Recreation,2: Good,-98.594866,45.534508
+846,Flambeau,Flambeau,Wisconsin,1951,28,1518,7.12,58.2,53610,Hydroelectricity,2: Good,-91.046074,45.492105
+847,Lower Balsam Lake,Balsam Branch,Wisconsin,1916,12,67,7.45,27.5,1157,Hydroelectricity,2: Good,-92.450185,45.449561
+848,Mina,Snake Creek,South Dakota,1934,10,110,2.44,23.4,165,Recreation,2: Good,-98.732375,45.443722
+838,Sauk Center,Sauk River,Minnesota,1935,7,28,8.25,31.8,5063,,2: Good,-94.953502,45.740766
+840,Long Lake,Brill,Wisconsin,1913,5,175,13.16,43.2,1975,Recreation,2: Good,-91.682839,45.668984
+835,Houghton Dam,James River,South Dakota,1938,3,1067,7,13,28703,Fisheries,2: Good,-98.253125,45.778116
+893,Angostura,Cheyenne River,South Dakota,1948,59,581,16.25,101.6,34081,Irrigation,2: Good,-103.435489,43.342073
+894,Oglala Dam,White Clay Creek,South Dakota,1941,24,792,1.41,22.6,949,Irrigation,2: Good,-102.739557,43.173727
+895,Gavins Point Dam,Missouri,South Dakota,1958,23,2652,84.87,666.1,950348,Flood control,2: Good,-97.483244,42.850337
+896,Whitney Dam 1,White River,Nebraska,1922,6,1128,3.34,17.3,16,Irrigation,2: Good,-103.285438,42.785418
+889,Mitchell,Trib. Missouri,South Dakota,1928,17,402,2.29,24.2,5810,Water supply,2: Good,-98.027712,43.743076
+891,Albert Lea Lake,Shell Rock River,Minnesota,1923,5,37,10.34,19.7,3465,Other,2: Good,-93.306256,43.614589
+892,Lake Redstone,Big Creek,Wisconsin,1967,15,183,1.91,18.7,683,Recreation,2: Good,-90.094792,43.589786
+885,Deerfield,Castle Creek,South Dakota,1946,52,580,1.42,19.1,351,Water supply,2: Good,-103.786348,44.027173
+886,Sheridan Lake,Spring Creek,South Dakota,1939,41,259,1.2,27.2,530,Recreation,2: Good,-103.45314,43.974286
+881,Shetek Lake Outlet,Des Moines River,Minnesota,1925,4,35,14.66,37.1,2506,Other,2: Good,-95.690738,44.08269
+882,Pactola,Rapid Creek,South Dakota,1958,75,580,2.75,173.8,1421,Water supply,2: Good,-103.490625,44.072917
+884,Big Bend Dam,Missouri,South Dakota,1963,29,3222,228.45,2343.6,986072,Flood control,2: Good,-99.448646,44.039785
+878,Sprague Mather,Branch of Yellow River,Wisconsin,1940,5,10461,4.28,19.7,1401,Flood control,2: Good,-90.186503,44.144417
+880,Rapidan,Blue Earth,Minnesota,1910,22,126,0.83,10.3,37705,Hydroelectricity,2: Good,-94.106928,44.089199
+870,Oahe Dam,Missouri,South Dakota,1966,75,2835,1092.54,29110,965451,Flood control,2: Good,-100.39797,44.456316
+871,Hatfield,Black,Wisconsin,1908,30,945,3.24,18.6,32702,Hydroelectricity,2: Good,-90.722883,44.41455
+872,Keyhole,Belle Fourche River,Wyoming,1951,51,582,15.04,229.2,9632,Irrigation,2: Good,-104.78125,44.379972
+865,Menomonie,Red Cedar,Wisconsin,1957,11,203,4,32.1,39893,Hydroelectricity,2: Good,-91.926469,44.885236
+866,Dells,Chippewa,Wisconsin,1878,12,189,1.83,14.9,156266,Hydroelectricity,2: Good,-91.511917,44.828699
+867,Altoona,Eau Claire,Wisconsin,1938,13,73,3.07,17.3,21376,Recreation,2: Good,-91.44241,44.817096
+868,Belle Fourche,Belle Fourche River,South Dakota,1910,37,584,28.89,228.5,1427,Irrigation,2: Good,-103.677318,44.735438
+796,Lizzie Lake,Pelican River,Minnesota,1938,2,18,14.44,28.6,2732,Other,2: Good,-96.026194,46.614305
+789,Sandy Lake Dam and Lock,Sandy River,Minnesota,1895,7,33,29.72,97.9,12413,Navigation,2: Good,-93.321528,46.783615
+792,Pine River Dam,Pine River,Minnesota,1886,7,473,51.33,231.5,7477,Fisheries,2: Good,-94.112119,46.670135
+782,Height Of Land Lake,Otter Tail River,Minnesota,1938,4,18,15.08,29.6,1931,Other,2: Good,-95.635075,46.881228
+784,Dickinson,Heart River,North Dakota,1949,20,581,1.83,11,2018,Irrigation,2: Good,-102.828566,46.867223
+778,Fish Lake,Beaver,Minnesota,1911,6,232,10.74,51.5,4275,Hydroelectricity,2: Good,-92.276042,46.9555
+780,Jamestown,James River,North Dakota,1952,34,580,7.35,42.8,7046,Irrigation,2: Good,-98.709425,46.932526
+773,Boulder Lake,Otter,Minnesota,1919,6,448,11.21,37.4,3516,Hydroelectricity,2: Good,-92.203247,47.053208
+774,Baldhill,Sheyenne River,North Dakota,1950,18,549,19.8,192.4,18486,Flood control,2: Good,-98.079898,47.036297
+775,Island Lake,Cloquet,Minnesota,1915,17,268,31.66,218.3,24461,Hydroelectricity,2: Good,-92.225209,46.992107
+770,Nelson Lake Dam,Square Butte Creek,North Dakota,1967,20,671,2.07,24.8,699,Other,2: Good,-101.206857,47.068772
+772,Little Bemidji Lake,Otter Tail River,Minnesota,1938,3,15,6.58,16.4,752,Other,2: Good,-95.543158,47.056865
+829,Knife Lake,Knife River,Minnesota,1983,7,221,4.76,14,1744,Fisheries,2: Good,-93.321831,45.949031
+830,Chippewa Reservoir,Chippewa,Wisconsin,1923,14,393,55.89,283.7,25768,Hydroelectricity,2: Good,-91.071875,45.891129
+832,Elm Lake Dam,Elm River,South Dakota,1937,16,351,3.41,35.5,295,Water supply,2: Good,-98.707124,45.853285
+828,Geneva Lake,Trib. Long Prairie River,Minnesota,1936,2,5,25.1,23,2121,Other,2: Good,-95.336458,45.981691
+822,Turtle Dam,North Fork of Flambeau River,Wisconsin,1926,8,-99,60.38,294.8,23727,Hydroelectricity,2: Good,-90.225682,46.069294
+823,Moose Lake 1,West Fork of Chippewa River,Wisconsin,1925,7,152,6.03,33.9,7285,Recreation,2: Good,-91.075405,46.032288
+817,Minong Flowage,Totagatic,Wisconsin,1937,9,91,5.29,28.4,6947,Recreation,2: Good,-91.932183,46.123552
+819,Totagatic,Totagatic,Wisconsin,1937,6,169,10.51,46.9,1255,Recreation,2: Good,-91.510412,46.097912
+815,Saint Croix,Saint Croix,Wisconsin,1936,5,896,8.88,22.2,9242,Recreation,2: Good,-91.92962,46.254774
+805,Gile Reservoir,West Fork of Montreal River,Wisconsin,1940,9,340,12.95,67.8,3317,Water supply,2: Good,-90.225561,46.425273
+806,Gull Lake,Gull River,Minnesota,1912,5,84,44.44,92.9,3437,Flood control,2: Good,-94.358021,46.414653
+808,Brainerd,Mississippi,Minnesota,1950,6,122,8.86,16,119874,Hydroelectricity,2: Good,-94.183802,46.378651
+734,Pool 27,Thief River,Minnesota,1938,5,305,21,75.6,6656,Other,2: Good,-96.006034,48.315208
+735,Lake Alice Dam,Trib. Mauvais Coulee,North Dakota,1942,4,413,13.74,14.4,1261,Fisheries,2: Good,-99.176208,48.283068
+736,Nett Lake,Nett Lake,Minnesota,1987,4,49,29.44,72.8,2647,Recreation,2: Good,-93.1634,48.10506
+731,Kettle Falls,Namakan River,Minnesota,1914,8,40,826.48,866.5,311645,Recreation,2: Good,-93.35603,48.618953
+766,Arrowwood Dam,James,North Dakota,1937,2,401,6.44,10.4,5991,Other,2: Good,-98.857866,47.257722
+767,Leech Lake Dam,Leech River,Minnesota,1885,4,1010,412.55,838.8,17440,Recreation,2: Good,-94.223518,47.251782
+768,Pokegama Lake Dam,Mississippi,Minnesota,1884,5,117,36,148,51311,Recreation,2: Good,-93.588285,47.251326
+763,Whiteface Lake,Skunk,Minnesota,1922,11,416,17.1,57.9,6944,Hydroelectricity,2: Good,-92.189105,47.282541
+758,Winnibigoshish Dam,Mississippi,Minnesota,1884,7,293,248.33,678.4,20379,Water supply,2: Good,-94.053087,47.428657
+753,Garrison Dam,Missouri,North Dakota,1953,64,3444,1126.82,30220,803718,Flood control,2: Good,-101.432292,47.50613
+754,South Dam,Trib. St. Louis River,Minnesota,1954,12,965,4.32,33.1,5786,Water supply,2: Good,-92.18125,47.49096
+755,West Two Rivers,West Two River,Minnesota,1966,12,219,4.01,19.7,1313,Water supply,2: Good,-92.681281,47.465073
+750,Movil Lake,Turtle River,Minnesota,1938,4,17,9.36,23.5,678,Other,2: Good,-94.837269,47.595953
+741,Gabbro Lake 1,Isabella River,Minnesota,1924,4,26,8.92,12.7,16905,Flood control,2: Good,-91.610417,47.860348
+744,Birch Lake,Kawishiwi,Minnesota,1922,2,-99,25.7,48.9,35092,Recreation,2: Good,-91.784897,47.813354
+739,Winton,Kawishiwi,Minnesota,1923,20,223,9.91,21.7,41338,Hydroelectricity,2: Good,-91.730353,48.000648
+740,Lower Red Lake Dam,Red Lake River,Minnesota,1931,5,11125,1141.61,4228.4,17914,Flood control,2: Good,-95.272214,47.956032
+669,Morena,Cottonwood Creek,California,1912,55,168,4.41,61.9,704,Water supply,2: Good,-116.546415,32.686213
+670,Barrett,Cottonwood Creek,California,1922,49,229,1.87,55.2,1628,Water supply,2: Good,-116.669379,32.681268
+671,Savage,Otay River,California,1919,45,229,3.28,61.1,705,Water supply,2: Good,-116.927368,32.614817
+665,El Capitan,San Diego River,California,1934,72,357,3.56,139.1,1898,Water supply,2: Good,-116.80847,32.884047
+666,Chet Harritt,Quail Can Creek,California,1962,61,340,0.6,12.1,9,Irrigation,2: Good,-116.887722,32.863326
+667,Lake Loveland,Sweetwater River,California,1945,62,187,0.78,31.3,904,Irrigation,2: Good,-116.786458,32.785255
+668,Sweetwater Main,Sweetwater River,California,1888,34,213,2.83,34.2,1688,Irrigation,2: Good,-117.004901,32.692771
+662,San Vicente,San Vicente Creek,California,1943,62,287,4.05,111.3,701,Water supply,2: Good,-116.927083,32.914817
+663,Senator Wash,Senator Wash,California,1965,29,581,0.94,13.2,13,Hydroelectricity,2: Good,-114.481181,32.90664
+664,Caballo,Rio Grande,New Mexico,1937,29,583,28.27,285.6,39193,Irrigation,2: Good,-107.293998,32.898365
+658,Sutherland,Santa Ysabel Creek,California,1954,49,311,0.91,35.8,571,Water supply,2: Good,-116.785417,33.117158
+659,Lake Hodges,San Dieguito River,California,1918,40,222,2.88,46.5,3091,Water supply,2: Good,-117.126268,33.0464
+660,Ramona,Green Val Road Creek,California,1988,69,296,0.34,15,7,Irrigation,2: Good,-116.996195,33.02452
+653,Mormon Flat,Salt River,Arizona,1924,68,579,2.38,71.4,11193,,2: Good,-111.439583,33.550863
+654,Vail,Temecula Creek,California,1949,46,240,2.45,62.9,3677,Irrigation,2: Good,-116.975529,33.496395
+655,Henshaw,San Luis Rey River,California,1923,37,198,4.03,61.7,2145,Irrigation,2: Good,-116.759717,33.239908
+649,Lake Hemet,Trib. San Jacinto River,California,1895,41,99,1.46,17.3,513,Irrigation,2: Good,-116.705346,33.662039
+650,Horse Mesa,Salt River,Arizona,1926,93,579,9,302.3,10745,,2: Good,-111.343282,33.591111
+651,Robert A. Skinner,Tucalota Creek,California,1973,33,1570,3.61,54,546,Water supply,2: Good,-117.07134,33.585522
+652,Stewart Mountain,Salt River,Arizona,1929,63,580,4.1,84.9,11529,Irrigation,2: Good,-111.532292,33.569649
+646,Railroad Canyon,San Jacinto River,California,1928,29,180,1.15,14.3,8515,Irrigation,2: Good,-117.274653,33.677736
+647,Theodore Roosevelt,Salt River,Arizona,1911,109,580,40.29,1641.8,10399,Irrigation,2: Good,-111.156236,33.677097
+641,Big Lake,Black River,Arizona,1964,10,148,1.83,12.5,2,Recreation,2: Good,-109.416534,33.88768
+642,Mathews,Trib. Cajalco Creek,California,1938,80,1988,9.4,224.5,437,Irrigation,2: Good,-117.447788,33.851682
+643,Perris,Bernasconi Pass,California,1973,40,3536,8.49,162.1,106,Irrigation,2: Good,-117.182292,33.844532
+644,Bartlett,Verde River,Arizona,1938,95,580,4.63,219.6,22056,Water supply,2: Good,-111.629844,33.817207
+605,Terminus Dam,Kaweah River,California,1962,78,724,3.63,176.4,13449,Flood control,2: Good,-119.001457,36.418267
+607,Haiwee,Rose Valley,California,1913,25,474,2.93,57.5,280,Irrigation,2: Good,-117.948226,36.139904
+608,Lake Las Vegas,Las Vegas Wash,Nevada,1997,59,1463,1.07,13.1,740,Recreation,2: Good,-114.911491,36.11878
+601,Navajo,San Juan River,New Mexico,1962,123,582,52.18,1278,43946,Irrigation,2: Good,-107.609481,36.801492
+603,Heron,Willow Creek,New Mexico,1970,84,580,23.09,493.4,5368,Water supply,2: Good,-106.70481,36.666231
+604,El Vado Reservoir Dam,Rio Chama,New Mexico,1935,53,404,11.18,270.8,6236,Irrigation,2: Good,-106.732989,36.594947
+597,Glen Canyon,Colorado River,Arizona,1963,216,580,120.75,25070,562446,Hydroelectricity,2: Good,-111.485228,36.939635
+599,Costilla Dam,Rio Costilla,New Mexico,1920,43,238,1.32,19.5,109,Irrigation,2: Good,-105.278125,36.877279
+600,Pine Flat Dam,Kings River,California,1954,134,561,15.41,1233.5,42704,Flood control,2: Good,-119.321848,36.831978
+593,Courtright,Helms Creek,California,1958,96,263,3.92,151.7,1186,Hydroelectricity,2: Good,-118.973044,37.081222
+594,Tinemaha,Owens River,California,1928,10,1768,2.58,20.2,30389,Water supply,2: Good,-118.221648,37.053543
+595,Friant,San Joaquin River,California,1942,97,582,15.8,535.1,42255,Irrigation,2: Good,-119.702082,37.002085
+596,Wishon Main,North Fork of Kings River,California,1958,81,1006,2.2,159.1,4780,Hydroelectricity,2: Good,-118.967372,37.003905
+589,Big Creek 7,San Joaquin River,California,1951,71,272,1.21,43.2,32919,Water supply,2: Good,-119.450339,37.144915
+590,Shaver Lake,Stevenson Creek,California,1927,55,661,7.78,166.9,798,Water supply,2: Good,-119.301896,37.14375
+592,Hidden Dam,Fresno River,California,1975,56,1747,3.68,111,6778,Flood control,2: Good,-119.881035,37.110637
+585,Buchanan Dam,Chowchilla River,California,1975,66,532,5.26,185,6694,Flood control,2: Good,-119.984278,37.219517
+586,Sabrina,Middle Fork of Bishop Creek,California,1908,21,274,0.53,10.3,439,Irrigation,2: Good,-118.614878,37.209426
+587,Quail Creek,Quail Creek,Utah,1984,64,273,2.29,55.6,567,Irrigation,2: Good,-113.382203,37.185529
+581,Florence Lake,South Fork of San Joaquin River,California,1926,45,947,1.88,79.4,4479,Water supply,2: Good,-118.970118,37.272603
+582,Gunlock,Santa Clara River,Utah,1970,36,427,0.69,18.5,1955,Hydroelectricity,2: Good,-113.77703,37.252699
+583,La Jara,La Jara Creek,Colorado,1904,12,396,3.16,31.1,350,Recreation,2: Good,-106.341351,37.245224
+584,Huntington Lake 1,Big Creek,California,1917,52,399,4.79,109.6,2399,Water supply,2: Good,-119.216391,37.233163
+577,Terrace,Alamosa River,Colorado,1911,55,366,0.79,25.1,2060,Irrigation,2: Good,-106.285638,37.357802
+578,Platoro,Conejos River,Colorado,1950,52,580,3.1,66,1238,Irrigation,2: Good,-106.545704,37.350215
+579,Mammoth Pool,San Joaquin River,California,1960,124,250,2.72,151.7,24515,Water supply,2: Good,-119.317006,37.324723
+580,Crane Val Stor,North Fork of Willow Creek,California,1910,44,573,3.81,56,1558,Water supply,2: Good,-119.527037,37.293805
+637,Westlake Reservoir,Tree Springs Creek,California,1972,48,427,0.41,11.3,8,Irrigation,2: Good,-118.83439,34.12748
+638,Stone Canyon,Stone Canyon Creek,California,1924,57,351,0.42,12.8,17,Water supply,2: Good,-118.452968,34.107268
+639,Puddingstone,Walnut Creek,California,1928,45,822,0.84,20.2,98,Water supply,2: Good,-117.805208,34.089251
+633,Wood Ranch,Trib. Arroyo Simi,California,1965,45,311,0.75,13.6,4,Water supply,2: Good,-118.827083,34.239583
+635,Morris,San Gabriel River,California,1935,75,229,0.95,33.9,3516,Water supply,2: Good,-117.880482,34.177299
+636,Encino,Encino Creek,California,1924,51,564,0.47,12.1,23,Water supply,2: Good,-118.514583,34.147035
+629,Parker,Colorado River,Arizona,1938,98,580,60.79,803,519260,Water supply,2: Good,-114.138725,34.29867
+630,Copper Basin,Copper Basin,California,1938,56,81,1.41,27.1,12,Water supply,2: Good,-114.223546,34.285377
+631,Lake Arrowhead,Little Bear Creek,California,1922,58,219,2.31,59.2,90,Irrigation,2: Good,-117.170284,34.263041
+632,Bear Valley,Bear Creek,California,1911,24,110,10.36,91.3,552,Irrigation,2: Good,-116.975708,34.242682
+625,Santa Felicia,Piru Creek,California,1955,65,389,3.62,108.5,6722,Water supply,2: Good,-118.753391,34.462147
+626,Casitas,Coyote Creek,California,1959,102,581,8.84,309.4,506,Irrigation,2: Good,-119.335644,34.373168
+627,Lyman,Little Colorado River,Arizona,1912,23,244,2.67,54.9,878,Irrigation,2: Good,-109.380173,34.368424
+628,Lower San Fernando,San Fernando Creek,California,1918,38,561,0.73,12.3,159,Water supply,2: Good,-118.481293,34.29787
+621,Bouquet Canyon,Bouquet Creek,California,1934,58,360,2.04,45,150,Water supply,2: Good,-118.384479,34.578113
+622,Elderberry,Castaic Creek,California,1974,55,590,1.33,35,1095,Irrigation,2: Good,-118.632367,34.562378
+624,Castaic,Castaic Creek,California,1973,104,1585,7.31,399.3,2248,Irrigation,2: Good,-118.605333,34.520378
+617,Upper Lake Mary,Walnut Creek,Arizona,1941,13,258,2.37,26,166,Water supply,2: Good,-111.533878,35.07962
+620,Bradbury,Santa Ynez River,California,1953,85,582,9.55,212.8,5803,Water supply,2: Good,-119.979533,34.585417
+616,Davis Bor,Colorado River,Arizona,1952,61,580,98.68,2242.9,507351,Hydroelectricity,2: Good,-114.572791,35.20227
+609,Success Dam,Tule River,California,1961,48,1064,3.56,101.5,6929,Flood control,2: Good,-118.92174,36.062301
+610,Hoover,Colorado River,Nevada,1935,223,580,580.95,36700,586683,Water supply,2: Good,-114.735006,36.018191
+611,Storrie Dam,Gallinas Creek,New Mexico,1921,26,454,3.85,29,4,Irrigation,2: Good,-105.228825,35.665523
+612,Isabella Dam,Kern River,California,1953,56,517,23.79,700.6,31489,Flood control,2: Good,-118.481266,35.648325
+541,Blue Mesa,Gunnison River,Colorado,1965,119,580,30.23,923.2,52371,Hydroelectricity,2: Good,-107.333611,38.45367
+542,Morrow Point,Gunnison River,Colorado,1967,143,579,2,52,54443,Irrigation,2: Good,-107.53435,38.451537
+544,New Spicer Meadow,Highland Creek,California,1989,81,610,4,238.1,1649,Hydroelectricity,2: Good,-119.997266,38.393724
+537,Crawford,Iron Creek,Colorado,1961,49,579,1.16,17.2,866,Irrigation,2: Good,-107.604956,38.68814
+539,Johnson,Fremont River,Utah,1910,9,137,2.57,18.9,80,Irrigation,2: Good,-111.632587,38.610157
+540,Onion Valley,Iron Creek,Colorado,1954,34,124,0.62,12.8,242,Irrigation,2: Good,-107.588549,38.602746
+533,Eleven Mile Canyon,South Platte River,Colorado,1932,46,114,12.36,157.9,2504,Water supply,2: Good,-105.478234,38.902254
+536,Taylor Park,Taylor Park,Colorado,1937,63,188,5.86,131,3353,Irrigation,2: Good,-106.604289,38.820602
+529,Antero,South Fork of South Platte River,Colorado,1909,16,1277,9.12,141.8,632,Water supply,2: Good,-105.895655,38.989297
+530,Spinney Mountain,South Platte River,Colorado,1982,29,1257,6.14,102.7,2405,Water supply,2: Good,-105.623608,38.97361
+531,Paonia,,Colorado,1961,61,580,0.82,20.4,3694,Irrigation,2: Good,-107.350889,38.942351
+532,North Catamount,North Catamount Creek,Colorado,1959,64,396,0.75,18.6,21,Water supply,2: Good,-105.069792,38.922302
+525,Scipio Lake,Round Valley Creek,Utah,1936,5,297,4.11,14.4,485,Irrigation,2: Good,-112.053324,39.12119
+526,Millsite,Ferron Creek,Utah,1971,35,1265,1.19,24.7,85,Irrigation,2: Good,-111.190106,39.101848
+527,Weber Dam,Walker River,Nevada,1935,14,579,2.01,18.4,13234,Irrigation,2: Good,-118.861185,39.044175
+528,Clear Creek,Clear Creek,Colorado,1910,24,869,1.3,16.7,2689,Water supply,2: Good,-106.245677,39.021027
+521,Vega,Plateau Creek,Colorado,1958,49,581,2.63,41.1,294,Irrigation,2: Good,-107.809638,39.222856
+522,Cheesman,South Platte River,Colorado,1905,67,216,2.67,107.6,4775,Water supply,2: Good,-105.273882,39.210039
+523,Gunnison,San Pitch River,Utah,1889,12,378,5.21,30.8,5688,Irrigation,2: Good,-111.707708,39.207266
+524,Marlette Lake Dam,Marlette Creek,Nevada,1950,15,88,1.53,15.7,67,Water supply,2: Good,-119.90502,39.173654
+517,Ruedi,Fryingpan River,Colorado,1967,88,580,3,160.4,2815,Irrigation,2: Good,-106.814496,39.364977
+518,Joes Valley,Seely Creek,Utah,1965,59,580,3.89,67.7,293,Irrigation,2: Good,-111.272992,39.289893
+519,Sugar Loaf,Lake Fork of Arkansas River,Colorado,1967,49,581,6.42,167.2,256,Irrigation,2: Good,-106.371408,39.253663
+520,Giroux Tailings Impoundment,Giroux Wash,Nevada,1995,37,4316,2.05,34.3,99,Other,2: Good,-115.052083,39.227083
+514,Lahontan,Carson River,Nevada,1915,49,581,29.17,391.3,17536,Irrigation,2: Good,-119.06875,39.460352
+515,Sevier Bridge,Sevier River,Utah,1914,28,408,37.49,446.7,13950,Irrigation,2: Good,-112.0302,39.372709
+516,Homestake Dam,Middle Fork of Homestake River,Colorado,1967,81,608,1.21,56.6,81,Water supply,2: Good,-106.46163,39.367482
+573,Mountain Home,Trinchera Creek,Colorado,1908,47,145,0.68,32,1,Irrigation,2: Good,-105.39218,37.392887
+574,Lemon,Florida River,Colorado,1962,87,580,2.26,48.1,671,,2: Good,-107.659343,37.382549
+575,Vallecito,Los Pinos River,Colorado,1940,49,582,9.84,154.7,3120,,2: Good,-107.572064,37.377799
+576,Vermilion Valley,Mono Creek,California,1954,51,1291,6.69,154.2,2412,Water supply,2: Good,-118.985417,37.370232
+569,Upper Enterprise,Little Pine Creek,Utah,1912,22,49,0.89,14.6,97,Irrigation,2: Good,-113.86166,37.517876
+570,Williams Creek,Williams Creek,Colorado,1958,30,168,1.27,17.9,498,Recreation,2: Good,-107.222694,37.503946
+571,Narraguinnep,Narraguinnep Canyon,Colorado,1908,35,2103,2.23,28,73,Irrigation,2: Good,-108.627786,37.483237
+572,Jackson Gulch,Offstream West Mancos River,Colorado,1948,55,581,0.75,12.3,7,Irrigation,2: Good,-108.273317,37.399487
+565,Recapture Creek,Recapture Creek,Utah,1984,43,884,0.49,19.7,128,Irrigation,2: Good,-109.437291,37.662211
+566,Long Valley,Owens River,California,1941,38,181,16.02,226.3,7422,Recreation,2: Good,-118.707834,37.587829
+567,McPhee,Delores,Colorado,1983,90,580,14.86,282.5,9433,Irrigation,2: Good,-108.571436,37.578215
+568,Cascade 2,Offstream Elbert Creek,Colorado,1902,31,389,2.67,36.8,157,Hydroelectricity,2: Good,-107.805617,37.548048
+561,Groundhog,Groundhog Creek,Colorado,1905,41,226,2.29,33.9,165,Irrigation,2: Good,-108.291307,37.79062
+563,Panguitch Lake,Panguitch Creek,Utah,1872,9,81,4.11,29.3,133,Irrigation,2: Good,-112.631263,37.722445
+564,Rio Grande,Rio Grande,Colorado,1890,36,183,2.61,91,2427,Irrigation,2: Good,-107.270318,37.72147
+557,O'Shaughnessy,Tuolumne River,California,1923,95,274,6.78,444.1,12611,Water supply,2: Good,-119.787927,37.949378
+558,Continental,North Clear Creek,Colorado,1932,37,94,1.81,39.2,727,Irrigation,2: Good,-107.206469,37.884367
+559,Grant Lake,Rush Creek,California,1940,27,213,3.86,58.6,1103,Water supply,2: Good,-119.107292,37.858664
+553,Gurley,Gurley Canyon,Colorado,1961,27,732,1.1,14.8,20,Irrigation,2: Good,-108.247879,38.034581
+554,Cherry Valley,Cherry Creek,California,1956,96,802,6.71,337.4,4469,Irrigation,2: Good,-119.910579,37.977502
+555,Lake Eleanor,Eleanor Creek,California,1918,19,384,3.96,35.3,2880,Water supply,2: Good,-119.880383,37.974799
+549,Silver Jack,East Fork of Cimarron River,Colorado,1970,53,580,0.8,15.8,752,Irrigation,2: Good,-107.540387,38.230238
+550,Rocky Ford,Beaver River,Utah,1914,21,480,2.81,47.8,2201,Irrigation,2: Good,-112.833768,38.21623
+551,Main Strawberry,Stanislaus River,California,1916,44,187,0.74,22.6,1842,Water supply,2: Good,-119.985074,38.197774
+545,Donnells,Middle Fork of Stanislaus River,California,1958,97,229,1.33,80.2,7502,Hydroelectricity,2: Good,-119.958792,38.331332
+546,Bridgeport,East Walker River,California,1924,19,274,9.31,54.4,6814,Irrigation,2: Good,-119.212814,38.325225
+547,Piute,Sevier River,Utah,1938,27,428,8.24,168.8,3125,Irrigation,2: Good,-112.191059,38.322692
+477,Deer Creek,Provo River,Utah,1940,72,580,9.58,184.7,7363,Irrigation,2: Good,-111.525821,40.407034
+478,Lake Loveland,Offstream Big Thompson River,Colorado,1894,14,488,1.81,19.3,30,Irrigation,2: Good,-105.086458,40.406729
+480,Lone Tree,Offstream Big Thompson River,Colorado,1882,9,1554,2.09,13.7,31,Irrigation,2: Good,-105.126042,40.343023
+473,Steinaker,OS,Utah,1960,49,581,2.65,41.1,53,Irrigation,2: Good,-109.53125,40.510417
+474,Long Draw,La Poudre Pass Creek,Colorado,1975,27,558,1.19,17.5,46,Irrigation,2: Good,-105.773932,40.502021
+471,Moon Lake,Lake Fork River,Utah,1937,31,580,3.07,44.2,518,Irrigation,2: Good,-110.489005,40.562222
+472,Elkhead Creek,Elkhead Creek,Colorado,1979,29,354,1.64,22.8,1249,Fisheries,2: Good,-107.382901,40.558125
+465,Terry Lake,Trib. Dry Creek,Colorado,1970,12,1623,1.91,12.3,398,Irrigation,2: Good,-105.083955,40.623918
+466,Chambers Lake,Joe Wright Creek,Colorado,1924,18,648,1.04,14.1,119,Irrigation,2: Good,-105.844359,40.603605
+467,Bor Jordanelle,Provo,Utah,1993,91,1128,10.58,458.9,3065,Water supply,2: Good,-111.422917,40.599261
+468,Dixon Canyon,Cache la Poudre,Colorado,1948,73,580,6.42,210.1,83,Irrigation,2: Good,-105.164661,40.589614
+461,South Fork,South Fork of Humboldt River,Nevada,1988,22,503,6.36,49.3,6857,Recreation,2: Good,-115.783548,40.68374
+462,North Poudre 6,Trib. Cache la Poudre River,Colorado,1905,13,494,1.52,17.9,62,Irrigation,2: Good,-105.030238,40.673895
+457,Little Dell,Mountain Dell,Utah,1993,68,518,0.68,30.8,296,Water supply,2: Good,-111.701575,40.770068
+458,Smith and Morehouse Dam,Smith and Morehouse Creek,Utah,1987,28,671,0.6,13,392,Irrigation,2: Good,-111.104034,40.76266
+460,Douglas,Dry Creek,Colorado,1901,14,853,1.83,14.4,255,Irrigation,2: Good,-105.087815,40.708039
+454,Rawhide,Trib. Coal Creek,Colorado,1980,34,2195,1.91,25,85,Water supply,2: Good,-105.019943,40.849616
+455,Willow Creek,Willow Creek,Colorado,1966,30,213,4.05,45.5,231,Recreation,2: Good,-106.948734,40.793559
+456,Wanship,Weber River,Utah,1956,53,581,3.54,75.1,4522,Flood control,2: Good,-111.40263,40.787922
+449,Echo,Weber River,Utah,1930,48,581,4.77,91.2,9954,Irrigation,2: Good,-111.430527,40.963948
+450,East Canyon,East Canyon Creek,Utah,1965,79,579,2.13,59.3,2521,Irrigation,2: Good,-111.597917,40.919468
+451,Flaming Gorge,Green River,Utah,1963,153,580,126.54,4336.3,97626,Water supply,2: Good,-109.420471,40.915665
+452,Long Park,Sheep Creek,Utah,1980,34,262,0.74,18,4,Irrigation,2: Good,-109.86875,40.909491
+509,Dillon,Blue River,Colorado,1963,94,1798,12.31,376.2,4138,Recreation,2: Good,-106.060416,39.61875
+510,Electric Lake Dam,Huntington Creek,Utah,1974,70,280,1.04,43.8,185,Water supply,2: Good,-111.214737,39.602668
+505,Ralston,Ralston Creek,Colorado,1937,62,357,0.4,19.6,336,Water supply,2: Good,-105.241537,39.832745
+506,Scofield,Price River,Utah,1945,38,579,9.96,81.2,1107,Irrigation,2: Good,-111.12828,39.788265
+507,Rifle Gap,Rifle Creek,Colorado,1966,48,580,1.43,15,1288,Irrigation,2: Good,-107.759375,39.628571
+501,Marshall Lake,Trib. South Boulder Creek,Colorado,1908,31,722,1.28,15.9,3,Irrigation,2: Good,-105.210434,39.947899
+502,Green Mountain,Blue River,Colorado,1942,94,580,6.65,139.1,9539,Irrigation,2: Good,-106.329309,39.876756
+503,Mona,Current Creek,Utah,1895,9,65,6.61,37,4854,Irrigation,2: Good,-111.87122,39.875545
+504,Standley Lake,Big Dry Creek,Colorado,1913,37,1798,4.88,67.5,80,Irrigation,2: Good,-105.115448,39.872173
+497,Williams Fork,Williams Fork River,Colorado,1959,86,183,5.34,125.3,3601,Water supply,2: Good,-106.205943,40.03395
+498,Valmont A,Trib. Boulder Creek,Colorado,1962,24,1102,2.15,19.7,10,Water supply,2: Good,-105.185417,40.030292
+499,Barker,Middle Boulder Creek,Colorado,1910,53,219,0.44,15.3,453,Water supply,2: Good,-105.486458,39.965712
+500,Gross,South Boulder Creek,Colorado,1955,104,332,1.22,58.6,944,Water supply,2: Good,-105.357859,39.949456
+493,Soldier Creek,Strawberry River,Utah,1972,83,580,61.13,1390.9,2114,Irrigation,2: Good,-111.028275,40.137146
+494,Taylor Draw,White River,Colorado,1984,25,351,1.51,27.4,19126,Flood control,2: Good,-108.7129,40.108072
+495,Boulder North Dam,Dry Creek,Colorado,1955,16,808,2.92,21.8,83,Water supply,2: Good,-105.212051,40.081497
+496,Yamcolo,Bear River,Colorado,1980,34,579,0.74,15,267,Irrigation,2: Good,-107.047989,40.055812
+490,Union,Trib. St. Vrain Creek,Colorado,1933,10,427,2.74,22.6,48,Irrigation,2: Good,-105.046128,40.174675
+491,Willow Creek,Willow Creek,Colorado,1952,39,580,1.05,13.8,1005,Irrigation,2: Good,-105.945086,40.147981
+492,Granby,Colorado River,Colorado,1949,91,580,24.68,574.3,1936,Irrigation,2: Good,-105.856013,40.139748
+486,Button Rock,North Fork of St. Vrain Creek,Colorado,1967,65,284,0.68,25.2,602,Water supply,2: Good,-105.370092,40.21813
+487,Shadow Mountain,Colorado River,Colorado,1945,19,582,5.07,22.7,1115,Irrigation,2: Good,-105.84375,40.210417
+488,Bor Starvation,Strawberry River,Utah,1970,61,91,11.26,233.1,5871,Water supply,2: Good,-110.444834,40.191264
+481,Carter Lake Dam 1,Offstream Big Thompson River,Colorado,1951,65,580,4.16,124.6,11,Irrigation,2: Good,-105.214853,40.326941
+482,Big Sand Wash,Big Sand Wash,Utah,1965,34,242,1.33,18,63,Irrigation,2: Good,-110.227662,40.295551
+483,North Bottle Hollow,Offstream Uinta River,Utah,1970,23,152,1.71,14.5,6,Recreation,2: Good,-109.878405,40.290901
+484,Stagecoach,Offstream Yampa River,Colorado,1989,44,110,2.92,51.4,959,Irrigation,2: Good,-106.833021,40.285105
+413,Minidoka,Snake River,Idaho,1905,26,583,30.52,117.4,272162,Irrigation,2: Good,-113.484084,42.667609
+414,Soda,Bear River,Idaho,1925,29,150,4.1,19.4,22499,Hydroelectricity,2: Good,-111.694731,42.644502
+409,Boulder Lake,Boulder Creek,Wyoming,1964,8,116,6.75,46.6,2201,Irrigation,2: Good,-109.701363,42.83623
+410,Shoshone Lake,Shoshone Creek,Wyoming,1959,14,125,2.03,15.9,94,Irrigation,2: Good,-109.017708,42.793246
+411,American Falls,Snake River,Idaho,1977,32,583,199.28,2061.5,251532,Irrigation,2: Good,-112.873708,42.779062
+412,Laprele,La Prele Creek,Wyoming,1909,41,98,1.43,33.1,803,Irrigation,2: Good,-105.613712,42.718483
+405,C.J. Strike,Snake River,Idaho,1952,35,981,25.16,304.7,459401,Hydroelectricity,2: Good,-115.972917,42.947917
+407,Fremont Lake,Pine Creek,Wyoming,1993,5,70,19.61,38.1,1709,Irrigation,2: Good,-109.835417,42.90693
+408,Lower Salmon,Snake River,Idaho,1949,34,366,2.65,13.4,379220,Hydroelectricity,2: Good,-114.906203,42.839323
+402,Blackfoot,Blackfoot River,Idaho,1911,13,93,66.68,505.7,7157,Irrigation,2: Good,-111.713537,43.006451
+403,Willow Lake,Lake Creek,Wyoming,1955,6,98,7.03,39.6,608,Irrigation,2: Good,-109.905078,42.995
+404,Ray Lake,Offstream Trib. Mill Creek,Wyoming,1925,9,716,1.76,10.7,175,Irrigation,2: Good,-108.819757,42.953073
+397,Magic Dam,Big Wood River,Idaho,1910,39,945,12.45,240.5,20639,Hydroelectricity,2: Good,-114.360473,43.256388
+398,Bull Lake,Bull Lake Creek,Wyoming,1937,24,582,10.87,187.2,2094,Irrigation,2: Good,-109.044413,43.209951
+399,Pilot Butte,Wyoming Canal,Wyoming,1925,20,580,3.05,45.5,85,Irrigation,2: Good,-108.760417,43.195527
+400,New Fork Lake,West Fork of New Fork River,Wyoming,1925,9,76,5.03,31.7,605,Irrigation,2: Good,-109.967298,43.089658
+393,Boysen,Wind,Wyoming,1951,67,580,74.42,678.3,56618,Flood control,2: Good,-108.177221,43.414157
+394,Anderson Ranch,South Fork of Boise River,Idaho,1946,139,580,15.92,521.8,10257,Irrigation,2: Good,-115.447429,43.36022
+395,Little Camas Dam,Little Camas Creek,Idaho,1912,13,596,3.42,29.7,529,Irrigation,2: Good,-115.388704,43.350723
+396,Palisades,Snake River,Idaho,1956,82,581,59.63,1480.2,103326,Irrigation,2: Good,-111.202028,43.330514
+389,Deer Flat Upper,Offstream Boise River,Idaho,1907,23,582,27.75,208.5,508,Irrigation,2: Good,-116.73125,43.584629
+390,Ririe,Willow Creek,Idaho,1976,77,580,3.98,99.3,7790,Flood control,2: Good,-111.740813,43.580736
+391,Lucky Peak,Boise River,Idaho,1955,104,713,5.75,378.7,29634,Flood control,2: Good,-116.052083,43.526359
+392,Little Wood River,Little Wood River,Idaho,1961,52,582,1.83,37,4133,Irrigation,2: Good,-114.028321,43.426524
+385,Anchor,South Fork of Owl Creek,Wyoming,1959,64,579,0.65,21.2,930,Irrigation,2: Good,-108.827888,43.663883
+386,Owyhee,Owyhee River,Oregon,1931,127,580,40.49,881.9,32208,Irrigation,2: Good,-117.238522,43.639982
+387,Arrowrock,Boise River,Idaho,1914,107,580,8.81,353.4,23205,Irrigation,2: Good,-115.921576,43.593558
+445,Meeks Cabin,Blacks Fork River,Wyoming,1970,56,582,1.44,36.4,987,Irrigation,2: Good,-110.582609,41.025296
+448,Bor Stateline Summit,East Fork of Smiths Fork,Utah,1979,39,792,0.69,17.3,95,Irrigation,2: Good,-110.386982,40.987986
+441,Rob Roy,Douglas Creek,Wyoming,1986,46,334,2.67,52.1,122,Water supply,2: Good,-106.260465,41.198489
+442,Lost Creek,Lost Creek,Utah,1965,76,580,1.1,24.7,1370,Irrigation,2: Good,-111.39784,41.185867
+443,Sulphur Creek,Sulphur Creek,Wyoming,1964,26,1440,1.77,24.4,619,Irrigation,2: Good,-110.830852,41.155854
+444,Hog Park Main Dam,Hog Park Creek,Wyoming,1986,36,335,1.97,30.8,75,Water supply,2: Good,-106.861599,41.034694
+437,Arthur V. Watkins,Offstream Willard Creek,Utah,1963,11,643,39.39,244.6,949,Irrigation,2: Good,-112.130397,41.376955
+438,Pineview,Ogden River,Utah,1936,42,579,9.68,135.7,5218,Flood control,2: Good,-111.841795,41.254826
+433,Woodruff Narrows,Bear River,Wyoming,1962,21,189,8.67,70.7,6349,Irrigation,2: Good,-111.018826,41.501721
+435,Jerritt Canyon Tailings Dam,Offstream North Fork of Humboldt River,Nevada,1981,49,4267,0.9,29.6,10,Other,2: Good,-115.895135,41.399013
+430,Wild Horse Dam,East Fork of Owyhee River,Nevada,1969,27,140,10.04,117.5,1229,Recreation,2: Good,-115.83377,41.684728
+431,Hyrum,Little Bear River,Utah,1934,35,579,1.55,17.8,2916,Irrigation,2: Good,-111.871746,41.623799
+432,Porcupine,East Fork of Little Bear River,Utah,1962,50,203,0.51,17.9,1025,Irrigation,2: Good,-111.745961,41.519174
+425,Lake Viva Naughton Dam,Hams Fork River,Wyoming,1967,25,975,4.66,95.8,1276,Other,2: Good,-110.660417,41.96939
+428,Wheatland 2,Laramie River,Wyoming,1901,11,2531,22.62,178.7,4487,Irrigation,2: Good,-105.642093,41.833794
+421,Seminoe,North Platte River,Wyoming,1938,90,579,57.2,1254.8,49468,Irrigation,2: Good,-106.906358,42.154838
+423,Fontenelle,Green River,Wyoming,1963,42,583,31.32,185.6,56459,Hydroelectricity,2: Good,-110.065625,42.028371
+424,Wheatland 1,Offstream Sybille Creek,Wyoming,1960,15,2012,1.43,14.3,9,Irrigation,2: Good,-105.043725,41.997877
+417,Hart Lake,,Oregon,1963,6,3048,28.66,64.3,4167,Irrigation,2: Good,-119.856249,42.443132
+418,Oneida,Bear River,Idaho,1913,31,139,1.36,14.1,24880,Hydroelectricity,2: Good,-111.746388,42.274419
+420,Eden Dike 1,Offstream Little Sandy Creek,Wyoming,1906,9,581,3.09,16.2,62,Irrigation,2: Good,-109.372287,42.238935
+350,McKay,McKay Creek,Oregon,1926,50,581,2.53,83.6,2614,Irrigation,2: Good,-118.792708,45.605278
+351,Cooney,Red Lodge Creek,Montana,1937,30,689,2.45,29.8,5223,Irrigation,2: Good,-109.203451,45.450494
+352,Madison Dam,Madison River,Montana,1907,12,78,13.55,51.9,46995,Hydroelectricity,2: Good,-111.660501,45.447866
+345,Como,Rock Creek,Montana,1910,26,777,3.06,47.5,1196,Irrigation,2: Good,-114.236534,46.063822
+346,Cold Springs,Offstream Cold Springs Wash,Oregon,1907,35,582,3.38,55,680,Irrigation,2: Good,-119.171723,45.860356
+347,West Fork Bitterroot,West Fork of Bitterroot River,Montana,1940,44,244,1.36,55.6,5443,Irrigation,2: Good,-114.281904,45.717058
+348,Willow Creek Dam,Willow Creek,Montana,1938,32,138,1.28,32.8,923,Irrigation,2: Good,-111.702358,45.70526
+341,Flint Creek Dam,Flint Creek,Montana,1905,14,101,10.35,61.7,653,Water supply,2: Good,-113.278141,46.208565
+343,Opportunity Tailings Ponds,Offstream Silver Bow Creek,Montana,1962,11,6096,1.91,11.4,4151,Other,2: Good,-112.782348,46.159241
+344,East Fork Rock Creek Dam,East Fork of Rock Creek,Montana,1938,27,328,1.23,24.5,360,Irrigation,2: Good,-113.380592,46.12965
+337,North Fork of Smith River Dam,North Fork of Smith River,Montana,1936,28,396,0.73,17.5,1092,Irrigation,2: Good,-110.746167,46.621322
+338,Dworshak Dam,North Fork of Clearwater River,Idaho,1973,219,1002,51.94,4391.2,140388,Flood control,2: Good,-116.297014,46.516351
+339,Martinsdale North Dam,Trib. Musselshell River,Montana,1939,31,305,3.13,44.4,87,Irrigation,2: Good,-110.269359,46.450783
+340,Deadmans Basin Dam,Trib. Musselshell River,Montana,1941,19,454,6.96,123.3,34,Irrigation,2: Good,-109.422917,46.332136
+336,Newlan Creek Dam,Newlan Creek,Montana,1977,34,259,0.77,19.2,709,Irrigation,2: Good,-110.937696,46.637258
+329,O'Sullivan,Crab Creek,Washington,1948,61,595,60.7,409.9,38165,Flood control,2: Good,-119.264583,46.982823
+330,Petrolia,South Fork of Flatwillow Creek,Montana,1951,23,1108,1.26,17.5,103,Irrigation,2: Good,-108.237168,46.940883
+331,Nevada Creek Dam,Nevada Creek,Montana,1938,32,330,1.26,21.3,2111,Irrigation,2: Good,-112.809163,46.800985
+332,Hauser Dam,Missouri,Montana,1911,38,223,11.86,172.6,173367,Hydroelectricity,2: Good,-111.885127,46.760509
+327,Moses Lake South,Crab Creek,Washington,1961,6,579,23.34,61.7,24274,Irrigation,2: Good,-119.33013,47.085252
+321,Crow,Crow Creek,Montana,1933,30,274,0.92,12.8,6278,Irrigation,2: Good,-114.229384,47.503721
+322,Nilan East Dam,Trib. Elk Creek,Montana,1951,16,308,2.05,19.2,80,Irrigation,2: Good,-112.539583,47.485253
+323,Pinto,Offstream Crab Creek,Washington,1947,40,581,3.5,26.1,1404,Irrigation,2: Good,-119.247831,47.448531
+381,Upper Sunshine,Greybull,Wyoming,1942,49,351,4.2,80.3,53,Irrigation,2: Good,-109.049863,44.058977
+382,Bully Creek,Bully Creek,Oregon,1962,37,582,2.4,37,6287,Irrigation,2: Good,-117.398688,44.01512
+383,Agency Valley,North Fork of Malheur River,Oregon,1934,34,581,5.83,73.9,3645,Irrigation,2: Good,-118.155208,43.912118
+384,Jackson Lake,Snake River,Wyoming,1911,21,1500,106.11,1076.8,23618,Irrigation,2: Good,-110.591126,43.857485
+377,Deadwood,Deadwood River,Idaho,1930,50,579,10.85,199.8,3797,Irrigation,2: Good,-115.645624,44.295039
+378,Grassy Lake,Grassy Creek,Wyoming,1938,36,580,1.07,18.7,99,Irrigation,2: Good,-110.817278,44.129764
+379,Lower Sunshine,Offstream Sunshine Creek,Wyoming,1972,49,506,3.53,88.6,112,Irrigation,2: Good,-108.981198,44.097302
+380,Ashton,Henrys Fork,Idaho,1913,18,69,1.42,12.1,30985,Hydroelectricity,2: Good,-111.496207,44.078935
+373,Buffalo Bill,Shoshone River,Wyoming,1909,107,579,25.66,746,7950,Hydroelectricity,2: Good,-109.186819,44.500233
+374,Island Park,Henrys Fork,Idaho,1937,29,587,29.04,157,14223,Irrigation,2: Good,-111.394991,44.420051
+375,Mann Creek,Mann Creek,Idaho,1966,45,580,0.65,13.7,1422,Irrigation,2: Good,-116.89813,44.39375
+376,Willow Creek Reservoir 3,Willow Creek,Oregon,1944,34,201,2.67,60.4,3509,Irrigation,2: Good,-117.674399,44.354561
+369,Big Goose Park Main Dam,East Fork of Big Goose Creek,Wyoming,1958,29,390,1.09,15.4,91,Irrigation,2: Good,-107.213542,44.568126
+370,Cascade,North Fork of Payette River,Idaho,1947,33,580,94.78,805.5,24798,Irrigation,2: Good,-116.053057,44.523064
+371,Lake Desmet,Piney Creek,Wyoming,1975,37,1219,12.68,289.9,118,Water supply,2: Good,-106.781869,44.51387
+372,Unity,Burnt River,Oregon,1937,25,579,3.27,31.1,5885,Irrigation,2: Good,-118.18281,44.504773
+365,Brownlee,Snake River,Idaho,1958,126,421,43.61,1751.6,793496,Hydroelectricity,2: Good,-116.902154,44.835014
+366,Earthquake Lake,Madison River,Montana,1959,61,366,2.3,73.4,26777,Other,2: Good,-111.422178,44.831524
+367,Mason,Powder River,Oregon,1967,53,580,5.33,90.7,4104,Irrigation,2: Good,-117.999626,44.671057
+368,Lima,Red Rock River,Montana,1934,17,139,14.32,164.1,9658,Irrigation,2: Good,-112.363205,44.654902
+361,Thief Valley,Powder River,Oregon,1931,22,579,2.7,21.5,16916,Irrigation,2: Good,-117.78289,45.013574
+362,Clark Canyon,Beaverhead River,Montana,1963,45,582,18.03,217.8,19694,Irrigation,2: Good,-112.860426,44.997869
+363,Oxbow,Snake River,Oregon,1961,67,293,4.48,72,806597,Hydroelectricity,2: Good,-116.837102,44.970949
+364,Hebgen Dam,Madison River,Montana,1915,27,220,48.12,648.3,24465,Hydroelectricity,2: Good,-111.334057,44.863227
+358,Willow Creek,Willow Creek,Montana,1941,41,764,2.49,28.4,111,Irrigation,2: Good,-107.597944,45.164583
+359,Tongue River Dam,Tongue River,Montana,1939,28,556,8.55,185,6314,Irrigation,2: Good,-106.769792,45.13061
+360,Wolf Creek Reservoir,Wolf Creek,Oregon,1974,39,488,0.63,14.8,552,Irrigation,2: Good,-118.019879,45.053061
+353,Willow Creek Reservoir,Willow Creek,Oregon,1983,50,518,0.4,16.3,524,Recreation,2: Good,-119.54375,45.344451
+354,Wallowa Lake,Wallowa River,Oregon,1931,12,58,6.17,60.8,1179,Irrigation,2: Good,-117.22121,45.33359
+356,Ruby Dam,Ruby River,Montana,1938,34,258,2.8,72,7191,Irrigation,2: Good,-112.111221,45.237904
+317,Pishkun Dike 1,Trib. Deep Creek,Montana,1930,15,581,6.02,57.6,48,Irrigation,2: Good,-112.48791,47.674729
+318,Pablo,Offstream Pablo Canal,Montana,1914,13,3216,3.06,36.5,134,Irrigation,2: Good,-114.145429,47.643194
+319,Gibson,Sun River,Montana,1928,61,580,3.91,122.2,12921,Irrigation,2: Good,-112.762395,47.60042
+320,Willow Creek,Willow Creek,Montana,1910,28,579,5.47,49.1,1209,Irrigation,2: Good,-112.428497,47.549113
+313,Long Lake,Spokane River,Washington,1915,70,181,18.83,129.6,224350,Hydroelectricity,2: Good,-117.837699,47.8343
+314,Newman Lake Flood Control Dam,Thompson Creek,Washington,1976,4,2560,4.49,13.9,1042,Recreation,2: Good,-117.087375,47.763065
+315,Post Falls Middle Channel,Spokane River,Idaho,1906,18,66,125.54,277.5,165261,Hydroelectricity,2: Good,-116.951042,47.705243
+309,Noxon Rapids,Clark Fork of Pend Oreille River,Montana,1960,55,1780,23.07,493.4,658332,Hydroelectricity,2: Good,-115.73393,47.958644
+310,Grand Coulee,Columbia River,Washington,1941,168,584,269.2,6395.6,3166706,Irrigation,2: Good,-118.98095,47.954652
+311,Dry Falls,Offstream Upper Grand Coulee,Washington,1948,37,587,106.65,881.9,2011,Flood control,2: Good,-119.019462,47.939695
+312,Hubbart,Little Bitterroot River,Montana,1923,40,153,1.56,19.5,3243,Irrigation,2: Good,-114.735349,47.931112
+307,Fort Peck Dam,Missouri,Montana,1957,78,6409,814.09,23560,306445,Flood control,2: Good,-106.414583,48.001098
+301,Lake Frances East Dam,Trib. Dry Fork of Marias River,Montana,1909,20,213,17.93,164.1,92,Irrigation,2: Good,-112.29375,48.302083
+302,Twin Lakes,Stranger Creek,Washington,1931,5,72,7.01,23.4,218,Irrigation,2: Good,-118.378177,48.277278
+297,Libby,Kootenai River,Montana,1973,129,881,163.81,7434.2,318897,Hydroelectricity,2: Good,-115.313542,48.411432
+298,Four Horns,Big Plum Coulee,Montana,1932,14,351,2.73,37,206,Irrigation,2: Good,-112.698714,48.346365
+299,Hungry Horse,South Fork of Flathead River,Montana,1952,172,581,75.37,3678.3,83210,Irrigation,2: Good,-114.010417,48.339662
+293,Fresno,Milk River,Montana,1938,34,581,11.26,126.9,227,Irrigation,2: Good,-109.949037,48.599168
+296,Lower Two Medicine,Two Medicine Creek,Montana,1967,20,335,2.86,31,2301,Irrigation,2: Good,-113.265832,48.493392
+291,Osoyoos Lake Control Dam,Okanogan River,Washington,1986,12,79,22.54,67.8,34776,Recreation,2: Good,-119.431149,48.952613
+292,Lake Sherburne,Swift Current Creek,Montana,1920,33,580,3.91,79.9,1638,Irrigation,2: Good,-113.523663,48.828116
+221,Calero,Calero Creek,California,1935,27,256,1.1,12.2,124,Irrigation,2: Good,-121.789454,37.1814
+222,Leroy Anderson,Coyote River,California,1950,72,436,3.9,112.6,2327,Irrigation,2: Good,-121.629554,37.166223
+223,Coyote,Coyote Creek,California,1936,43,299,1.83,29.2,1170,Irrigation,2: Good,-121.548868,37.117567
+224,Newell,Newell Creek,California,1960,55,229,0.43,11.1,210,Recreation,2: Good,-122.072401,37.103536
+217,Lower Crystal Springs,San Mateo Creek,California,1888,43,183,3.69,71.4,444,Water supply,2: Good,-122.362175,37.526013
+218,McSwain,Merced River,California,1966,30,457,0.69,12.3,37749,Hydroelectricity,2: Good,-120.309147,37.519675
+219,Calaveras,Calaveras Creek,California,1925,64,366,5.16,123.3,1056,Water supply,2: Good,-121.822917,37.489583
+220,James J. Lenihan,Los Gatos Creek,California,1953,63,247,0.96,26.4,807,Irrigation,2: Good,-121.989045,37.200302
+213,Del Valle,Arroyo Valle,California,1968,68,268,2.55,95.1,1358,Irrigation,2: Good,-121.744035,37.613313
+214,Exchequer Main,Merced River,California,1966,149,427,19.35,1480.2,36991,Hydroelectricity,2: Good,-120.271021,37.586276
+215,San Andreas,Trib. San Mateo Creek,California,1870,33,222,1.61,23.5,76,Water supply,2: Good,-122.411617,37.581726
+216,James H. Turner,San Antonio Creek,California,1964,59,658,2.76,62.3,445,Water supply,2: Good,-121.847584,37.57207
+209,Chabot,San Leandro Creek,California,1892,43,137,0.84,12.7,540,Water supply,2: Good,-122.121362,37.73131
+210,Don Pedro,Tuolumne River,California,1971,173,579,41.55,2504,57604,Irrigation,2: Good,-120.419017,37.70282
+211,Modesto Reservoir,Trib. Tuolumne River,California,1911,11,376,6.25,35.8,187,Irrigation,2: Good,-120.679741,37.66041
+212,Turlock Lake,Trib. Tuolumne River,California,1915,11,60,7.92,56.2,206,Water supply,2: Good,-120.600783,37.623489
+205,Woodward,Simmons Creek,California,1918,20,945,5.47,43.2,162,Irrigation,2: Good,-120.875419,37.86321
+206,Clifton Court,Trib. Old River,California,1970,10,11887,9.43,35.8,2976,Irrigation,2: Good,-121.573362,37.862702
+207,Los Vaqueros,Kellogg Creek,California,1997,60,299,5.25,123.3,196,Water supply,2: Good,-121.728565,37.835349
+208,New San Leandro,San Leandro Creek,California,1977,55,396,1.41,51.8,428,Water supply,2: Good,-122.098998,37.763463
+202,Briones,Bear Creek,California,1964,83,640,1.99,83.3,134,Water supply,2: Good,-122.209269,37.915522
+204,Tulloch,Stanislaus River,California,1958,62,583,3.17,84.4,43619,Hydroelectricity,2: Good,-120.602083,37.877114
+198,New Melones,Stanislaus River,California,1979,194,580,43.21,2985,41524,Irrigation,2: Good,-120.522863,37.948664
+199,Jamestown Mines,Trib. Woods Creek,California,1994,61,1152,0.4,14.9,9,Water supply,2: Good,-120.444604,37.945322
+200,San Pablo,San Pablo Creek,California,1920,52,381,2.1,53.3,500,Water supply,2: Good,-122.259099,37.942618
+193,New Hogan Dam,Calaveras River,California,1963,64,597,14.76,391.1,12995,Flood control,2: Good,-120.813047,38.152175
+194,Soulajule,Arroyo Sausal,California,1979,37,213,0.73,13.2,823,Irrigation,2: Good,-122.782567,38.150588
+195,Seeger,Nicasio Creek,California,1961,35,122,3.17,27.6,1594,Water supply,2: Good,-122.75335,38.078079
+196,Salt Springs Valley,Rock Creek,California,1882,14,655,4.51,13.4,545,Irrigation,2: Good,-120.760415,38.031251
+233,Salinas Dam,Salinas River,California,1941,41,93,1.82,53.3,1342,Water supply,2: Good,-120.500628,35.337189
+234,Lopez,Arroyo Grande Creek,California,1969,51,341,2.45,64.8,916,Irrigation,2: Good,-120.486458,35.189583
+229,Hernandez,San Benito River,California,1962,38,290,1.71,22.2,617,Irrigation,2: Good,-120.834811,36.393982
+230,San Antonio,San Antonio River,California,1965,62,437,18.39,431.7,6979,Irrigation,2: Good,-120.886663,35.798659
+231,Nacimiento,Nacimiento River,California,1957,64,497,15.95,431.7,7104,Irrigation,2: Good,-120.886973,35.759477
+232,Whale Rock,Old Creek,California,1960,59,259,2.04,50.2,372,Irrigation,2: Good,-120.884956,35.448964
+226,B.F. Sisk,San Luis Creek,California,1967,116,594,48.76,2419.3,470,Irrigation,2: Good,-121.082393,37.067455
+227,Uvas,Uvas Creek,California,1957,36,335,0.94,12.3,572,Irrigation,2: Good,-121.691241,37.065915
+228,Los Banos Creek Detention Dam,Los Banos Creek,California,1965,51,580,1.45,32.4,761,Flood control,2: Good,-120.933041,36.991883
+157,Boca,Little Truckee River,California,1939,35,580,2.04,50.7,6643,Irrigation,2: Good,-120.095694,39.391436
+158,New Bullards Bar,North Yuba River,California,1970,194,677,14.49,1196,27450,Irrigation,2: Good,-121.142593,39.393473
+159,Lake Fordyce,Fordyce Creek,California,1873,44,294,2.05,60.3,1480,Water supply,2: Good,-120.496074,39.380461
+160,Prosser Creek,Prosser Creek,California,1962,50,581,1.29,35.3,2355,Flood control,2: Good,-120.141076,39.3785
+153,Independence,Independence Creek,California,1939,9,258,2.75,22.8,416,Water supply,2: Good,-120.290738,39.450598
+154,Bowman,Canyon Creek,California,1927,53,122,2.93,78.9,1654,Irrigation,2: Good,-120.651504,39.449205
+155,French Lake,Canyon Creek,California,1948,30,91,1.3,17,261,Irrigation,2: Good,-120.538742,39.419618
+156,Scott,Eel River,California,1921,42,248,7.45,90,13635,Water supply,2: Good,-122.955096,39.410033
+149,Thermalito Forebay,Offstream Feather River,California,1967,28,4846,2.07,14.6,292,Hydroelectricity,2: Good,-121.626157,39.515671
+150,Jackson Meadows,Middle Fork of Yuba River,California,1965,59,466,3.83,64.8,1942,Irrigation,2: Good,-120.554463,39.508632
+151,Stampede,Little Truckee River,California,1970,73,580,12.93,273.3,5427,Flood control,2: Good,-120.106838,39.473759
+152,Thermalito Afterbay,Offstream Feather River,California,1967,12,12802,12.53,70.3,888,Water supply,2: Good,-121.644792,39.457142
+145,Little Grass Valley,South Fork of Feather River,California,1961,64,256,5.89,114.7,1405,Irrigation,2: Good,-121.017848,39.724074
+146,Stony Gorge,Stony Creek,California,1928,47,580,4.11,62.1,11662,Irrigation,2: Good,-122.530468,39.585442
+147,Sly Creek,Lost Creek,California,1961,83,640,2.18,80.2,1335,Irrigation,2: Good,-121.113718,39.582613
+148,Oroville,Feather River,California,1968,235,2109,45.55,4366.5,134108,Flood control,2: Good,-121.481218,39.539616
+141,Frenchman,Little Last Chance Creek,California,1961,39,219,5.28,68.4,1083,Irrigation,2: Good,-120.191195,39.8944
+142,Grizzly Valley,Big Grizzly Creek,California,1966,35,244,17.85,102.4,1338,Recreation,2: Good,-120.47787,39.885247
+143,Paradise,Little Butte Creek,California,1957,53,524,0.74,14.2,322,Irrigation,2: Good,-121.577083,39.852783
+144,Black Butte Dam,Stoney Creek,California,1963,48,905,10.34,177.3,24677,Flood control,2: Good,-122.339583,39.814583
+137,Antelope,Indian Creek,California,1964,34,402,2.96,27.8,1461,Recreation,2: Good,-120.605896,40.18168
+138,Lake Almanor,North Fork of Feather River,California,1927,40,381,102.87,1613.4,15561,Irrigation,2: Good,-121.087815,40.174792
+139,Butt Valley,Butt Creek,California,1924,32,452,6.07,61.4,3479,Irrigation,2: Good,-121.144792,40.115902
+140,Bucks Storage,Bucks Creek,California,1928,37,372,6.89,127,1537,Irrigation,2: Good,-121.201337,39.897279
+133,Whiskeytown,Clear Creek,California,1963,86,581,11.08,263.4,11922,Hydroelectricity,2: Good,-122.540564,40.599432
+134,Mccoy Flat,Susan River,California,1891,6,198,6.75,21.3,1524,Irrigation,2: Good,-120.942659,40.453906
+135,Robert W. Matthews,Mad River,California,1962,46,192,4.29,63.9,9825,Recreation,2: Good,-123.432155,40.367331
+136,Indian Ole,Hamilton Creek,California,1924,8,80,18.71,30.6,2953,Water supply,2: Good,-121.023036,40.282206
+129,Pit 7,Pit River,California,1965,70,235,0.75,42.1,56879,Water supply,2: Good,-121.989195,40.848975
+130,Heath Dam,Slate Creek,California,1965,14,494,1.52,10.7,196,Irrigation,2: Good,-120.785642,40.839734
+131,Trinity,Trinity River,California,1962,164,581,56.28,2633.5,41008,Irrigation,2: Good,-122.760687,40.802949
+132,Shasta,Sacramento River,California,1945,183,582,102.47,4890.7,127250,Irrigation,2: Good,-122.422031,40.720459
+189,Jackson Creek,Jackson Creek,California,1965,59,347,1.13,27.1,1802,Irrigation,2: Good,-120.888188,38.304594
+190,Pardee,Mokelumne River,California,1929,105,408,8.21,244.2,25083,Water supply,2: Good,-120.850562,38.257854
+191,Camanche,Mokelumne River,California,1963,52,732,28.07,514.5,26117,Water supply,2: Good,-121.022487,38.22259
+192,Beardsley,Middle Fork of Stanislaus River,California,1957,87,305,1.83,120.6,11443,Hydroelectricity,2: Good,-120.072817,38.206297
+185,Monticello,Putah Creek,California,1957,93,580,66.28,1963.6,20725,Irrigation,2: Good,-122.106948,38.513668
+187,Conn Creek,Conn Creek,California,1946,38,213,2.79,38.2,1787,Irrigation,2: Good,-122.38011,38.48687
+188,Lake Curry,Gordon Valley Creek,California,1926,33,174,1.21,13.2,489,Water supply,2: Good,-122.124379,38.358061
+181,Sly Park,Sly Park Creek,California,1955,58,580,2.45,50.1,804,Irrigation,2: Good,-120.568702,38.719078
+182,Folsom,American River,California,1955,104,580,33.68,1102.7,93684,Irrigation,2: Good,-121.156241,38.710426
+183,Caples Lake,Trib. Silver Fork,California,1922,22,366,2.37,26.6,440,Water supply,2: Good,-120.047917,38.706229
+184,Lower Bear,Bear River,California,1952,75,562,2.12,66.6,1480,Hydroelectricity,2: Good,-120.254546,38.537099
+177,Mark Edson,Pilot Creek,California,1962,49,375,1.33,24.7,722,Irrigation,2: Good,-120.602019,38.902035
+178,Union Valley,Silver Creek,California,1963,138,549,8.05,283.7,3630,Recreation,2: Good,-120.439328,38.867879
+179,Ice House,South Fork of Silver Creek,California,1959,46,439,2.57,45.8,1178,Recreation,2: Good,-120.361604,38.824184
+180,Warm Springs Dam,Dry Creek,California,1982,109,914,8.79,553.8,9132,Flood control,2: Good,-123.011209,38.718758
+173,Indian Valley,North Fork of Cache Creek,California,1975,69,294,14.04,442.8,5570,Irrigation,2: Good,-122.535917,39.082147
+174,Lower Hell Hole,Rubicon River,California,1966,125,472,3.14,257.1,5749,Irrigation,2: Good,-120.407324,39.061146
+175,Camp Far West,Bear River,California,1963,56,640,6.57,128.9,14828,Irrigation,2: Good,-121.314531,39.052137
+176,Loon Lake,Gerle Creek,California,1963,33,698,4.66,94.4,287,Water supply,2: Good,-120.309375,39.001324
+169,Coyote Valley Dam,East Fork of Russian River,California,1959,55,1074,6.75,191.8,6548,Flood control,2: Good,-123.180998,39.197467
+170,Lake Tahoe,Truckee River,California,1913,6,579,495.62,902.9,18851,Irrigation,2: Good,-120.141773,39.160972
+171,Rollins,Bear River,California,1965,69,561,2.44,81.4,6692,Water supply,2: Good,-120.95432,39.137297
+172,L.L. Anderson,Middle Fork of American River,California,1965,70,823,4.76,137.3,2681,Irrigation,2: Good,-120.46816,39.110417
+165,Donner Lake,Donner Creek,California,1927,5,14,3.18,12.7,780,Irrigation,2: Good,-120.241002,39.323946
+166,Lake Valley,Trib. North Fork of American River,California,1911,23,287,0.99,10,282,Irrigation,2: Good,-120.597303,39.301055
+167,Scotts Flat,Deer Creek,California,1948,53,299,2.51,60.4,1142,Irrigation,2: Good,-120.929889,39.27364
+168,Harry L. Englebright Dam,Yuba River,California,1941,85,348,2.77,86.3,66756,Other,2: Good,-121.269088,39.241269
+161,East Park,Little Stony Creek,California,1910,42,579,6.12,62.4,3837,Irrigation,2: Good,-122.51038,39.360383
+162,Lake Spaulding,South Fork of Yuba River,California,1913,84,244,1.91,92.2,7194,Water supply,2: Good,-120.642108,39.327475
+164,Virginia Ranch,Dry Creek,California,1963,46,823,3.35,70.3,3132,Irrigation,2: Good,-121.311458,39.324244
+93,Dexter,Middle Fork of Willamette River,Oregon,1955,36,843,3.43,36.9,88172,Hydroelectricity,2: Good,-122.805208,43.922071
+94,Lookout Point,Middle Fork of Willamette River,Oregon,1953,84,968,11.45,589.2,87502,Flood control,2: Good,-122.750316,43.913909
+95,Siltcoos Lake,Siltcoos River,Oregon,1964,4,40,11.96,18.6,7945,Other,2: Good,-124.112624,43.884069
+96,Tahkenitch Lake,Tahkenitch Creek,Oregon,1964,4,40,6.37,20.5,3958,Other,2: Good,-124.147263,43.806102
+89,Cougar,South Fork of Mckenzie River,Oregon,1964,158,488,2.83,270.1,19525,Hydroelectricity,2: Good,-122.240036,44.126141
+90,Fern Ridge,Long Tom River,Oregon,1941,15,2015,26.69,149.3,23230,Flood control,2: Good,-123.296875,44.117518
+91,Arthur R. Bowman,Crooked River,Oregon,1960,75,580,8.47,188.5,12392,Irrigation,2: Good,-120.78475,44.111562
+92,Fall Creek,Fall Creek,Oregon,1965,62,1539,3.29,154.2,17550,Flood control,2: Good,-122.7552,43.944837
+85,Foster,South Santiam River,Oregon,1967,38,1463,3.15,75.2,62517,Hydroelectricity,2: Good,-122.668049,44.418013
+87,Ochoco,Ochoco Creek,Oregon,1920,41,580,3,57.4,2355,Irrigation,2: Good,-120.722554,44.298084
+88,Blue River Dam,Blue River,Oregon,1968,95,381,2.39,109.8,10300,Flood control,2: Good,-122.328125,44.17358
+81,Pelton,Deschutes,Oregon,1957,62,237,1.61,39.2,143762,Hydroelectricity,2: Good,-121.231063,44.692737
+82,Round Butte,Deschutes,Oregon,1964,134,442,15.21,659.9,139455,Hydroelectricity,2: Good,-121.281138,44.601372
+83,Green Peter,Middle Santiam River,Oregon,1967,115,462,11.04,530.4,36600,Flood control,2: Good,-122.547437,44.451859
+77,North Fork,Clackamas,Oregon,1958,63,206,0.85,23,71109,Hydroelectricity,2: Good,-122.278125,45.244019
+78,Wasco,Clear Creek,Oregon,1958,18,579,1.9,14.7,785,Irrigation,2: Good,-121.690853,45.17581
+79,Timothy Lake,Oak Grove,Oregon,1956,30,226,5.47,85.1,4415,Hydroelectricity,2: Good,-121.804462,45.115163
+80,Detroit,North Santiam River,Oregon,1953,141,482,8.45,561.2,52032,Hydroelectricity,2: Good,-122.247917,44.719354
+73,Bull Run Lake Dam,Bull Run River,Oregon,1965,17,46,1.66,17.9,392,Water supply,2: Good,-121.842949,45.45963
+74,Bull Run Reservoir Dam 2,Bull Run River,Oregon,1962,44,274,1.19,30.8,12152,Water supply,2: Good,-122.147373,45.447907
+75,Trask River Dam,North Fork of Trask River,Oregon,1998,50,762,1.26,24.7,732,Water supply,2: Good,-123.396394,45.446009
+76,Lake Oswego,Offstream Tualatin River,Oregon,1921,10,37,1.3,12.1,675,Hydroelectricity,2: Good,-122.670669,45.410928
+71,Bull Run Reservoir Dam 1,Bull Run River,Oregon,1929,61,296,1.28,41.6,8707,Water supply,2: Good,-122.080702,45.48446
+72,Scoggins Reservoir,Scoggins Creek,Oregon,1975,46,823,4.04,74,4238,Irrigation,2: Good,-123.199777,45.47449
+65,Mayfield,Cowlitz River,Washington,1963,76,259,7.38,219.6,170801,Hydroelectricity,2: Good,-122.587665,46.503741
+66,Cowlitz Falls Dam,Cowlitz River,Washington,1993,43,244,1.13,18.5,137475,Hydroelectricity,2: Good,-122.100254,46.465662
+68,Swift 1,Lewis,Washington,1958,122,640,16.64,931.9,60691,Hydroelectricity,2: Good,-122.196295,46.061944
+125,Tule Lake,Cedar Creek,California,1904,5,335,10.14,48.7,169,Irrigation,2: Good,-120.369363,41.080791
+126,Iron Canyon,Iron Canyon Creek,California,1965,65,316,1.27,30,492,Water supply,2: Good,-121.984375,41.044408
+127,Pit 3,Pit River,California,1925,37,151,2.91,42.7,39946,Water supply,2: Good,-121.671875,41.022769
+128,Red Rock 1,Red Rock Creek,California,1893,19,148,2.14,12.3,254,Irrigation,2: Good,-120.136727,40.969544
+121,Shasta River,Shasta River,California,1928,29,380,5.53,61.7,4790,Irrigation,2: Good,-122.376042,41.539004
+122,Box Canyon,Sacramento River,California,1970,64,335,1.53,32.1,5790,Flood control,2: Good,-122.328648,41.282818
+123,West Valley,West Valley Creek,California,1936,20,93,2.95,28.4,448,Irrigation,2: Good,-120.411521,41.221299
+124,McCloud,McCloud River,California,1965,73,201,1.66,43.5,14994,Water supply,2: Good,-122.07314,41.132236
+117,Copco 1,Klamath River,California,1917,76,125,3.66,58,58745,Hydroelectricity,2: Good,-122.329902,41.981246
+118,Iron Gate,Klamath River,California,1962,53,226,3.69,71.5,67249,Other,2: Good,-122.434547,41.935837
+120,Big Sage,Rattlesnake Creek,California,1921,15,207,17.24,95,558,Irrigation,2: Good,-120.626835,41.580335
+113,Hyatt Dam,Keene Creek,Oregon,1921,16,580,3.02,20,324,Irrigation,2: Good,-122.467427,42.173159
+114,Emigrant,Emigrant Creek,Oregon,1923,62,580,2.21,48.1,1839,Irrigation,2: Good,-122.606267,42.159508
+115,Drews Reservoir,Drews Creek,Oregon,1914,19,183,13.74,80.2,407,Irrigation,2: Good,-120.619107,42.121418
+116,Applegate Dam,Applegate River,Oregon,1980,74,366,2.21,110.2,11932,Irrigation,2: Good,-123.113916,42.054661
+109,Cottonwood Reservoir,Cottonwood Creek,Oregon,1962,19,238,1.77,14.1,142,Irrigation,2: Good,-120.509702,42.24474
+110,Link River Diversion,Klamath River,Oregon,1921,7,579,276.63,646,54854,Hydroelectricity,2: Good,-121.811463,42.238815
+111,Howard Prairie,Jenny Creek,Oregon,1957,30,580,6.39,74.7,1173,Irrigation,2: Good,-122.378342,42.217605
+112,Gerber,Miller Creek,Oregon,1925,27,579,13.21,116.3,1341,Irrigation,2: Good,-121.125647,42.200573
+105,Thompson Valley Reservoir,Silver Creek,Oregon,1922,15,88,8.06,37.6,289,Irrigation,2: Good,-121.086072,42.959227
+106,Galesville Reservoir,Cow Creek,Oregon,1985,51,290,1.53,52.1,3601,Recreation,2: Good,-123.176785,42.84762
+107,William L. Jess,Rogue River,Oregon,1976,105,1097,11.34,616.7,34323,Flood control,2: Good,-122.672183,42.672829
+108,Four Mile Lake Dam,,Oregon,1916,17,488,2.7,40.7,378,Irrigation,2: Good,-122.244487,42.456756
+101,Wickiup Reservoir,Deschutes River,Oregon,1913,32,4317,37.84,267,25326,Irrigation,2: Good,-121.690207,43.68125
+102,Crescent Lake,Crescent Creek,Oregon,1955,12,579,15.11,107.2,3963,Irrigation,2: Good,-121.971611,43.500474
+103,Lemolo 1,North Umpqua River,Oregon,1955,37,270,1.44,14.5,11594,Hydroelectricity,2: Good,-122.19246,43.321502
+104,Berry Creek Dam,Berry Creek,Oregon,1980,45,250,0.76,18.5,1471,Water supply,2: Good,-123.556589,43.043562
+97,Dorena,Row River,Oregon,1949,47,1006,4.16,161.6,21781,Flood control,2: Good,-122.954278,43.78714
+98,Crane Prairie,Deschutes River,Oregon,1939,11,579,18.28,68.2,14724,Irrigation,2: Good,-121.793773,43.760449
+99,Cottage Grove,Coast Fork of Willamette River,Oregon,1942,31,643,2.54,61.7,7558,Flood control,2: Good,-123.05623,43.714163
+100,Hills Creek,Middle Fork of Willamette River,Oregon,1962,104,681,7.39,439.1,32820,Flood control,2: Good,-122.421703,43.708548
+11,Ketchikan Lakes,Ketchikan Creek,Alaska,1957,10,354,2.35,17,1708,Hydroelectricity,2: Good,-131.621875,55.360909
+3,Blue Lake,Sawmill Creek,Alaska,1961,44,78,4.87,179.1,8031,Hydroelectricity,2: Good,-135.200305,57.062136
+4,Green Lake,Vodopad River,Alaska,1982,64,141,4.14,115.9,7874,Hydroelectricity,2: Good,-135.112812,56.986785
+61,Alder,Nisqually River,Washington,1945,101,453,10.03,297.5,34656,Hydroelectricity,2: Good,-122.311681,46.800766
+62,Skookumchuck,Skookumchuck River,Washington,1970,49,408,1.91,74,5381,Hydroelectricity,2: Good,-122.717038,46.784269
+63,Tieton,Tieton River,Washington,1924,97,580,8.22,244.2,9112,Irrigation,2: Good,-121.128322,46.654792
+64,Mossyrock,Cowlitz River,Washington,1968,185,533,38.41,2078.4,150930,Hydroelectricity,2: Good,-122.422715,46.53478
+58,Cle Elum,Cle Elum River,Washington,1932,50,580,16.67,539,18711,Irrigation,2: Good,-121.072917,47.249008
+60,Bumping Lake,Bumping River,Washington,1909,19,582,4.79,41.6,4847,Irrigation,2: Good,-121.302083,46.86875
+54,Wynoochee,Wynoochee River,Washington,1973,53,518,3.03,93.7,7191,Water supply,2: Good,-123.604561,47.386357
+55,Keechelus,Yakima River,Washington,1916,39,584,9.2,194.9,5800,Irrigation,2: Good,-121.340171,47.323654
+49,Chelan Dam,Chelan River,Washington,1927,12,149,127.7,834,50039,Hydroelectricity,2: Good,-120.024027,47.839731
+51,Cushman 1,North Fork of Skokomish River,Washington,1926,79,339,12.96,595.5,12999,Hydroelectricity,2: Good,-123.224023,47.422917
+47,Culmback,Sultan River,Washington,1983,80,195,5.72,189,9627,Hydroelectricity,2: Good,-121.684206,47.97651
+48,Chaplain Lake South Dam,Chaplain Creek,Washington,1930,23,274,1.6,22,788,Water supply,2: Good,-121.832382,47.947917
+41,Ross,Skagit River,Washington,1949,165,396,34.98,1791.9,71572,Hydroelectricity,2: Good,-121.067305,48.732466
+42,Diablo,Skagit River,Washington,1929,119,360,2.56,111,83329,Hydroelectricity,2: Good,-121.13032,48.714583
+43,West Pass Dike,Baker River,Washington,1959,35,366,17.56,352.1,25088,Hydroelectricity,2: Good,-121.688244,48.647945
+44,Lower Baker Dam,Baker,Washington,1927,84,174,7.12,200.6,34312,Hydroelectricity,2: Good,-121.739583,48.553012
+40,Whatcom Lake Dam,Whatcom Creek,Washington,1937,6,34,18.64,95,4125,Recreation,2: Good,-122.417583,48.762097
+2045,Canada Falls,West Branch of Penobscot River,Maine,1921,15,233,6.36,33,10263,Hydroelectricity,2: Good,-69.999565,45.871088
+2046,Rainbow Lake Dam,Rainbow Stream,Maine,1930,3,136,6.38,14.9,612,Hydroelectricity,2: Good,-69.163584,45.820581
+2047,Ragged Lake,Ragged Stream,Maine,1937,9,379,9.91,49.5,2304,Hydroelectricity,2: Good,-69.332849,45.786217
+2048,Millinocket Lake,Millinocket Stream,Maine,1910,6,194,34.42,108.1,6258,Hydroelectricity,2: Good,-68.732759,45.740901
+2042,Penobscot Lake Dam,Penobscot Brook,Maine,1930,5,172,4.01,11.5,1987,Hydroelectricity,2: Good,-70.220391,45.911725
+2043,Seboomook,West Branch of Penobscot River,Maine,1936,18,131,25.1,196.1,27488,Hydroelectricity,2: Good,-69.733195,45.909781
+2044,Ripogenus,West Branch of Penobscot River,Maine,1916,25,242,110.28,1205.1,70877,Hydroelectricity,2: Good,-69.17805,45.880388
+2037,Harrington Lake Dam,Duck Brook,Maine,1930,4,581,5.31,13.3,832,Hydroelectricity,2: Good,-69.314665,46.187878
+2038,Telos Dam,Allagash Stream,Maine,1890,5,73,52.48,129.8,12066,Hydroelectricity,2: Good,-69.130878,46.142941
+2039,Loon Lake Dam,Loon Stream,Maine,1930,5,156,4.56,14.6,3176,Hydroelectricity,2: Good,-69.603112,46.130216
+2040,Sourdnahunk Dam,Nesowadnehunk Stream,Maine,1930,4,109,5.34,14.6,817,Hydroelectricity,2: Good,-69.068811,46.020505
+2034,Lock Dam,Allagash Stream,Maine,1875,4,85,52.18,129.8,14156,Hydroelectricity,2: Good,-69.290177,46.492537
+2032,Squa Pan,Squa Pan Stream,Maine,1928,11,180,20.71,110,3801,Hydroelectricity,2: Good,-68.325187,46.557489
+1951,Area C,,Florida,1969,7,5532,3.13,11.5,229,Other,2: Good,-81.984143,27.721076
+1937,Edward Medard Reservoir Dam,Little Alafia River,Florida,1977,12,2179,1.75,20.2,636,Recreation,2: Good,-82.167911,27.91879
+1935,Dam P-8,Canal P8,Florida,1965,7,15,8.29,47.2,4395,Flood control,2: Good,-81.652083,28.03628
+1922,Eugene J. Burrell Lock and Dam,Haines Creek,Florida,1957,6,152,31.24,108.5,977,Flood control,2: Good,-81.780208,28.868275
+1953,Manatee Cooling Water Reservoir,Little Manatee River,Florida,1975,24,14630,13.3,64.1,643,Other,2: Good,-82.327083,27.633982
+1954,Lake Manatee Dam,Manatee River,Florida,1967,16,1433,4.98,57.5,3901,Water supply,2: Good,-82.350901,27.496747
+1956,Martin Plant Cooling Water Reservoir,Offstream St. Lucie Canal,Florida,1981,10,27763,23.05,117.2,1159,Other,2: Good,-80.5967,27.003604
+1885,Horton Creek Reservoir Dam,Horton Creek,Georgia,1996,16,-99,3.15,22.4,259,Recreation,2: Good,-84.422917,33.319256
+1886,Lloyd Shoals,Ocmulgee,Georgia,1911,32,488,9.41,132,52085,Hydroelectricity,2: Good,-83.845533,33.320084
+1887,Lake Nicol Dam,Yellow Creek,Alabama,1954,25,244,1,12.8,1263,Water supply,2: Good,-87.482773,33.290933
+1888,Lake Tuscaloosa Dam,North River,Alabama,1971,38,390,18.05,222,22808,Water supply,2: Good,-87.507011,33.265987
+1881,Plant Wansley Main Storage Lake Dam,,Georgia,1975,37,4828,3.73,59.2,932,Water supply,2: Good,-85.033178,33.424707
+1883,Wallace,Oconee,Georgia,1980,37,730,69.96,727.8,64278,Hydroelectricity,2: Good,-83.157149,33.352754
+1884,Upper Towaliga River Dam,Towaliga River,Georgia,1988,16,-99,2.53,36.7,1058,Recreation,2: Good,-84.206404,33.330784
+1877,Spivey Lake Dam,,Georgia,1957,14,701,2.02,16.3,469,Recreation,2: Good,-84.28125,33.514875
+1878,Lake Purdy Dam,Little Cahaba River,Alabama,1964,17,65,3,32.6,2145,Water supply,2: Good,-86.667015,33.459038
+1879,North Santee Dam,Santee River,South Carolina,1942,21,11582,223.33,1517.2,561578,Flood control,2: Good,-80.16573,33.452083
+1880,Logan Martin,Coosa,Alabama,1964,43,1852,55.76,801.8,374051,Hydroelectricity,2: Good,-86.33435,33.424661
+1873,Cornish Creek Reservoir Dam,Cornish Creek,Georgia,1991,16,488,3.35,22.7,927,Water supply,2: Good,-83.802824,33.649576
+1874,Miller Steam Plant Ash Pond,Trib. Locust Fork,Alabama,1977,48,1311,0.26,11.7,14,Other,2: Good,-87.058763,33.604037
+1875,Bayview Lake,Village Creek,Alabama,1910,30,168,0.59,17.5,3701,Water supply,2: Good,-86.987236,33.572007
+1876,John C. Stennis,Tombigbee,Mississippi,1978,25,305,9.02,73.4,272854,Navigation,2: Good,-88.488172,33.519852
+1870,H. Neely Henry,Coosa,Alabama,1966,32,1434,26.3,149,323171,Hydroelectricity,2: Good,-86.056267,33.785434
+1865,Glover Wilkins,Tombigbee,Mississippi,1981,17,1951,9.6,23.5,66231,Navigation,2: Good,-88.422511,34.065793
+1866,Saluda,Saluda,South Carolina,1930,71,2377,180.93,2713.7,98072,Hydroelectricity,2: Good,-81.219554,34.051852
+1867,Lewis Smith,Sipsey Fork of Black Warrior River,Alabama,1961,91,671,62.65,2060.8,53574,Hydroelectricity,2: Good,-87.10631,33.94409
+1868,Aberdeen Dam,Tombigbee,Mississippi,1981,20,152,5.65,38.9,135363,Navigation,2: Good,-88.519826,33.832243
+1861,Buzzards Roost Embankment,Saluda River,South Carolina,1940,25,732,36.75,315.8,59015,Hydroelectricity,2: Good,-81.910108,34.173577
+1862,Allatoona Lake Dam and Powerhouse,Etowah,Georgia,1965,57,38,36.21,826.5,57607,Flood control,2: Good,-84.726313,34.164969
+1863,Buford,Chattahoochee River,Georgia,1958,70,753,133.83,3150.3,64677,Flood control,2: Good,-84.072357,34.16084
+1864,Enid Dam,Yocona River,Mississippi,1952,34,2560,59.01,1496.8,42537,Flood control,2: Good,-89.90447,34.151653
+1857,Parr Shoals Dam,Broad River,South Carolina,1914,17,828,11.74,39.5,207956,Hydroelectricity,2: Good,-81.331876,34.261911
+1858,Rocky River Dam,Rocky,South Carolina,1940,26,152,3.22,31.6,7921,Hydroelectricity,2: Good,-82.611458,34.257845
+1859,Lake Catoma Dam,Eight Mile Creek,Alabama,1966,30,549,1.37,26.4,1631,Water supply,2: Good,-86.805208,34.193191
+1860,Weiss Main Dam,Coosa,Alabama,1961,26,9387,44.33,377.8,260542,Hydroelectricity,2: Good,-85.753125,34.173958
+1917,Jackson Bluff,Ochlockonee,Florida,1928,18,1097,28.87,185,61902,Recreation,2: Good,-84.64701,30.390823
+1919,Rodman Dam and Spillway,Oklawaha River,Florida,1968,13,2187,18.56,160.4,77588,Navigation,2: Good,-81.806955,29.50779
+1920,Inglis,Withlacoochee,Florida,1909,6,15545,8.44,41.4,45896,Other,2: Good,-82.614021,29.01
+1913,Big Bay Lake,Bay Creek,Mississippi,1991,17,610,3.52,26.4,503,Recreation,2: Good,-89.567708,31.182764
+1914,Flint Creek Reservoir,Flint Creek,Mississippi,1965,16,869,1.85,19.6,537,Recreation,2: Good,-89.124606,30.874179
+1915,Big Creek Lake,Big Creek,Alabama,1952,23,1524,10.95,168.4,5728,Water supply,2: Good,-88.33551,30.714731
+1916,Jim Woodruff Dam,Apalachicola River,Florida,1952,28,2134,83.51,501,644760,Navigation,2: Good,-84.866115,30.708037
+1909,Lake Blackshear,Flint River,Georgia,1930,13,1419,27.15,178.9,121404,Hydroelectricity,2: Good,-83.942959,31.853135
+1910,Walter F. George Lock and Dam,Chattahoochee River,Alabama,1962,52,4141,126.37,1152.6,287226,Navigation,2: Good,-85.064945,31.627517
+1911,Gantt,Conecuh River,Alabama,1924,13,366,6.07,18.1,28034,Hydroelectricity,2: Good,-86.478011,31.406467
+1912,Lake Tholocco,Claybank Creek,Alabama,1935,14,732,2.21,21.7,3952,Recreation,2: Good,-85.719012,31.385648
+1906,Oliver,Chattahoochee,Georgia,1959,21,616,6.58,39.5,199867,Hydroelectricity,2: Good,-85.001975,32.515961
+1907,Dalewood Shores Lake,Ponta Creek,Mississippi,1962,10,1158,3.38,25.8,1092,Recreation,2: Good,-88.513066,32.500656
+1908,Okatibbee Dam,Okatibbee Creek,Mississippi,1968,22,2018,14.24,73.4,7429,Flood control,2: Good,-88.792326,32.474874
+1901,Bartletts Ferry Main Dam,Chattahoochee,Georgia,1926,46,1154,18.6,225.7,187501,Hydroelectricity,2: Good,-85.089661,32.665236
+1902,Jordan,Coosa,Alabama,1928,38,630,11.06,289.9,476363,Hydroelectricity,2: Good,-86.256528,32.620036
+1897,Town Creek Reservoir Dam,Town Creek,Georgia,1993,34,-99,1.44,33.1,178,Water supply,2: Good,-83.656299,32.902294
+1898,Lake Tobesofkee Dam,Tobesofkee Creek,Georgia,1965,16,262,5.56,53.1,5164,Flood control,2: Good,-83.769377,32.820643
+1899,Mitchell,Coosa,Alabama,1923,32,385,19.72,212.2,462518,Hydroelectricity,2: Good,-86.444792,32.807471
+1900,Martin,Tallapoosa,Alabama,1926,53,792,134.03,2004.4,126707,Hydroelectricity,2: Good,-85.910417,32.682016
+1893,Savannah River Steel Creek Dam,Trib. Steel Creek,South Carolina,1986,27,1219,3.82,48.9,363,Other,2: Good,-81.632592,33.161577
+1894,Sinclair,Oconee,Georgia,1953,32,911,37.95,604.4,95103,Hydroelectricity,2: Good,-83.202083,33.141394
+1895,Lay,Coosa,Alabama,1914,43,689,32.39,326.9,431940,Hydroelectricity,2: Good,-86.518663,32.965262
+1896,West Point,Chattahoochee River,Georgia,1974,37,2210,89.93,746.3,159745,Flood control,2: Good,-85.192847,32.924552
+1889,R.L. Harris,Tallapoosa,Alabama,1983,46,988,24.96,525.5,61661,Hydroelectricity,2: Good,-85.610417,33.260829
+1890,Pinopolis West Dam,Cooper River,South Carolina,1942,42,3505,220.89,1369.2,4921,Flood control,2: Good,-79.999023,33.240867
+1891,Savannah River Par Pond Lower Dam,Trib. Lower Three Runs,South Carolina,1959,20,1362,8.81,106,1299,Other,2: Good,-81.51875,33.236584
+1821,Lake Bowen Dam,Pacolet River,South Carolina,1956,17,122,5.6,39.5,4463,Water supply,2: Good,-82.020144,35.109028
+1822,Chickamauga,Tennessee River,Tennessee,1940,39,1768,110.99,909.4,1301559,Navigation,2: Good,-85.226742,35.102025
+1823,Ocoee 1,Ocoee River,Tennessee,1911,41,256,6.12,102.7,46345,Hydroelectricity,2: Good,-84.646551,35.094393
+1824,Pickwick Landing,Tennessee River,Tennessee,1938,34,2352,155.68,1363,1967736,Navigation,2: Good,-88.247429,35.069376
+1817,Apalachia,Hiwassee River,North Carolina,1943,46,399,3.4,71.3,80590,Hydroelectricity,2: Good,-84.293303,35.168026
+1818,Hiwassee,Hiwassee River,North Carolina,1940,94,419,12.39,535.3,77329,Flood control,2: Good,-84.176042,35.152638
+1819,N. Saluda Reservoir Dam,Saluda River,South Carolina,1956,53,488,3.88,113.8,1659,Water supply,2: Good,-82.406124,35.140323
+1820,Toxaway Dam Lower,Toxaway River,North Carolina,1961,18,213,1.94,26.5,685,Recreation,2: Good,-82.933089,35.124708
+1813,Lake Auman Dam,Jackson,North Carolina,1997,28,792,3.14,34.6,124,Recreation,2: Good,-79.602083,35.239826
+1814,Tillery,Pee Dee River,North Carolina,1928,27,839,19.14,206,182664,Hydroelectricity,2: Good,-80.06875,35.207212
+1815,Nantahala,Nantahala River,North Carolina,1942,76,318,4.94,155.4,6674,Hydroelectricity,2: Good,-83.653125,35.197248
+1816,Thorpe,West Fork of Tuckasegee River,North Carolina,1941,46,274,4.98,82.8,2222,Hydroelectricity,2: Good,-83.153466,35.196105
+1809,Mountain Island,Catawba,North Carolina,1923,29,419,7.07,56.7,84538,Hydroelectricity,2: Good,-80.985417,35.339583
+1810,Elk River Dam,Elk River,Tennessee,1952,27,735,13.58,125.6,13426,Water supply,2: Good,-86.093709,35.297956
+1811,Moss Lake Dam,Buffalo Creek,North Carolina,1973,30,256,4.78,65.7,2947,Water supply,2: Good,-81.456169,35.277854
+1812,Bear Creek,East Fork of Tuckasegee River,North Carolina,1954,66,232,1.26,42.7,5802,Hydroelectricity,2: Good,-83.068498,35.241953
+1805,Lake Lure Dam,Rocky Broad River,North Carolina,1927,38,146,2.78,55.4,5906,Hydroelectricity,2: Good,-82.185319,35.425826
+1806,Yadkin Narrows,Yadkin River,North Carolina,1917,65,349,22.1,176.1,168059,Hydroelectricity,2: Good,-80.09409,35.420237
+1807,Santeetlah,Cheoah River,North Carolina,1928,66,321,7.95,188.2,13119,Hydroelectricity,2: Good,-83.876792,35.376048
+1801,Fontana,Little Tennessee River,North Carolina,1944,146,721,24.89,1779.9,127280,Flood control,2: Good,-83.807292,35.453399
+1802,Cheoah,Little Tennessee River,North Carolina,1919,72,229,1.81,43.2,146613,Hydroelectricity,2: Good,-83.934611,35.44835
+1804,Cowans Ford,Catawba,North Carolina,1963,41,2663,111.96,510.8,82688,Hydroelectricity,2: Good,-80.952083,35.435689
+1797,Watts Bar,Tennessee River,Tennessee,1942,34,902,120.67,1449.3,1036748,Navigation,2: Good,-84.780208,35.623945
+1799,Calderwood,Little Tennessee River,Tennessee,1930,70,279,1.57,50.7,149677,Hydroelectricity,2: Good,-83.978413,35.494661
+1800,Normandy,Duck River,Tennessee,1976,34,835,10.62,155.5,9014,Hydroelectricity,2: Good,-86.242708,35.466245
+1793,Walters,Pigeon River,North Carolina,1929,63,274,0.92,21,27651,Hydroelectricity,2: Good,-83.047917,35.693466
+1794,Beech River Dam,Beech River,Tennessee,1963,5,107,3.25,13.7,870,Flood control,2: Good,-88.416975,35.661986
+1854,Arrowhead Lake Dam,Lost Town Creek,Georgia,1974,33,526,1.58,29.4,436,Recreation,2: Good,-84.590425,34.290859
+1855,Upper Bear Creek,Bear Creek,Alabama,1978,26,462,4.15,45.1,5663,Flood control,2: Good,-87.692356,34.27409
+1856,Fulton,Tombigbee,Mississippi,1981,18,121,5.42,16.3,12705,Navigation,2: Good,-88.426571,34.260518
+1849,Lake Robinson Dam,Black Creek,South Carolina,1960,17,1219,8.06,68.5,4752,Hydroelectricity,2: Good,-80.154879,34.402747
+1852,Wateree,Catawba River,South Carolina,1919,28,418,43.73,323.7,182271,Hydroelectricity,2: Good,-80.702952,34.336709
+1845,Jamie L. Whitten Lock and Dam,Tombigbee,Mississippi,1983,37,838,25.16,222,3785,Navigation,2: Good,-88.321875,34.524077
+1846,Little Bear Creek,Little Bear Creek,Alabama,1975,26,739,5.03,51.1,3344,Flood control,2: Good,-87.972917,34.452307
+1847,Guntersville,Tennessee River,Alabama,1939,29,1213,166.93,1293.9,1521050,Navigation,2: Good,-86.39202,34.421538
+1848,Sardis Dam,Little Tallahatchie River,Mississippi,1940,36,4663,118.58,3720.2,105082,Flood control,2: Good,-89.792634,34.407344
+1842,Fishing Creek,Catawba,South Carolina,1916,32,137,9.06,74,154839,Hydroelectricity,2: Good,-80.890625,34.60297
+1843,Cedar Creek,Cedar Creek,Alabama,1978,30,963,12.54,130.4,9790,Flood control,2: Good,-87.972741,34.54375
+1844,Rocky Creek,Catawba River,South Carolina,1909,36,558,2.49,11.9,172760,Hydroelectricity,2: Good,-80.877648,34.541573
+1837,Burton,Tallulah,Georgia,1927,41,318,8.98,133.2,9178,Hydroelectricity,2: Good,-83.54071,34.794906
+1838,Mathis and Terrora,Tallulah,Georgia,1925,34,182,2.07,38.2,11770,Hydroelectricity,2: Good,-83.419678,34.76875
+1839,Tugalo,Tallulah,Georgia,1923,47,259,1.72,53,34434,Hydroelectricity,2: Good,-83.352742,34.715414
+1840,Yonah,Tugaloo,Georgia,1925,28,299,1.04,14.4,34795,Hydroelectricity,2: Good,-83.339583,34.685749
+1833,Nottely,Nottely River,Georgia,1942,61,1193,7.23,215,17544,Flood control,2: Good,-84.090625,34.955905
+1834,Blue Ridge,Toccoa River,Georgia,1930,51,305,9.38,241.6,18031,Hydroelectricity,2: Good,-84.278125,34.881121
+1836,Keowee,Keowee,South Carolina,1971,52,1067,58.59,1178.7,29353,Hydroelectricity,2: Good,-82.889333,34.799787
+1829,Nickajack,Tennessee River,Tennessee,1967,25,1148,39.05,310.3,1379772,Navigation,2: Good,-85.618247,35.001899
+1830,Lake Robinson Dam,South Tyger River,South Carolina,1984,23,301,3.01,55.5,3301,Water supply,2: Good,-82.294902,34.995604
+1831,Blewett Falls,Pee Dee River,North Carolina,1912,23,1252,8.82,119.6,255400,Hydroelectricity,2: Good,-79.879,34.983522
+1832,Main Dam,Keowee,South Carolina,1973,117,556,29.19,1588.5,11330,Hydroelectricity,2: Good,-82.919421,34.961163
+1825,Table Rock Reservoir,South Saluda River,South Carolina,1925,46,244,1.76,37,1080,Water supply,2: Good,-82.673908,35.064704
+1826,H. Taylor Blalock Reservoir Dam,Pacolet River,South Carolina,1983,22,305,2.8,28.4,14598,Water supply,2: Good,-81.865792,35.05625
+1827,Winthrop University Dam,Catawba,South Carolina,1925,31,749,36.15,304,128743,Hydroelectricity,2: Good,-81.010741,35.022443
+1828,Chatuge,Hiwassee River,North Carolina,1942,46,1017,21.53,296.7,10952,Flood control,2: Good,-83.79203,35.016806
+1757,Lake Prince Dam,Nansemond,Virginia,1921,10,640,5.78,18.6,2863,Water supply,2: Good,-76.582922,36.800591
+1758,Philpott Dam,Smith River,Virginia,1953,67,280,8.25,392.6,9779,Hydroelectricity,2: Good,-80.028689,36.782001
+1759,Cannon Creek Dam,Yellow Creek,Kentucky,1972,38,274,0.86,13.9,208,Water supply,2: Good,-83.691103,36.684612
+1760,Lake Drummond,Lake Drummond,Virginia,1825,10,-99,12.93,27.1,3332,Navigation,2: Good,-76.448713,36.597748
+1753,Kentucky,Tennessee River,Kentucky,1944,63,2567,574.74,7560,2141379,Navigation,2: Good,-88.268652,37.010296
+1754,Laurel Dam,Laurel,Kentucky,1973,86,433,19.02,537.3,10576,Flood control,2: Good,-84.267474,36.959995
+1755,Barren River Lake Dam,Barren River,Kentucky,1964,45,1210,32,1005.5,40916,Flood control,2: Good,-86.122475,36.893486
+1756,Wolf Creek,Cumberland,Kentucky,1951,79,1748,159.47,7510.7,235609,Hydroelectricity,2: Good,-85.14375,36.867817
+1749,Mud River Dam,Mud River,Kentucky,1961,17,186,1.86,25.4,959,Flood control,2: Good,-87.032855,37.08036
+1750,Claytor,New River,Virginia,1939,42,351,14.61,286.2,111924,Hydroelectricity,2: Good,-80.586611,37.073821
+1751,Smith Mountain,Roanoke River,Virginia,1964,72,249,71.08,1408.6,33177,Hydroelectricity,2: Good,-79.536533,37.042396
+1752,Barkley Dam,Cumberland,Kentucky,1966,48,3103,255.13,2568.1,713121,Hydroelectricity,2: Good,-88.218748,37.018747
+1746,Wood Creek Lake Dam,Rockcastle River,Kentucky,1969,50,244,1.74,35.9,931,Water supply,2: Good,-84.197759,37.213029
+1748,Leesville,Roanoke River,Virginia,1963,27,299,8.88,117.1,49663,Hydroelectricity,2: Good,-79.403388,37.089571
+1741,Green River Lake Dam,Green River,Kentucky,1969,44,716,30.77,892.1,25798,Flood control,2: Good,-85.339277,37.247917
+1742,John W. Flannagan Dam,Pound River,Virginia,1963,76,279,2.78,179.7,7853,Flood control,2: Good,-82.347917,37.231204
+1743,Clifford D. Craig Memorial Dam,Trib. Roanoke River,Virginia,1994,73,297,0.41,14.1,91,Water supply,2: Good,-80.175809,37.229911
+1744,Carr Creek Lake Dam,Carr Creek,Kentucky,1975,40,219,1.81,58.8,1961,Flood control,2: Good,-83.031211,37.22716
+1737,Carvin Cove Dam,Carvins Creek,Virginia,1946,26,96,2.17,28.4,589,Water supply,2: Good,-79.957783,37.370207
+1738,Little Creek Dam,Little Creek,Virginia,1980,20,579,2.45,39.6,160,Water supply,2: Good,-76.839504,37.352308
+1740,Nolin Lake Dam,Nolin River,Kentucky,1963,51,299,17.98,751.7,24443,Flood control,2: Good,-86.246529,37.278458
+1734,Diascund Creek Dam,Diascund Creek,Virginia,1963,11,1679,3.49,35.9,1107,Water supply,2: Good,-76.902081,37.431178
+1736,Swift Creek Reservoir Dam,Swift Creek,Virginia,1965,13,338,6.1,62.4,2240,Water supply,2: Good,-77.648061,37.41899
+1729,Little Grassy Lake Dam,Little Grassy Creek,Illinois,1950,26,1122,3.19,42.3,534,Recreation,2: Good,-89.136989,37.646179
+1730,Devils Kitchen Lake Dam,Big Grassy Creek,Illinois,1960,30,204,2.14,38.9,655,Recreation,2: Good,-89.103309,37.639766
+1731,Lake of Egypt Dam,South Fork of Saline River,Illinois,1962,17,869,7.88,102.3,1112,Other,2: Good,-88.940137,37.621959
+1732,Rough River Lake Dam,Rough River,Kentucky,1959,40,485,15.7,412.5,15225,Flood control,2: Good,-86.500231,37.61843
+1789,Rhodhiss,Catawba,North Carolina,1925,22,206,6.5,83.4,54018,Hydroelectricity,2: Good,-81.439986,35.772803
+1790,Lookout Shoals,Catawba,North Carolina,1915,27,554,3.85,32.6,69358,Hydroelectricity,2: Good,-81.090611,35.757868
+1791,Catawba,Catawba River,North Carolina,1919,46,962,24.51,356.2,23518,Hydroelectricity,2: Good,-81.840625,35.744272
+1785,Tansi,Basses Creek,Tennessee,1959,20,732,1.43,19.7,221,Other,2: Good,-85.063542,35.864265
+1786,Oxford,Catawba,North Carolina,1928,37,243,13.22,157.3,63396,Hydroelectricity,2: Good,-81.194332,35.821759
+1787,Great Falls,Caney Fork River,Tennessee,1916,28,244,4.14,61.9,42427,Hydroelectricity,2: Good,-85.621457,35.801042
+1788,Tellico,Little Tennessee River,Tennessee,1979,39,987,99.83,576.8,560341,Recreation,2: Good,-84.239583,35.789583
+1783,Melton Hill,Clinch River,Tennessee,1963,31,311,17.55,155.4,161567,Navigation,2: Good,-84.296716,35.882789
+1784,Lake Tom-A-Lex Dam,Abbotts Creek,North Carolina,1957,13,194,2.28,13.8,2392,Water supply,2: Good,-80.189892,35.877422
+1777,Center Hill Dam,Caney Fork River,Tennessee,1951,76,658,59.54,2580.4,106111,Flood control,2: Good,-85.82558,36.096527
+1778,Lake Mackintosh Dam,Great Alamance Creek,North Carolina,1992,21,122,3.64,28.4,3187,Recreation,2: Good,-79.505208,36.038717
+1779,Oak Hollow Lake Dam,West Fork of Deep River,North Carolina,1971,16,442,2.47,30.2,1030,Recreation,2: Good,-79.987081,36.012116
+1773,Lake Brandt Dam,Reedy Fork,North Carolina,1920,12,779,2.9,22.7,2056,Water supply,2: Good,-79.840152,36.172392
+1774,Cherokee Saddle Dam 1,Holston River,Tennessee,1941,30,274,71.1,1900.8,176702,Flood control,2: Good,-83.497532,36.164256
+1775,J. Percy Priest Dam,Stones River,Tennessee,1967,45,828,52.84,804.2,39143,Flood control,2: Good,-86.617997,36.155261
+1769,Troublesome Creek Dam,Troublesome Creek,North Carolina,1974,14,524,2.58,26.1,1363,Water supply,2: Good,-79.661917,36.284521
+1770,Norris,Clinch River,Tennessee,1936,81,567,88.01,3147.8,134500,Flood control,2: Good,-84.09268,36.227217
+1771,Townsend Lake Dam,Reedy Fork,North Carolina,1969,12,433,5.49,40.3,2880,Water supply,2: Good,-79.732884,36.188961
+1765,Boone,South Fork of Holston River,Tennessee,1952,51,517,10.43,238.6,95625,Flood control,2: Good,-82.434375,36.438918
+1767,Watauga,Watauga River,Tennessee,1948,101,282,21.41,835.1,26646,Flood control,2: Good,-82.121993,36.3216
+1768,Old Hickory Dam,Cumberland River,Tennessee,1954,30,1143,58.47,672.2,516596,Hydroelectricity,2: Good,-86.658869,36.29189
+1761,John H. Kerr Dam,Roanoke River,Virginia,1953,44,849,180.87,4148.8,265021,Hydroelectricity,2: Good,-78.294784,36.59626
+1763,South Holston,South Fork of Holston River,Tennessee,1950,87,488,22.37,942.4,34980,Flood control,2: Good,-82.085291,36.523027
+1693,T. Nelson Elliott Dam,Broad Run,Virginia,1968,24,381,2.05,34.5,2480,Hydroelectricity,2: Good,-77.623896,38.764549
+1694,East Fork Lake Dam,East Fork of Fox River,Illinois,1972,26,1981,2.57,28,568,Water supply,2: Good,-88.080251,38.763116
+1695,West Boggs Creek Structure 1,West Boggs Creek,Indiana,1971,16,835,2.14,22.7,409,Flood control,2: Good,-86.920483,38.7229
+1696,Stephen A. Forbes State Park Lake Dam,Lost Fork Creek,Illinois,1963,14,407,1.55,19.4,574,Recreation,2: Good,-88.749369,38.71233
+1689,Newton Power Station Lake Dam,Weather Creek,Illinois,1975,16,518,5.42,61.2,1861,Recreation,2: Good,-88.303125,38.886339
+1690,Greenwood Lake Dam,First Creek,Indiana,1937,17,475,2.9,36.8,485,Flood control,2: Good,-86.868741,38.885272
+1692,Quick Creek Reservoir,Quick Creek,Indiana,1970,18,549,2.58,33.9,361,Water supply,2: Good,-85.709958,38.789107
+1687,Stingy Run Fly Ash Dam,Stingy Run,Ohio,1974,46,524,0.99,31.7,39,Other,2: Good,-82.145306,38.963885
+1688,Greenville New City Dam,Kingsbury Branch of Shoal Creek,Illinois,1969,12,366,2.5,27.6,755,Water supply,2: Good,-89.398958,38.927287
+1681,Hoosier Energy Reservoir Dam,Trib. Turtle Creek,Indiana,1980,20,335,5.53,49,1154,Water supply,2: Good,-87.52579,39.044707
+1682,Coffeen Lake Dam,Shoal Creek,Illinois,1964,21,396,3.38,44.2,426,Other,2: Good,-89.389336,39.03605
+1683,William H. Harsha Lake Dam,East Fork of Little Miami River,Ohio,1973,62,442,7.82,363.6,11788,Flood control,2: Good,-84.146664,39.021119
+1684,Monroe Lake Dam,Salt Creek,Indiana,1965,28,411,40.19,544,12669,Flood control,2: Good,-86.50046,39.007857
+1677,Grandview Lake Dam,East Fork of White Creek,Indiana,1967,25,692,1.29,14.7,84,Water supply,2: Good,-86.036919,39.148778
+1678,Lake Sara Dam,Blue Point Creek,Illinois,1957,20,495,1.8,25.2,396,Water supply,2: Good,-88.618823,39.126872
+1679,Rocky Gorge Dam,Patuxent River,Maryland,1953,41,256,1.88,27.1,5512,Water supply,2: Good,-76.876639,39.119224
+1673,Lake Lou Yaeger Dam,West Fork of Shoal Creek,Illinois,1966,16,387,5.18,54.8,2259,Water supply,2: Good,-89.600885,39.186514
+1674,Lake Glenn Shoals Dam,Middle Fork of Shoal Creek,Illinois,1978,17,436,4.04,48,1518,Water supply,2: Good,-89.477227,39.187113
+1675,Rocky Fork Lake Dam,Rocky Fork of Paint Creek,Ohio,1952,22,116,7.51,107.4,3928,Recreation,2: Good,-83.440859,39.18505
+1676,Little Seneca Dam,Little Seneca Creek,Maryland,1984,30,183,1.56,29.8,832,Water supply,2: Good,-77.299656,39.183082
+1669,Lake Lemon Dam,Beanblossom Creek,Indiana,1952,16,201,5.19,56.4,2118,Water supply,2: Good,-86.416189,39.271623
+1672,Brighton Dam,Patuxent River,Maryland,1943,24,303,2.64,33.3,3284,Water supply,2: Good,-77.007143,39.19374
+1666,Lake Mattoon Dam,Little Wabash River,Illinois,1957,14,686,3.56,27.8,1677,Water supply,2: Good,-88.481004,39.335353
+1667,Tygart Dam,Tygart River,West Virginia,1938,71,586,6.3,437.9,76001,Navigation,2: Good,-80.032311,39.312771
+1668,Sweetwater Lake Dam,Sweetwater Creek,Indiana,1965,43,475,0.73,14.4,71,Recreation,2: Good,-86.123067,39.291463
+1725,Kincaid Lake Dam,Kincaid Creek,Illinois,1972,29,299,8.27,188.7,1485,Water supply,2: Good,-89.453125,37.77845
+1726,Dewey Dam,Johns Creek of Levisa Fork,Kentucky,1949,36,278,3.27,115.1,6115,Flood control,2: Good,-82.725985,37.734423
+1727,Crab Orchard Lake Dam,Crab Orchard Creek,Illinois,1940,14,902,27.92,204.8,6232,Recreation,2: Good,-89.150465,37.719633
+1728,Cedar Lake Dam,Cedar Creek,Illinois,1974,23,515,6.45,60.9,776,Water supply,2: Good,-89.283708,37.657364
+1721,Gathright Dam,Jackson River,Virginia,1978,78,368,8.92,519.9,14635,Flood control,2: Good,-79.961544,37.948184
+1722,Lake Monticello Dam,Boston Creek,Virginia,1969,26,305,1.11,24.1,307,Recreation,2: Good,-78.299749,37.91297
+1724,Dix River Dam,Dix River,Kentucky,1925,87,518,7.28,284.3,16925,Hydroelectricity,2: Good,-84.703916,37.784284
+1717,North Anna Dam,North Anna River,Virginia,1972,27,1570,44.63,376.2,13160,Hydroelectricity,2: Good,-77.711209,38.018816
+1718,Taylorsville Lake Dam,Salt River,Kentucky,1983,49,390,10.6,359.8,13137,Flood control,2: Good,-85.302083,38.002023
+1719,Doe Valley Lake Dam,Doe Run,Kentucky,1962,30,335,1.16,19.4,1270,Water supply,2: Good,-86.114583,37.996937
+1713,Yatesville Dam,Blaine Creek,Kentucky,1988,48,261,6.98,102.7,5635,Flood control,2: Good,-82.696959,38.125451
+1714,Cave Run Lake Dam,Licking River,Kentucky,1974,45,823,27.85,757.5,25060,Flood control,2: Good,-83.530932,38.114969
+1716,Rend Lake Dam,Big Muddy River,Illinois,1971,16,3117,73.03,749.8,11662,Flood control,2: Good,-88.968937,38.037374
+1709,Summersville Dam,Gauley River,West Virginia,1965,119,695,4.82,509.9,40145,Flood control,2: Good,-80.890208,38.224185
+1710,Baldwin Plant Cooling Lake Dam,Little Doza Creek,Illinois,1968,17,418,7.98,44.8,887,Other,2: Good,-89.877557,38.216235
+1712,East Lynn Dam,East Fork of Twelvepole Creek,West Virginia,1971,34,199,3.28,101.8,3785,Flood control,2: Good,-82.386678,38.142806
+1705,Lake of the Woods Dam,Flat Run,Virginia,1968,20,450,1.79,17.5,315,Recreation,2: Good,-77.753911,38.350162
+1706,Beech Fork Lake Dam,Beech Fork of Twelve Pole Creek,West Virginia,1976,26,329,2.84,46.3,2197,Flood control,2: Good,-82.413806,38.301903
+1701,Dogwood Lake Dam,Mud Creek,Indiana,1963,16,412,4.18,45.1,472,Recreation,2: Good,-87.057307,38.537233
+1703,Patoka Lake Dam,Patoka River,Indiana,1978,44,457,32.96,372.1,5095,Flood control,2: Good,-86.706038,38.433971
+1704,Gibson Generating Plant Dam,Coffee Bayou,Indiana,1973,6,12192,11.88,53.7,381,Other,2: Good,-87.775345,38.358654
+1697,Upper Occoquan Dam,Occoquan River,Virginia,1955,22,226,3.93,41.6,20502,Water supply,2: Good,-77.277785,38.694985
+1698,Killen Station Ash Disposal Dike,Offstream Ohio River,Ohio,1982,26,4267,0.96,15.9,10,Other,2: Good,-83.468713,38.681289
+1629,Indian Lake,Calendars Run,Pennsylvania,1964,22,293,1.93,32.1,309,Recreation,2: Good,-78.872612,40.031508
+1630,Big Blue River Structure 20,Big Blue River,Indiana,1981,20,960,2.37,31.5,666,Flood control,2: Good,-85.32575,40.022009
+1632,Bailey Mine Slurry Impoundment Dam,Talley Run,Pennsylvania,1984,96,1372,0.39,26.9,5,Other,2: Good,-80.404584,39.963193
+1625,Clinton Lake Dam,Salt Creek,Illinois,1977,20,908,18.7,308.4,7234,Water supply,2: Good,-88.880147,40.140942
+1626,Hoover Dam,Big Walnut Creek,Ohio,1956,26,787,10.15,179,6481,Water supply,2: Good,-82.878519,40.111362
+1627,Salt Fork Lake Dam,Salt Fork Creek,Ohio,1968,19,457,10.26,188.6,4851,Recreation,2: Good,-81.555878,40.106278
+1628,Morse Reservoir Dam,Cicero Creek,Indiana,1955,21,457,4.6,60.8,7321,Water supply,2: Good,-86.041359,40.078656
+1621,Alum Creek Dam,Alum Creek of Big Walnut Creek,Ohio,1974,28,3109,10.43,166.3,3640,Flood control,2: Good,-82.966207,40.18728
+1623,O'Shaughnessy,Scioto,Ohio,1924,23,460,2.79,40.7,30357,Water supply,2: Good,-83.126311,40.156537
+1624,Prairie Creek Reservoir Dam,Trib. White River,Indiana,1959,19,945,4.59,45.2,1121,Water supply,2: Good,-85.292053,40.146243
+1617,Tappan Dam,Little Stillwater Creek,Ohio,1936,16,472,8.25,76,2434,Flood control,2: Good,-81.225946,40.356622
+1618,Greenlane Reservoir,Perkiomen Creek,Pennsylvania,1957,27,238,2.82,31,5094,Water supply,2: Good,-75.480303,40.342319
+1619,Clendening Dam,Brushy Fork of Stillwater Creek,Ohio,1936,20,290,6.09,66.6,2267,Flood control,2: Good,-81.279319,40.270656
+1620,Piedmont Dam,Stillwater Creek,Ohio,1937,17,533,8.46,82.3,3917,Flood control,2: Good,-81.218352,40.191827
+1613,Raystown Dam,Raystown Branch Juniata River,Pennsylvania,1973,69,518,30.78,1074.4,34216,Flood control,2: Good,-78.007947,40.434494
+1614,Apple Valley Lake Dam,Little Jelloway Creek,Ohio,1971,28,198,1.84,27.7,486,Recreation,2: Good,-82.345327,40.421689
+1609,Leesville Dam,Mcguire Creek,Ohio,1937,23,517,3.29,46.1,908,Flood control,2: Good,-81.192405,40.472917
+1610,Nockamixon,Tohickon Creek,Pennsylvania,1973,31,461,5.38,87.6,3658,Recreation,2: Good,-75.186908,40.469862
+1611,Dehart,Clarks Creek,Pennsylvania,1940,32,610,2.16,38,931,Water supply,2: Good,-76.743248,40.463779
+1612,Duck Creek Station Dam,Duck Creek,Illinois,1975,37,543,4.29,96.4,388,Other,2: Good,-89.972943,40.456143
+1605,Grand Lake St. Marys West Embankment,Beaver Creek,Ohio,1841,6,1463,49.75,185.5,2528,Recreation,2: Good,-84.572568,40.53125
+1606,Atwood Dam,Indian Fork of Conotton Creek,Ohio,1936,20,1128,5.54,61.3,2422,Flood control,2: Good,-81.277152,40.523591
+1607,Beaver Run,Beaver Run,Pennsylvania,1952,28,334,3.99,91.3,2029,Water supply,2: Good,-79.553857,40.512672
+1608,Indian Lake Dam,Great Miami River,Ohio,1852,5,1207,17.55,86.2,3614,Recreation,2: Good,-83.896997,40.478568
+1601,Two Lick Creek,Two Lick Creek,Pennsylvania,1968,35,366,1.74,28.4,4349,Water supply,2: Good,-79.097979,40.598044
+1603,J.C. Bacon Dam,Service Creek,Pennsylvania,1956,29,305,1.45,19.1,619,Water supply,2: Good,-80.347925,40.577218
+1604,Powerton Cooling Lake Dam,Offstream Illinois River,Illinois,1970,8,9510,5.71,31.6,461715,Other,2: Good,-89.71721,40.55442
+1661,Otter Lake Dam,West Fork of Otter Creek,Illinois,1969,22,308,2.72,30.5,432,Water supply,2: Good,-89.909835,39.407765
+1662,Union Lake Dam,Maurice River,New Jersey,1869,11,610,3.38,24.8,9138,Recreation,2: Good,-75.052993,39.403305
+1663,Cowan Lake Dam,Cowan Creek,Ohio,1947,19,262,2.56,30.8,1978,Recreation,2: Good,-83.92361,39.387982
+1664,Liberty Dam,North Branch of Patapsco River,Maryland,1953,53,215,6.33,218.3,6842,Water supply,2: Good,-76.891004,39.377897
+1657,Jennings Randolph,North Branch of Patapsco River,Maryland,1981,90,649,3.01,161.5,10925,Water supply,2: Good,-79.124165,39.431637
+1658,Loch Raven Dam,Gunpowder River,Maryland,1923,31,190,6.44,113.4,12756,Water supply,2: Good,-76.542814,39.431961
+1659,Lake Shelbyville Dam,Kaskaskia River,Illinois,1970,42,922,41.91,1266.2,24890,Flood control,2: Good,-88.777006,39.410509
+1660,Mill Creek Structure 1,Mill Creek,Illinois,1980,25,448,2.36,49.7,780,Flood control,2: Good,-87.798003,39.410531
+1655,Caesar Creek Lake Dam,Caesar Creek,Ohio,1976,55,808,10.44,298.7,8301,Flood control,2: Good,-84.059259,39.485819
+1656,Brookville Lake Dam,East Fork of Whitewater River,Indiana,1974,55,853,19.84,443.6,13266,Flood control,2: Good,-84.996875,39.44049
+1649,Deer Creek Dam,Deer Creek,Ohio,1968,28,1183,4.74,126.5,8363,Flood control,2: Good,-83.219675,39.620314
+1650,Tom Jenkins Dam,East Branch of Sunday Creek,Ohio,1950,26,288,2.37,33.2,913,Flood control,2: Good,-82.056248,39.539648
+1652,Deep Creek Dam,Deep Creek,Maryland,1925,26,396,14.58,178.9,2758,Hydroelectricity,2: Good,-79.389341,39.510776
+1645,Cecil M. Harden Lake Dam,Raccoon Creek,Indiana,1960,36,567,5.63,163.8,7325,Flood control,2: Good,-87.067708,39.720158
+1646,Lake Lynn Dam,Cheat River,West Virginia,1926,38,305,5.52,89.2,76391,Hydroelectricity,2: Good,-79.855467,39.718069
+1647,Sangchris Lake Dam,Trib. South Fork of Sangamon River,Illinois,1967,17,503,8.12,90,973,Water supply,2: Good,-89.468777,39.646801
+1648,Prettyboy Dam,Gunpowder Falls,Maryland,1936,47,211,4.02,111.1,3185,Water supply,2: Good,-76.711105,39.622537
+1641,Muddy Run Main Dam,Susquehanna River,Pennsylvania,1967,79,1463,1.89,74.6,488,Hydroelectricity,2: Good,-76.297887,39.818781
+1642,Lake Marburg,West Branch of Codorus Creek,Pennsylvania,1967,33,515,3.79,65.5,919,Water supply,2: Good,-76.885481,39.806101
+1643,Youghiogheny Dam,Youghiogheny River,Pennsylvania,1944,56,491,8.92,370,20830,Flood control,2: Good,-79.368247,39.796654
+1644,Spaulding Dam,Sugar Creek,Illinois,1933,15,1006,10.93,124.8,5779,Water supply,2: Good,-89.597423,39.759588
+1637,Geist Reservoir Dam,Fall Creek,Indiana,1944,13,427,5.75,74,8632,Water supply,2: Good,-85.984027,39.907497
+1639,Lake Decatur Dam,Sangamon River,Illinois,1922,10,527,10.91,71,23481,Water supply,2: Good,-88.954979,39.824071
+1640,Eagle Creek Reservoir Dam,Eagle Creek,Indiana,1967,28,1554,4.89,135.7,5187,Recreation,2: Good,-86.302474,39.823628
+1633,Geist Storage,Crum Creek,Pennsylvania,1931,23,610,1.21,16.8,1089,Water supply,2: Good,-75.394975,39.952399
+1634,Clarence J. Brown Dam,Buck Creek,Ohio,1973,30,2018,7.71,78.6,3077,Flood control,2: Good,-83.746098,39.951705
+1635,Buckeye Lake Dam,Trib. South Fork of Licking River,Ohio,1832,4,6614,10.82,24.7,575,Recreation,2: Good,-82.481244,39.927077
+1636,Senecaville Dam,Seneca Fork of Wills Creek,Ohio,1937,14,716,13.77,109.2,3643,Flood control,2: Good,-81.433961,39.924326
+1565,Mosquito Creek Dam,Mosquito Creek,Ohio,1944,14,1722,28.47,222,3649,Flood control,2: Good,-80.756341,41.302243
+1567,Lasalle Nuclear Station Cooling Lake Dam,Trib. Illinois River,Illinois,1977,13,11565,7.7,54.5,381,Other,2: Good,-88.619403,41.266756
+1568,Pikes Creek,Pikes Creek,Pennsylvania,1911,20,719,1.26,13,474,Water supply,2: Good,-76.044634,41.26622
+1561,Bridge Creek Dam,Bridge Creek,Ohio,1961,12,1463,5.56,50.9,1429,Water supply,2: Good,-81.186768,41.405407
+1563,Collins Station Cooling Lake Dam,Offstream Illinois River,Illinois,1975,8,9978,7.42,36.5,219592,Other,2: Good,-88.37148,41.363521
+1557,East Branch Dam,Clarion River,Pennsylvania,1952,56,526,3.68,127,3689,Flood control,2: Good,-78.593127,41.560781
+1559,Pymatuning,Shenango River,Pennsylvania,1933,15,732,55.19,548.9,6518,Flood control,2: Good,-80.460443,41.502108
+1560,Wallenpaupack,Lackawaxen River,Pennsylvania,1926,21,389,21,333,10777,Hydroelectricity,2: Good,-75.186347,41.456134
+1553,Kinzua Dam,Allegheny River,Pennsylvania,1965,54,584,41.41,1603.5,108198,Flood control,2: Good,-79.001281,41.838806
+1556,Twin Branch,St. Joseph,Indiana,1903,7,123,2.85,12,79087,Hydroelectricity,2: Good,-86.130551,41.667574
+1550,Cannonsville Dam,West Branch of Delaware River,New York,1964,53,853,16.29,555.1,24605,Water supply,2: Good,-75.372524,42.065029
+1545,French Landing,Huron,Michigan,1924,12,271,4.52,30.8,13690,Hydroelectricity,2: Good,-83.441089,42.213393
+1546,Ford Lake,Huron,Michigan,1932,14,204,3.67,22.2,13335,Hydroelectricity,2: Good,-83.557739,42.205833
+1547,Lake Carroll Dam,East Fork of Plum Creek,Illinois,1974,23,555,2.02,27.3,517,Recreation,2: Good,-89.892041,42.180743
+1541,Caneadea Dam,Caneadea Creek,New York,1929,43,191,1.57,33.3,2980,Recreation,2: Good,-78.187035,42.380979
+1544,Cuba Lake Dam,Oil Creek,New York,1872,17,533,1.72,20.4,1205,Recreation,2: Good,-78.277083,42.247828
+1537,Borg,Trib. Turtle Creek,Wisconsin,1935,4,61,7.76,25.9,979,Recreation,2: Good,-88.621489,42.614702
+1538,Lake Geneva,White River,Wisconsin,1912,4,91,21.35,49.3,754,Recreation,2: Good,-88.435716,42.588595
+1539,Allegan,Kalamazoo,Michigan,1936,9,407,6.21,25.5,37984,Hydroelectricity,2: Good,-85.954417,42.562597
+1540,Kent Lake Dam,Huron River,Michigan,1946,6,90,4.22,14.8,1315,Recreation,2: Good,-83.675339,42.513122
+1597,Oakdale,Tippecanoe,Indiana,1925,18,-99,5.28,50,60302,Recreation,2: Good,-86.755208,40.657388
+1598,Evergreen Lake Dam,Six Mile Creek,Illinois,1971,21,543,2.59,28.2,1040,Water supply,2: Good,-89.051042,40.647158
+1599,Little Blue Run,Little Blue Run,Pennsylvania,1977,122,640,2.39,90,99,Other,2: Good,-80.515625,40.626387
+1593,Clear Fork Reservoir Dam,Clear Fork of Mohican River,Ohio,1949,13,1042,3.74,32.7,854,Water supply,2: Good,-82.606719,40.701311
+1594,Glendale,Beaverdam Run,Pennsylvania,1960,18,549,6.54,83.9,1707,Flood control,2: Good,-78.536458,40.696288
+1595,Lake Mohawk Dam,Middle Run,Ohio,1963,13,594,2.09,16.2,208,Recreation,2: Good,-81.193735,40.672896
+1596,Lake Bloomington Dam,Money Creek,Illinois,1930,16,305,1.39,22,1842,Water supply,2: Good,-88.934202,40.660314
+1589,Bresler Upground Reservoir,Offstream McBride Ditch,Ohio,1970,11,5962,2.22,22.4,256,Water supply,2: Good,-84.239509,40.742972
+1590,Keystone Station,Plum Creek,Pennsylvania,1965,30,366,3.12,53.2,1358,Water supply,2: Good,-79.306825,40.728169
+1591,Merrill Creek Main Dam,Merrill Creek,New Jersey,1988,85,347,2.47,56.7,46,Other,2: Good,-75.102245,40.727985
+1592,Mississinewa Lake Dam,Mississinewa River,Indiana,1967,43,2438,10.74,454.4,24524,Flood control,2: Good,-85.955208,40.714103
+1585,Beltzville Dam,Pohopoco Creek,Pennsylvania,1969,54,1390,3.43,127.8,5106,Flood control,2: Good,-75.637744,40.84943
+1588,Norway,Tippecanoe,Indiana,1923,10,-99,3.04,20.2,59481,Recreation,2: Good,-86.763542,40.782325
+1581,Nimisila Reservoir Dam,Nimisila Creek,Ohio,1936,13,716,2.83,21.6,994,Water supply,2: Good,-81.529474,40.928957
+1583,Wild Creek,Wild Creek,Pennsylvania,1941,41,328,1.01,21.1,1165,Water supply,2: Good,-75.563035,40.895659
+1584,Still Creek,Still Creek,Pennsylvania,1935,26,354,1.22,14.3,375,Water supply,2: Good,-75.988646,40.858524
+1577,Findlay Upground Reservoir 2,Offstream Blanchard River,Ohio,1971,10,5342,3.26,24,703,Other,2: Good,-83.561344,41.022982
+1578,Moraine State Park,Muddy Creek,Pennsylvania,1968,17,589,11.76,120.9,2280,Recreation,2: Good,-80.121124,40.962166
+1580,Penn Forest,Wild Creek,Pennsylvania,1998,46,622,1.78,34,847,Water supply,2: Good,-75.564661,40.93174
+1573,Mineral Ridge Dam,Meander Creek,Ohio,1932,18,1061,6.63,76.5,2958,Other,2: Good,-80.781292,41.152031
+1574,Lake Milton Dam,Mahoning River,Ohio,1916,16,866,6.33,57.5,10684,Recreation,2: Good,-80.973958,41.125689
+1576,Berlin Dam,Mahoning River,Ohio,1943,29,1753,10.39,172.7,9725,Flood control,2: Good,-81.005308,41.043055
+1570,Braidwood Station Cooling Pond Dam,Kankakee River,Illinois,1979,7,16484,10.16,43.2,342,Other,2: Good,-88.242282,41.203354
+1571,Lake Rockwell Dam,Cuyahoga River,Ohio,1913,11,149,2.87,22.5,7554,Other,2: Good,-81.329489,41.18036
+1572,Michael J. Kirwan Dam,West Branch of Mahoning River,Ohio,1966,25,3018,9,153,3382,Flood control,2: Good,-81.079025,41.154381
+1501,Castle Rock,Wisconsin,Wisconsin,1950,12,5700,52.71,215.9,184423,Hydroelectricity,2: Good,-89.96057,43.865243
+1502,Upper Green Lake,Puchyan,Wisconsin,1930,2,61,31.34,49.3,2109,Recreation,2: Good,-88.964915,43.843568
+1503,Edenville,Tittabawassee,Michigan,1925,16,2011,8.57,81.7,7830,Hydroelectricity,2: Good,-84.376639,43.81499
+1504,Princeton,Fox,Wisconsin,1910,2,-99,21.44,27.1,18345,Recreation,2: Good,-89.155633,43.813764
+1499,Stillwater North Dam,Beaver River,New York,1924,17,285,21.59,222,12789,Hydroelectricity,2: Good,-75.050668,43.899439
+1500,Ludington,Lake Michigan,Michigan,1973,34,8931,3.24,101.5,4,Hydroelectricity,2: Good,-86.435417,43.890828
+1493,Neenah,Fox River,Wisconsin,1922,5,198,645.53,1356.8,136851,Flood control,2: Good,-88.45459,44.185016
+1495,Lake Lancer Dam,Sugar River,Michigan,1976,11,2187,3.61,21.6,583,Recreation,2: Good,-84.436035,44.11061
+1496,Secord,Tittabawassee,Michigan,1925,17,335,2.86,18.5,4079,Hydroelectricity,2: Good,-84.342599,44.041505
+1489,Foote,Au Sable,Michigan,1918,16,1250,5.89,37,32861,Hydroelectricity,2: Good,-83.441378,44.435318
+1490,Hodenpyl,Manistee,Michigan,1925,27,1301,6.75,85.1,24018,Hydroelectricity,2: Good,-85.81875,44.36875
+1492,Tippy,Manistee,Michigan,1918,25,253,4.04,48.7,33844,Recreation,2: Good,-85.93855,44.261933
+1486,Cooke,Au Sable,Michigan,1912,15,274,5.87,37,32780,Hydroelectricity,2: Good,-83.574447,44.476435
+1487,Loud,Au Sable,Michigan,1913,12,664,2.1,15.5,31951,Hydroelectricity,2: Good,-83.720724,44.465566
+1488,Higgins Lake Level Control Structure,The Cut,Michigan,1956,2,15,40.65,24.4,845,Recreation,2: Good,-84.672917,44.435529
+1481,Mio,Au Sable,Michigan,1917,12,646,2.58,14.8,27120,Hydroelectricity,2: Good,-84.132975,44.660548
+1482,Crystal Lake Level Control Dam,Crystal Lake Outlet,Michigan,1976,2,23,39.45,33.5,1048,Recreation,2: Good,-86.148921,44.636681
+1483,Upper and Lower Lakes Dam 1,Indian Creek,New York,1970,5,366,7.24,24.2,1884,,2: Good,-75.309926,44.582092
+1484,Alcona,Au Sable,Michigan,1924,18,1469,3.63,30.8,30687,Hydroelectricity,2: Good,-83.802154,44.564791
+1480,Du Bay,Wisconsin,Wisconsin,1942,12,2630,19.33,164.1,136107,Hydroelectricity,2: Good,-89.652083,44.66875
+1533,Deruyter Dam,Limestone Creek,New York,1863,21,488,2.18,20,261,Navigation,2: Good,-75.898958,42.826008
+1529,Skaneateles Lake Dam,Skaneateles Creek,New York,1902,7,46,34.27,135.7,3766,Water supply,2: Good,-76.42713,42.943247
+1532,Waterloo,Seneca Canal,New York,1915,17,306,173.58,292.4,26848,Hydroelectricity,2: Good,-76.863764,42.901566
+1528,Mud Lock and Canal Dam,Seneca River,New York,1912,6,152,171.19,817.8,62858,Navigation,2: Good,-76.734399,42.946116
+1521,Lewiston Reservoir Dike,Offstream Niagara,New York,1963,47,-99,7.29,115,288,Hydroelectricity,2: Good,-79.021063,43.144436
+1522,Holloway Dam,Flint River,Michigan,1954,11,1021,6.77,36.9,7976,Recreation,2: Good,-83.492631,43.122195
+1523,Okauchee Lake,Oconomowoc,Wisconsin,1961,5,137,4.24,18.5,215,Recreation,2: Good,-88.438215,43.115997
+1524,Mendota Locks,Yahara River,Wisconsin,1959,5,30,41.12,197.4,6047,Navigation,2: Good,-89.377833,43.086984
+1517,Caughdenoy Dam,Oneida River,New York,1909,15,550,206.85,315,93644,Navigation,2: Good,-76.204489,43.270696
+1519,Muskegon Waste Water Lagoons,Black Creek,Michigan,1973,6,11339,6.63,25.4,359,Other,2: Good,-86.030208,43.240522
+1514,Hinckley,West Canada Creek,New York,1914,25,1108,10.4,114.5,28989,Hydroelectricity,2: Good,-75.105878,43.314575
+1515,Prairie du Sac,Wisconsin,Wisconsin,1914,15,972,31.91,238.3,231279,Hydroelectricity,2: Good,-89.723311,43.311735
+1516,Delta Dam,Mohawk River,New York,1912,32,305,9.66,107.9,11805,Navigation,2: Good,-75.426042,43.277318
+1509,Fox Lake,Beaverdam,Wisconsin,1931,5,128,10.63,27.1,1094,Recreation,2: Good,-88.915625,43.573785
+1510,Bennetts Bridge,Salmon River,New York,1914,15,185,10.91,93,16358,Hydroelectricity,2: Good,-75.91875,43.548287
+1511,Upper Beaver Dam,Beaver Dam Creek,Wisconsin,1913,6,30,25.51,70.3,3239,Recreation,2: Good,-88.846875,43.452386
+1512,Hustisford,Rock,Wisconsin,1939,3,69,11.33,23.1,11025,Recreation,2: Good,-88.599024,43.348693
+1505,Montello,Fox,Wisconsin,1922,4,853,8.65,23.4,9134,Navigation,2: Good,-89.329031,43.786255
+1507,Sanford,Tittabawassee,Michigan,1925,11,488,5.55,18.5,20893,Hydroelectricity,2: Good,-84.380936,43.678709
+1438,Au Train,Au Train,Michigan,1910,14,600,6.41,15.2,2631,Hydroelectricity,2: Good,-86.84899,46.330472
+1434,Gribben North Tailings Basin Dam,Trib. Goose Lake Outlet,Michigan,1977,25,6706,4.04,24.5,25,Other,2: Good,-87.546554,46.415998
+1435,Bond Falls,Middle Branch of Ontonagon River,Michigan,1938,15,250,7.98,44.4,9970,Hydroelectricity,2: Good,-89.127083,46.406209
+1429,Carp River Dam,Carp River,Michigan,1942,18,213,3.93,32.2,1453,Other,2: Good,-87.668674,46.53064
+1431,Greenwood Reservoir Dam,Middle Branch of Escanaba River,Michigan,1973,18,1341,3.85,28.1,2916,Water supply,2: Good,-87.821601,46.441165
+1425,Silver Lake,Dead,Michigan,1912,9,457,5.23,41.3,1231,Hydroelectricity,2: Good,-87.836629,46.652229
+1428,Hoist,Dead,Michigan,1941,19,1097,9.8,51.4,5050,Hydroelectricity,2: Good,-87.567708,46.565274
+1421,Lake Independence Dam,Iron River,Michigan,1913,4,46,8.06,19.9,4080,Other,2: Good,-87.68233,46.810337
+1424,Victoria,West Branch of Ontonagon River,Michigan,1930,64,262,0.94,12.7,36770,Hydroelectricity,2: Good,-89.232328,46.686357
+1470,Norway Point,Thunder Bay,Michigan,1924,13,707,5.04,34,18748,Hydroelectricity,2: Good,-83.519998,45.10299
+1471,Upper South Dam,Thunder Bay,Michigan,1930,6,107,28.64,49.5,2494,Hydroelectricity,2: Good,-83.79267,45.021733
+1465,Caldron Falls,Peshtigo,Wisconsin,1924,25,381,4.12,14.2,11018,Hydroelectricity,2: Good,-88.232155,45.355943
+1466,High Falls,Peshtigo,Wisconsin,1910,25,1494,6.19,19.7,12449,Hydroelectricity,2: Good,-88.194422,45.282076
+1461,Tomahawk,Wisconsin,Wisconsin,1938,8,1036,7.59,18.7,68976,Hydroelectricity,2: Good,-89.728125,45.444666
+1459,Kings Dam,Wisconsin,Wisconsin,1910,9,56,6.34,22.4,40100,Hydroelectricity,2: Good,-89.676922,45.481156
+1453,Willow,Tomahawk,Wisconsin,1927,11,327,19.12,82.8,13367,Hydroelectricity,2: Good,-89.849549,45.707147
+1454,Rhinelander,Wisconsin,Wisconsin,1876,7,156,8.9,30.5,28848,Hydroelectricity,2: Good,-89.421875,45.644144
+1451,Groveland Dam 8,Pine Creek,Michigan,1977,18,610,1.22,13.9,385,Recreation,2: Good,-87.985015,45.948904
+1448,Carpenter Dam,Indian River,Michigan,1878,3,34,34.73,42.9,7536,Other,2: Good,-86.290167,45.992757
+1444,Way,Michigamme,Michigan,1941,22,105,18.98,154.6,25125,Hydroelectricity,2: Good,-88.237987,46.161523
+1408,South Fowl Lake,Pigeon,Minnesota,1934,5,27,10.74,38,4982,Other,2: Good,-89.996254,48.041262
+1309,Victor Braunig Dam,Arroyo Seco,Texas,1963,24,2938,4.98,39.9,79,Recreation,2: Good,-98.369034,29.24141
+1312,Palmetto Bend Dam,Navidad River,Texas,1981,19,13066,30.1,252,41598,Recreation,2: Good,-96.572867,28.890277
+1305,Medina Lake Dam,Medina River,Texas,1913,54,472,19.26,403.7,5253,Irrigation,2: Good,-98.934221,29.541074
+1306,Smithers Lake Dam,Dry Creek,Texas,1957,4,4816,8.86,23.1,937,Water supply,2: Good,-95.658496,29.478916
+1308,Calaveras Creek Dam,Calaveras Creek,Texas,1969,26,1804,11.89,120.2,604,Other,2: Good,-98.30674,29.27879
+1301,Cedar Creek Dam,Cedar Creek,Texas,1977,32,3200,9.09,109.3,137,Flood control,2: Good,-96.73111,29.915637
+1302,Canyon Lake,Guadalupe River,Texas,1964,68,1344,30.62,1393,18452,Water supply,2: Good,-98.19971,29.871728
+1298,Decker Creek Dam,Decker Creek,Texas,1967,25,1948,3.97,55.8,131,Recreation,2: Good,-97.598958,30.28599
+1299,Lake Bastrop Dam,Spicer Creek,Texas,1964,24,1219,3.02,20.9,196,Recreation,2: Good,-97.291805,30.153995
+1300,Lake Houston Dam,San Jacinto River,Texas,1954,20,2638,37.3,347.6,78872,Irrigation,2: Good,-95.132778,29.920584
+1293,Lewis Creek Dam,Lewis Creek,Texas,1969,19,3894,3.65,28.6,115,Other,2: Good,-95.541842,30.432551
+1294,Mansfield Dam,Colorado River,Texas,1942,85,2163,51.32,3975.5,89281,Irrigation,2: Good,-97.905713,30.393211
+1295,Conroe Dam,West Fork of San Jacinto River,Texas,1973,25,3444,43.7,872,10380,Irrigation,2: Good,-95.564583,30.360417
+1290,Alcoa Lake Dam,Sandy Creek,Texas,1952,16,1768,3.02,23.4,118,Flood control,2: Good,-97.049735,30.574558
+1291,Alvin Wirtz Dam,Colorado River,Texas,1951,36,1674,19.06,280,62334,Hydroelectricity,2: Good,-98.340775,30.56016
+1292,Max Starcke Dam,Colorado River,Texas,1951,30,262,2.26,10.8,63263,Hydroelectricity,2: Good,-98.257643,30.557553
+1287,Livingston Dam,Trinity River,Texas,1969,30,4109,219.58,2522.5,255379,Flood control,2: Good,-95.015625,30.632678
+1288,Gibbons Creek Dam,Gibbons Creek,Texas,1981,15,1875,8.85,101,1515,Hydroelectricity,2: Good,-96.061381,30.611943
+1281,Bundicks Creek Dam,Bundicks Creek,Louisiana,1961,14,2755,5.12,70.9,9524,Recreation,2: Good,-93.090482,30.735513
+1317,Wesley E. Seale Dam,Nueces River,Texas,1958,25,1823,59.14,655,32338,Recreation,2: Good,-97.869086,28.047561
+1314,Cooling Reservoir Dam,Offstream Colorado River,Texas,1981,16,19967,28.34,308.4,863,Flood control,2: Good,-96.019645,28.776813
+1316,Choke Canyon,Frio River,Texas,1981,39,594,55.08,1335.9,13488,Recreation,2: Good,-98.245154,28.484779
+1247,Whitney Lake,Brazos River,Texas,1951,51,5393,70.56,2590.8,52770,Water supply,2: Good,-97.370431,31.869948
+1248,Lake Brownwood Dam,Pecan Bayou,Texas,1933,37,482,17.79,552.8,4427,Recreation,2: Good,-99.0039,31.838857
+1241,Buckner Dam,Gum Creek,Texas,1957,23,1024,4.12,69.2,962,Recreation,2: Good,-95.308862,31.909552
+1238,Richland Creek Dam,Richland Creek,Texas,1987,29,9418,156.51,2150,30591,Recreation,2: Good,-96.102607,31.94808
+1233,Murvaul Bayou Dam,Murvaul Bayou,Texas,1956,16,2743,12.95,113.5,3055,Recreation,2: Good,-94.424401,32.038477
+1234,Coleman Dam,Jim Ned Creek,Texas,1966,28,1433,4.44,113.1,582,Recreation,2: Good,-99.465844,32.032716
+1235,Grand Bayou Reservoir Dam,Grand Bayou,Louisiana,1994,17,1737,9.45,81.4,4881,Water supply,2: Good,-93.214964,32.002108
+1229,Whitehouse Dam,Prairie Creek,Texas,1949,15,1435,7.91,105.8,1364,Flood control,2: Good,-95.171875,32.211713
+1230,Joe B. Hogsett Dam,Cedar Creek,Texas,1966,28,5346,118.06,1338.3,21523,Recreation,2: Good,-96.072954,32.181646
+1232,Oak Creek Dam,Oak Creek,Texas,1950,29,1158,3.46,97.9,370,Flood control,2: Good,-100.266146,32.044849
+1225,Caney Creek Dam,Caney Creek,Louisiana,1986,24,1887,19.21,154.2,2150,Recreation,2: Good,-92.493905,32.22316
+1227,Mud Creek Dam,Mud Creek,Texas,1967,18,1338,7.97,104.9,1962,Flood control,2: Good,-95.143706,32.214874
+1228,Lake Athens Dam,Flat Creek,Texas,1963,18,914,4.68,58,560,Recreation,2: Good,-95.7232,32.211886
+1221,Mitchell County Reservoir Dam,Trib. Beals Creek,Texas,1991,28,1478,3.59,62,26,Other,2: Good,-101.105154,32.241525
+1224,Red Draw Dam,Red Draw,Texas,1985,22,488,0.8,10.5,5,Other,2: Good,-101.374052,32.226319
+1218,Lake Pat Cleburne Dam,Nolan River,Texas,1964,24,1582,4.65,82.3,1235,Flood control,2: Good,-97.427188,32.285598
+1219,Martin Lake Dam,Martin Creek,Texas,1974,18,2096,17.02,224.9,3313,Recreation,2: Good,-94.54375,32.26875
+1277,Stillhouse-Hollow Dam,Lampasas River,Texas,1968,61,2963,23.46,1250.5,6496,Water supply,2: Good,-97.532714,31.023437
+1280,Buchanan Dam,Colorado River,Texas,1937,45,3349,80.48,1211.3,34336,Irrigation,2: Good,-98.415803,30.757588
+1273,Belton Dam,Leon River,Texas,1954,59,1684,42.6,2314.9,15336,Recreation,2: Good,-97.473818,31.110239
+1274,Lower Anacoco Dam,Bayou Anacoco,Louisiana,1951,14,1097,7.61,67.8,6670,Recreation,2: Good,-93.389797,31.095147
+1275,Sam Rayburn Dam And Reservoir,Angelina River,Texas,1965,40,3780,380.2,7815.6,88498,Water supply,2: Good,-94.106215,31.064744
+1276,Camp Creek Lake Dam,Camp Creek,Texas,1949,15,533,2.36,30.8,644,Recreation,2: Good,-96.286678,31.060179
+1269,Toledo Bend,Sabine,Louisiana,1966,34,3155,599.62,6287.7,193925,Hydroelectricity,2: Good,-93.566547,31.174682
+1270,Vernon Lake Dam,Bayou Anacoco,Louisiana,1961,19,1463,14.93,119.6,3747,Water supply,2: Good,-93.355208,31.178244
+1272,Indian Creek Dam,Indian Creek,Louisiana,1972,12,704,6.64,47.1,2061,Recreation,2: Good,-92.461497,31.129631
+1265,Cotile Lake Dam,Cotile Creek,Louisiana,1965,15,1798,6.67,60.7,2624,Recreation,2: Good,-92.723958,31.335643
+1266,Sterling C. Robertson Dam,Navasota River,Texas,1978,20,2521,45.33,688.1,10414,Irrigation,2: Good,-96.330328,31.327812
+1267,Kincaid Reservoir,Trib. Bayou Boeuf,Louisiana,1972,11,1585,6.7,55.8,1792,Irrigation,2: Good,-92.614682,31.281148
+1261,Houston County Lake Dam,Little Elkhart Creek,Texas,1966,19,518,4.8,33.3,1012,Recreation,2: Good,-95.601768,31.410356
+1257,Simon Freese Dam,Colorado River,Texas,1989,45,4862,47.05,666.5,9565,Recreation,2: Good,-99.669008,31.502318
+1259,Lake Creek Lake Dam,Manos Creek,Texas,1953,16,536,2.01,13.1,194,Flood control,2: Good,-96.985417,31.456916
+1260,Lake Kurth Dam,Trib. Angelina River,Texas,1960,12,2621,2.92,33.7,58,Flood control,2: Good,-94.689602,31.447889
+1253,Bayou Loco Dam,Bayou Loco,Texas,1977,23,1120,8.18,150.5,2205,Recreation,2: Good,-94.827083,31.590041
+1255,Tradinghouse Creek Dam,Tradinghouse Creek,Texas,1968,20,2316,7.06,70.3,596,Flood control,2: Good,-96.979275,31.552083
+1250,Fairfield Dam,Big Brown Creek,Texas,1969,23,1326,7.94,87.4,700,Flood control,2: Good,-96.045259,31.810417
+1251,Sibley Lake Dam,Youngs Bayou,Louisiana,1962,11,1987,6.94,69.9,1383,Water supply,2: Good,-93.111224,31.753215
+1252,Nantachie Lake Dam,Bayou Nantachie,Louisiana,1964,11,168,5.52,43.8,3650,Recreation,2: Good,-92.78125,31.610417
+1181,Iron Bridge Dam,Sabine River,Texas,1960,26,8864,137.67,2047.6,18125,Recreation,2: Good,-95.91465,32.814655
+1182,Lake Fork Dam,Lake Fork Creek,Texas,1980,25,3840,93.17,1293.3,15032,Recreation,2: Good,-95.531853,32.811369
+1183,Rockwall Forney Dam,East Fork of Trinity River,Texas,1969,21,3810,79.89,719.9,19708,Flood control,2: Good,-96.501952,32.802749
+1184,Lake Worth Dam,West Fork of Trinity River,Texas,1914,18,975,11.06,118.7,18259,Recreation,2: Good,-97.417708,32.790449
+1178,Johnson Creek Dam,Johnson Creek,Texas,1961,18,771,2.14,26.8,256,Flood control,2: Good,-94.555808,32.845254
+1179,Hubbard Creek Dam,Hubbard Creek,Texas,1962,34,3834,43.15,888.1,3798,Flood control,2: Good,-98.962026,32.825436
+1180,White Rock Dam,White Rock Creek,Texas,1911,14,777,3.9,48.6,1611,Recreation,2: Good,-96.725291,32.816257
+1173,North Lake Dam,South Fork of Grapevine Creek,Texas,1957,20,2591,2.64,29.6,150,Flood control,2: Good,-96.970317,32.939468
+1174,Ellison Creek Dam,Ellison Creek,Texas,1943,15,1768,4.75,44.4,1485,Other,2: Good,-94.727083,32.91969
+1175,Black Bayou Dam,Black Bayou,Louisiana,1955,11,427,7.19,57.4,7683,Recreation,2: Good,-93.896445,32.882747
+1176,Morris Sheppard,Brazos River,Texas,1941,57,835,50.64,686.1,21901,Water supply,2: Good,-98.428696,32.869311
+1169,Swauano Creek Dam,Swauano Creek,Texas,1975,18,1966,4.21,62,799,Flood control,2: Good,-94.834375,33.047721
+1170,Lavon Dam,East Fork of Trinity River,Texas,1953,25,5941,68.48,1136.3,14003,Recreation,2: Good,-96.469792,33.033002
+1172,Peacock Site 1-A Tailings Dam,Trib. Peacock Creek,Texas,1983,37,619,0.7,16.4,48,Other,2: Good,-94.680518,32.968956
+1167,Franklin County Dam,Big Cypress Creek,Texas,1971,23,1600,11.87,202.3,2630,Recreation,2: Good,-95.14111,33.056322
+1168,Lake Erling Dam,Bodcaw,Arkansas,1956,13,1338,21.38,170.5,13729,Water supply,2: Good,-93.523282,33.052991
+1161,Graham Dam,Salt Creek,Texas,1958,25,1311,6.07,129.5,913,Other,2: Good,-98.618771,33.135439
+1157,Lake Georgia-Pacific Dam,Trib. Saline River,Arkansas,1963,6,8041,6.39,23,657,Recreation,2: Good,-92.041937,33.250144
+1158,Lost Creek Dam,Lost Creek,Texas,1991,30,686,1.39,26.9,171,Flood control,2: Good,-98.120395,33.244067
+1159,Bridgeport Dam,West Fork of Trinity River,Texas,1931,40,610,40.03,1139.5,7585,Flood control,2: Good,-97.832817,33.221504
+1160,Lake Sulphur Springs Dam,White Oak Creek,Texas,1973,10,1408,6.4,42.8,2848,Recreation,2: Good,-95.615628,33.176339
+1155,Lake Columbia Dam,Beech Creek,Arkansas,1986,12,1951,9.72,81.5,1616,Water supply,2: Good,-93.402019,33.285474
+1156,Lake Chicot Dam North,Offstream Mississippi River,Arkansas,1942,7,764,18.04,55.6,3233,Recreation,2: Good,-91.222841,33.273254
+1215,Kepler Creek Dam,Kepler Creek,Louisiana,1958,11,610,6.66,61.7,1845,Recreation,2: Good,-93.152083,32.318569
+1216,Squaw Creek Dam,Squaw Creek,Texas,1977,48,1430,10.8,246,652,Recreation,2: Good,-97.760779,32.294346
+1209,Lake Cherokee Dam,Cherokee Bayou,Texas,1948,13,1520,9.98,124.6,4760,Recreation,2: Good,-94.603493,32.36481
+1210,Lake Leon Dam,Leon River,Texas,1954,27,1128,4.41,89.1,977,Recreation,2: Good,-98.677903,32.363548
+1211,Lake Hico,Pearl River,Mississippi,1958,11,4067,1.53,12.5,101,Other,2: Good,-90.203125,32.357458
+1212,South Prong Dam,South Prong Waxahachie Creek,Texas,1956,19,1250,1.9,29.2,464,Flood control,2: Good,-96.807717,32.342123
+1206,Brandy Branch Cooling Pond Dam,Brandy Branch,Texas,1983,24,975,4.32,47.7,131,Flood control,2: Good,-94.485417,32.432043
+1208,De Cordova Bend Dam,Brazos River,Texas,1969,26,671,23.77,296.8,38614,Irrigation,2: Good,-97.690826,32.375842
+1201,Lake J.B. Thomas Dam,Colorado River,Texas,1952,32,4420,39.22,444.1,39,Recreation,2: Good,-101.137062,32.585119
+1203,Cross Lake Dam and Spillway,Cross Bayou,Louisiana,1925,15,2256,26.22,265.2,8186,Water supply,2: Good,-93.803125,32.513774
+1198,Fort Phantom Hill Dam,Big Elm Creek,Texas,1938,26,1158,6.83,156.7,822,Flood control,2: Good,-99.673958,32.613851
+1193,Cypress Black Bayou Site 1,Cypress Bayou,Louisiana,1975,15,1859,8.53,95,5212,Recreation,2: Good,-93.660463,32.652475
+1189,Cedar Creek,Muddy Cedar Creek,Texas,1955,13,1615,2.39,24.9,332,Recreation,2: Good,-96.175476,32.729052
+1190,Lake Arlington Dam,Village Creek,Texas,1955,27,1976,6.51,127.7,1936,Other,2: Good,-97.194987,32.717495
+1191,Bayou Darbonne Dam,Bayou Darbonne,Louisiana,1961,16,745,46.94,296,64393,Recreation,2: Good,-92.340731,32.709306
+1192,Caddo Dam,Cypress Bayou,Louisiana,1914,16,1135,60.29,931.3,101899,Navigation,2: Good,-93.916361,32.707095
+1185,Lake Weatherford Dam,Clear Fork of Trinity River,Texas,1957,23,1236,3.69,46.3,1144,Irrigation,2: Good,-97.677083,32.773196
+1187,Lake Claiborne,Bayou Darbonne,Louisiana,1966,22,1676,21.59,246.7,5081,Water supply,2: Good,-92.907282,32.73608
+1188,Mountain Creek Dam,Mountain Creek,Texas,1937,14,2499,8.98,87.4,4282,Flood control,2: Good,-96.94375,32.730483
+1118,Remmel,Ouachita River,Arkansas,1925,23,277,4.62,41.1,62094,Hydroelectricity,2: Good,-92.895327,34.427549
+1120,Waurika Lake,Beaver Creek,Oklahoma,1977,32,5071,37.23,1153.9,4609,Flood control,2: Good,-98.05608,34.239978
+1114,Deep Red Run,Deep Red Creek,Oklahoma,1974,20,675,2.72,15.3,312,Flood control,2: Good,-98.885497,34.514873
+1116,Carpenter,Ouachita River,Arkansas,1932,34,355,21.07,225.9,58525,Hydroelectricity,2: Good,-93.028,34.443306
+1109,Sumner,Pecos River,New Mexico,1936,50,582,6.48,75.6,5209,Irrigation,2: Good,-104.387881,34.608174
+1110,Wildhorse Creek Site 39,Black Bear Creek,Oklahoma,1962,16,584,4.8,37.2,422,Flood control,2: Good,-97.672917,34.602083
+1111,Wildhorse Creek Site 22,Wildhorse Creek,Oklahoma,1958,16,1265,2.43,32,312,Flood control,2: Good,-97.886156,34.585895
+1112,Blakely Mountain Dam,Ouachita River,Arkansas,1953,73,335,144.35,4638.8,43813,Hydroelectricity,2: Good,-93.195081,34.574105
+1105,Bear Creek,Bear Creek,Arkansas,1938,16,366,1.34,11.3,461,Recreation,2: Good,-90.694668,34.70802
+1106,Lake Coronado Dam,Cedar Creek,Arkansas,1976,27,411,1.1,19.9,353,Recreation,2: Good,-92.953499,34.656319
+1108,Balboa,Cedar Creek,Arkansas,1986,15,1904,3.6,41.9,637,Recreation,2: Good,-92.903125,34.624221
+1103,Cherokee Sandy Site 17,Cherokee Sandy Creek,Oklahoma,1989,16,1646,3.11,32.4,416,Flood control,2: Good,-97.054833,34.745663
+1104,Lawtonka Lake,Medicine Creek,Oklahoma,1954,27,187,8.13,109.4,524,Water supply,2: Good,-98.503305,34.737284
+1097,Lake Hinkle Dam,Jones Creek,Arkansas,1971,23,314,3.59,50.6,727,Recreation,2: Good,-94.253762,34.853702
+1098,Lake Winona Dam,Alum Fork Creek,Arkansas,1938,35,853,3.76,78,1531,Water supply,2: Good,-92.847966,34.797964
+1099,Ellsworth,East Cache Creek,Oklahoma,1961,29,1189,18.81,261.4,1408,Water supply,2: Good,-98.362126,34.795341
+1100,Pauls Valley,Washington Creek,Oklahoma,1954,16,792,1.54,15.7,286,Water supply,2: Good,-97.201042,34.769937
+1093,Wister Lake,Poteau River,Oklahoma,1949,30,1737,23.71,527.3,26843,Flood control,2: Good,-94.719351,34.939583
+1095,Altus,North Fork of Red River,Oklahoma,1944,34,580,20.44,163.8,5793,Irrigation,2: Good,-99.29375,34.889583
+1096,Lake Maumelle Dam,Maumelle Creek,Arkansas,1957,20,777,34.99,272.6,4460,Water supply,2: Good,-92.489694,34.856173
+1089,Harris Brake Dam,Coffee Creek,Arkansas,1954,8,975,4.57,20.4,330,Recreation,2: Good,-92.768659,34.985226
+1090,Lake Conway Dam,Palarm Creek,Arkansas,1950,5,335,20.08,49.6,3613,Water supply,2: Good,-92.40625,34.964583
+1091,Konawa Lake,Jumper Creek,Oklahoma,1968,19,1036,4.45,50.6,202,Other,2: Good,-96.703497,34.960417
+1149,Amon G Carter Dam,Big Sandy Creek,Texas,1956,22,774,5.59,71.6,1118,Recreation,2: Good,-97.860649,33.460267
+1151,Ray Roberts Dam,Elm Fork of Trinity River,Texas,1986,43,4599,68.71,2383,10384,Water supply,2: Good,-97.052189,33.356409
+1145,Lake Kickapoo Dam,North Fork of Little Wichita River,Texas,1945,18,2499,17.62,249.2,795,Flood control,2: Good,-98.778238,33.660121
+1146,Lake Bonham Dam,Timber Creek,Texas,1969,18,1158,3.06,34.5,605,Flood control,2: Good,-96.136568,33.652035
+1147,Valley Lake Dam,Brushy Creek,Texas,1961,17,844,3.06,24.7,201,Flood control,2: Good,-96.364583,33.639583
+1141,Lake Crook Dam,Pine Creek,Texas,1923,12,945,4.09,34,1805,Recreation,2: Good,-95.568554,33.724654
+1142,Hungerrun Creek Dam,Hunger Run Creek,Arkansas,1993,27,2147,4.46,44.2,384,Fisheries,2: Good,-91.855403,33.70625
+1143,Lower White Oak Dam,White Oak Creek,Arkansas,1959,9,865,3.85,30.4,1644,Recreation,2: Good,-93.089472,33.701141
+1144,Millwood Dam,Little,Arkansas,1966,28,5350,93.21,2288,148022,Flood control,2: Good,-93.965625,33.694799
+1137,Truscott Brine Dam,South Fork of Wichita River,Texas,1983,33,4901,6.24,143.3,58,Other,2: Good,-99.835934,33.796303
+1138,Fish Creek Dam,Fish Creek,Texas,1966,28,607,3.75,77.3,994,Flood control,2: Good,-97.216223,33.772917
+1133,Farmers Creek Dam,Farmers Creek,Texas,1960,23,1134,4.5,73.6,1123,Recreation,2: Good,-97.654885,33.880186
+1134,Pat Mayse Lake,Sanders Creek,Texas,1967,29,2158,21.36,564.7,4559,Flood control,2: Good,-95.557174,33.85427
+1135,Denison Dam,Red River,Oklahoma,1944,50,5243,263.1,6406.9,194262,Flood control,2: Good,-96.573487,33.822946
+1131,Santa Rosa Dam,Beaver Creek,Texas,1929,14,981,5.02,52.1,862,Irrigation,2: Good,-99.258059,33.938239
+1132,Cane Creek,Cane Creek,Arkansas,1989,8,6401,5.48,27.9,371,Recreation,2: Good,-91.76576,33.92812
+1125,Narrows Dam,Little Missouri River,Arkansas,1950,60,287,22.41,740.8,10988,Flood control,2: Good,-93.716351,34.149561
+1121,Degray Dam,Caddo River,Arkansas,1969,74,1036,45.21,1698.6,19169,Flood control,2: Good,-93.110417,34.216058
+1123,Broken Bow Lake,Mountain Fork River,Oklahoma,1967,69,1113,54.42,1976,26800,Flood control,2: Good,-94.684146,34.147952
+1124,Dierks,Saline,Arkansas,1975,47,753,4.94,196.7,4505,Flood control,2: Good,-94.09561,34.145695
+1054,Salt-Camp Creek Site 12,Trib. Little Deep Fork Creek,Oklahoma,1968,22,719,2.33,18.1,298,Water supply,2: Good,-96.602455,35.795577
+1056,Lake Shepherd Springs Dam,Frog Bayou,Arkansas,1954,30,640,1.53,23.6,1863,Water supply,2: Good,-94.116894,35.691075
+1049,Carl Blackwell Lake,Stillwater Creek,Oklahoma,1937,22,1311,12.45,146.8,646,Water supply,2: Good,-97.191416,36.139264
+1050,Canton Lake,North Canadian River,Oklahoma,1948,21,4615,27.29,473.4,9697,Flood control,2: Good,-98.602083,36.085762
+1045,Crown Lake Dam,Bens Creek,Arkansas,1972,28,343,2.41,12,456,Recreation,2: Good,-91.742174,36.195275
+1046,Shell,Shell Creek,Oklahoma,1922,20,231,1.85,15.7,295,Water supply,2: Good,-96.180961,36.182306
+1047,Stillwater Creek Site 40,North Stillwater Creek,Oklahoma,1971,20,926,4.02,30.5,299,Water supply,2: Good,-97.177188,36.165424
+1048,Keystone Lake,Arkansas River,Oklahoma,1964,37,1402,79.63,2063.1,260936,Flood control,2: Good,-96.25625,36.152083
+1041,Chimney Rock,Salina Creek,Oklahoma,1968,58,701,2.23,27.8,125,Hydroelectricity,2: Good,-95.104519,36.256308
+1042,Norfork,North Fork of White River,Arkansas,1944,76,800,79.42,2446,64257,Flood control,2: Good,-92.238377,36.252069
+1043,Little Flint Creek Dam,Little Flint Creek,Arkansas,1977,35,914,1.38,30.1,328,Water supply,2: Good,-94.540719,36.240643
+1038,Lake Thunderbird Dam,Big Otter Creek,Arkansas,1962,26,484,0.75,14.2,305,Recreation,2: Good,-91.533051,36.304325
+1033,Beaver,White,Arkansas,1963,70,785,71.35,2407.8,36352,Flood control,2: Good,-93.849219,36.422916
+1034,Spavinaw,Spavinaw Creek,Oklahoma,1922,23,732,5.68,89.3,8741,Water supply,2: Good,-95.046645,36.384733
+1035,Eucha,Spavinaw Creek,Oklahoma,1952,29,61,9.03,146.8,8053,Water supply,2: Good,-94.933731,36.375383
+1036,Bull Shoals,White,Arkansas,1951,86,688,153.16,6670.7,226176,Flood control,2: Good,-92.572917,36.365385
+1029,Pensacola,Neosho,Oklahoma,1940,46,2001,101.64,2710,236781,Hydroelectricity,2: Good,-95.039609,36.470297
+1030,Loch Lomond Dam,Trib. Sugar Creek,Arkansas,1981,29,539,1.4,28.5,319,Recreation,2: Good,-94.31875,36.469741
+1031,Sooner,Greasy Creek,Oklahoma,1972,30,1372,21.42,431.7,400,Other,2: Good,-96.994321,36.455897
+1032,Oologah Lake,Verdigris River,Oklahoma,1963,42,1319,114.71,1923.3,93714,Flood control,2: Good,-95.679416,36.424078
+1026,Table Rock Dam,White,Missouri,1959,79,1958,118.07,4270.3,147921,Flood control,2: Good,-93.311648,36.597936
+1027,Fort Supply Lake,Wolf Creek,Oklahoma,1942,26,3848,6.58,124.2,4647,Flood control,2: Good,-99.565839,36.550855
+1085,Holdenville City Lake,Trib. Little River,Oklahoma,1931,20,636,1.34,19.2,190,Water supply,2: Good,-96.36841,35.031088
+1087,McAlester,Bull Creek,Oklahoma,1930,11,213,5.19,19.9,875,Water supply,2: Good,-95.803563,35.019699
+1088,Greenbelt Dam,Salt Fork of Red River,Texas,1968,34,2210,3.74,124,104,Recreation,2: Good,-100.898875,35.00625
+1081,Fort Cobb,Cobb Creek,Oklahoma,1958,37,587,14.41,89.5,1243,Water supply,2: Good,-98.456255,35.164589
+1082,Beaver Fork Lake Dam,Beaver Fork,Arkansas,1956,10,454,2.78,24.1,252,Water supply,2: Good,-92.448958,35.142229
+1084,Blue Mountain,Petit Jean,Arkansas,1947,35,853,11.29,318.2,13724,Flood control,2: Good,-93.651042,35.102957
+1077,Eufaula Lake,Canadian River,Oklahoma,1964,35,975,354.96,4718.6,200280,Flood control,2: Good,-95.357937,35.307952
+1078,Dardanelle Lock and Dam,Arkansas,Arkansas,1969,27,818,94.3,599.7,1167250,Navigation,2: Good,-93.172917,35.251912
+1079,Brewer Lake,Cypress Creek,Arkansas,1983,25,419,3.98,29,953,Water supply,2: Good,-92.597863,35.231364
+1080,Norman,Little River,Oklahoma,1964,44,585,20.52,453.3,4019,Water supply,2: Good,-97.219506,35.223344
+1073,Ute Dam,Canadian River,New Mexico,1963,40,1990,22.68,497.1,6946,Recreation,2: Good,-103.44804,35.351627
+1074,Shawnee City 1,Trib. South Deer Creek,Oklahoma,1936,17,783,4.1,45,311,Water supply,2: Good,-97.067708,35.347337
+1075,Robert S. Kerr Lock and Dam,Arkansas River,Oklahoma,1970,23,2204,135.41,648.4,1015982,Navigation,2: Good,-94.778828,35.346223
+1076,Stanley Draper,East Elm Creek,Oklahoma,1962,34,2210,9.4,182.6,192,Water supply,2: Good,-97.354997,35.328138
+1070,Conchas Dam,Canadian,New Mexico,1940,72,5944,31.46,874.7,4223,Flood control,2: Good,-104.191262,35.40124
+1071,Huckleberry Creek Dam,Huckleberry Creek,Arkansas,1995,34,1280,2.01,28.8,173,Water supply,2: Good,-93.189594,35.377094
+1072,Shawnee City 2,South Deer Creek,Oklahoma,1960,15,1113,2.14,23.3,190,Water supply,2: Good,-97.069211,35.35662
+1065,Ozark Water Supply Lake Dam,South Fork of White Oak Creek,Arkansas,1971,27,722,1.61,20.6,461,Water supply,2: Good,-93.843677,35.530871
+1067,Greers Ferry,Little Red,Arkansas,1962,75,519,118.45,3508,37380,Flood control,2: Good,-91.992829,35.520559
+1068,Overholser,North Canadian River,Oklahoma,1919,19,-99,6.06,38.4,13935,Water supply,2: Good,-97.668076,35.487041
+1061,Hefner,Bluff Creek,Oklahoma,1943,34,-99,9.33,132.5,171,Water supply,2: Good,-97.608768,35.579799
+1062,Okfuskee Tributary Site S-1,Salt Creek,Oklahoma,1972,24,1000,3.84,37.4,464,Water supply,2: Good,-96.10625,35.572661
+1063,Foss,Washita River,Oklahoma,1960,43,594,24.52,204.2,3327,Water supply,2: Good,-99.186521,35.543961
+1064,Okemah Lake,Buckeye Creek,Oklahoma,1962,18,366,2.51,32.3,404,Flood control,2: Good,-96.317177,35.533893
+1057,Lake Fort Smith Dam,Frog Bayou,Arkansas,1936,19,579,1.64,18.1,1981,Water supply,2: Good,-94.15052,35.662032
+1058,Okmulgee Lake,Salt Creek,Oklahoma,1928,21,634,2.01,31.9,750,Water supply,2: Good,-96.064447,35.623291
+1059,Green Leaf Lake,Greenleaf Creek,Oklahoma,1935,15,183,3.29,39.2,2161,Fisheries,2: Good,-95.1825,35.606383
+1060,Tenkiller Lake,Illinois River,Oklahoma,1952,60,1506,48.77,1518.2,36661,Flood control,2: Good,-95.037008,35.595392
+6865,Winton Dam,Kawishiwi,Minnesota,1923,20,223,22.41,216.8,38314,Hydroelectricity,2: Good,-91.763742,47.932504
+6864,Blandin Dam,Mississippi,Minnesota,1916,6,72,1.82,4.9,51594,Hydroelectricity,2: Good,-93.534719,47.231799
